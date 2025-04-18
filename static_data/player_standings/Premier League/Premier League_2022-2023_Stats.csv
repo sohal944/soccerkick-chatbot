@@ -1,0 +1,570 @@
+Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,League,Season
+Erling Haaland,no NOR,FW,Manchester City,22,2000,35,33,2769,30.8,36,8,44,29,7,7,5,0,28.4,23.0,5.3,28.3,35,58,151,Premier League,2022-2023
+Harry Kane,eng ENG,FW,Tottenham,29,1993,38,38,3405,37.8,30,3,33,25,5,6,6,0,21.4,16.7,7.0,23.7,60,180,193,Premier League,2022-2023
+Ivan Toney,eng ENG,FW,Brentford,26,1996,33,33,2951,32.8,20,4,24,14,6,7,9,0,18.7,13.2,5.1,18.3,14,79,165,Premier League,2022-2023
+Mohamed Salah,eg EGY,FW,Liverpool,30,1992,38,37,3290,36.6,19,12,31,17,2,4,2,0,21.6,18.5,7.2,25.7,120,149,421,Premier League,2022-2023
+Callum Wilson,eng ENG,FW,Newcastle Utd,30,1992,31,21,1877,20.9,18,5,23,15,3,3,4,0,17.4,15.1,2.7,17.8,27,19,118,Premier League,2022-2023
+Marcus Rashford,eng ENG,FW,Manchester Utd,24,1997,35,32,2879,32.0,17,5,22,17,0,0,2,0,15.4,15.4,3.4,18.8,85,88,245,Premier League,2022-2023
+Ollie Watkins,eng ENG,FW,Aston Villa,26,1995,37,36,3127,34.7,15,6,21,14,1,2,4,0,16.5,14.9,3.8,18.7,50,39,196,Premier League,2022-2023
+Martin Ødegaard,no NOR,MF,Arsenal,23,1998,37,37,3127,34.7,15,7,22,15,0,0,4,0,9.9,9.9,8.1,18.0,83,266,193,Premier League,2022-2023
+Gabriel Martinelli,br BRA,FW,Arsenal,21,2001,36,34,2789,31.0,15,5,20,15,0,0,3,0,9.1,9.1,9.1,18.2,124,94,350,Premier League,2022-2023
+Bukayo Saka,eng ENG,FW,Arsenal,20,2001,38,37,3181,35.3,14,11,25,12,2,3,6,0,11.2,9.1,8.5,17.6,179,109,520,Premier League,2022-2023
+Aleksandar Mitrović,rs SRB,FW,Fulham,27,1994,24,23,2008,22.3,14,1,15,10,4,8,7,0,14.9,8.6,2.3,10.9,24,44,97,Premier League,2022-2023
+Rodrigo,es ESP,"FW,MF",Leeds United,31,1991,31,23,1935,21.5,13,1,14,12,1,1,6,0,8.0,7.2,1.8,9.0,40,44,143,Premier League,2022-2023
+Harvey Barnes,eng ENG,"FW,MF",Leicester City,24,1997,34,32,2711,30.1,13,1,14,13,0,0,3,0,8.9,8.9,3.1,12.0,100,79,257,Premier League,2022-2023
+Roberto Firmino,br BRA,"FW,MF",Liverpool,30,1991,25,13,1213,13.5,11,4,15,11,0,0,0,0,5.5,5.5,2.5,8.0,16,78,96,Premier League,2022-2023
+Miguel Almirón,py PAR,FW,Newcastle Utd,28,1994,34,29,2491,27.7,11,2,13,11,0,0,2,0,8.0,8.0,3.2,11.1,77,124,264,Premier League,2022-2023
+Phil Foden,eng ENG,FW,Manchester City,22,2000,32,22,1842,20.5,11,6,17,11,0,0,1,0,5.9,5.9,4.7,10.6,68,88,275,Premier League,2022-2023
+Gabriel Jesus,br BRA,FW,Arsenal,25,1997,26,24,2064,22.9,11,6,17,10,1,1,6,0,13.9,13.1,3.9,17.0,44,64,194,Premier League,2022-2023
+James Maddison,eng ENG,"MF,FW",Leicester City,25,1996,30,28,2480,27.6,10,9,19,9,1,2,10,0,8.7,6.6,9.3,15.9,77,151,155,Premier League,2022-2023
+Son Heung-min,kr KOR,"MF,FW",Tottenham,30,1992,36,33,2888,32.1,10,6,16,10,0,0,2,0,10.1,10.1,6.5,16.6,82,79,196,Premier League,2022-2023
+Alexander Isak,se SWE,FW,Newcastle Utd,22,1999,22,17,1522,16.9,10,1,11,8,2,2,3,0,8.2,6.7,2.2,8.9,41,48,122,Premier League,2022-2023
+Eberechi Eze,eng ENG,"MF,FW",Crystal Palace,24,1998,38,30,2636,29.3,10,4,14,9,1,1,3,0,7.3,6.5,4.3,10.8,69,131,129,Premier League,2022-2023
+Taiwo Awoniyi,ng NGA,FW,Nott'ham Forest,24,1997,27,17,1404,15.6,10,1,11,10,0,0,2,0,6.6,6.6,1.1,7.7,18,12,55,Premier League,2022-2023
+Alexis Mac Allister,ar ARG,MF,Brighton,23,1998,35,31,2886,32.1,10,2,12,4,6,6,8,0,12.1,7.3,4.3,11.6,69,174,77,Premier League,2022-2023
+Bryan Mbeumo,cm CMR,FW,Brentford,22,1999,38,36,2906,32.3,9,8,17,8,1,1,5,0,9.6,8.8,7.5,16.3,66,88,235,Premier League,2022-2023
+Darwin Núñez,uy URU,FW,Liverpool,23,1999,29,19,1695,18.8,9,3,12,9,0,0,1,1,11.6,11.6,5.4,16.9,61,29,181,Premier League,2022-2023
+Pascal Groß,de GER,"MF,DF",Brighton,31,1991,37,37,3239,36.0,9,8,17,9,0,0,6,0,5.4,5.4,10.9,16.3,62,255,209,Premier League,2022-2023
+James Ward-Prowse,eng ENG,MF,Southampton,27,1994,38,38,3371,37.5,9,4,13,7,2,4,6,0,5.7,2.5,6.2,8.7,19,189,58,Premier League,2022-2023
+Julián Álvarez,ar ARG,"FW,MF",Manchester City,22,2000,31,13,1465,16.3,9,0,9,8,1,1,0,0,7.0,6.2,1.8,8.0,38,37,99,Premier League,2022-2023
+Brennan Johnson,wls WAL,"FW,MF",Nott'ham Forest,21,2001,38,33,2934,32.6,8,3,11,7,1,3,6,0,8.6,6.2,3.2,9.4,88,30,155,Premier League,2022-2023
+İlkay Gündoğan,de GER,MF,Manchester City,31,1990,31,27,2353,26.1,8,4,12,8,0,1,0,0,7.5,6.7,3.3,10.0,53,170,124,Premier League,2022-2023
+Bruno Fernandes,pt POR,"MF,FW",Manchester Utd,27,1994,37,37,3316,36.8,8,8,16,6,2,2,6,0,9.3,7.7,16.7,24.4,89,263,231,Premier League,2022-2023
+Philip Billing,dk DEN,"MF,FW",Bournemouth,26,1996,36,34,2764,30.7,7,1,8,7,0,0,5,0,4.9,4.9,3.2,8.0,37,80,101,Premier League,2022-2023
+Leandro Trossard,be BEL,"FW,MF",Brighton,27,1994,16,16,1315,14.6,7,2,9,7,0,0,1,0,4.4,4.4,2.1,6.5,40,67,118,Premier League,2022-2023
+Cody Gakpo,nl NED,"FW,MF",Liverpool,23,1999,21,17,1458,16.2,7,2,9,7,0,0,0,0,6.2,6.2,2.7,8.9,36,50,109,Premier League,2022-2023
+Kaoru Mitoma,jp JPN,"FW,MF",Brighton,25,1997,33,24,2318,25.8,7,5,12,7,0,0,0,0,8.1,8.1,6.4,14.5,143,90,260,Premier League,2022-2023
+Wilfried Zaha,ci CIV,"FW,MF",Crystal Palace,29,1992,27,27,2288,25.4,7,2,9,7,0,2,5,0,6.5,4.8,2.7,7.5,86,75,238,Premier League,2022-2023
+Kevin De Bruyne,be BEL,MF,Manchester City,31,1991,32,28,2417,26.9,7,16,23,7,0,0,1,0,5.6,5.6,13.7,19.3,100,246,245,Premier League,2022-2023
+Granit Xhaka,ch SUI,MF,Arsenal,29,1992,37,36,2993,33.3,7,7,14,7,0,0,4,0,4.7,4.7,5.2,9.9,42,196,175,Premier League,2022-2023
+Yoane Wissa,cd COD,FW,Brentford,25,1996,38,16,1606,17.8,7,3,10,7,0,0,3,0,5.7,5.7,2.5,8.2,24,27,104,Premier League,2022-2023
+Dwight McNeil,eng ENG,"FW,MF",Everton,22,1999,36,28,2498,27.8,7,3,10,7,0,0,5,0,3.5,3.5,6.1,9.6,76,69,128,Premier League,2022-2023
+Kai Havertz,de GER,"FW,MF",Chelsea,23,1999,35,30,2569,28.5,7,1,8,6,1,1,5,0,11.6,10.8,3.8,14.6,59,89,218,Premier League,2022-2023
+Solly March,eng ENG,"FW,DF",Brighton,28,1994,33,31,2715,30.2,7,7,14,7,0,0,2,0,8.1,8.1,8.4,16.5,110,135,357,Premier League,2022-2023
+Diogo Jota,pt POR,FW,Liverpool,25,1996,22,12,1131,12.6,7,4,11,7,0,0,2,0,6.5,6.5,2.1,8.6,34,30,104,Premier League,2022-2023
+Danny Ings,eng ENG,FW,Aston Villa,30,1992,18,8,824,9.2,6,0,6,4,2,2,3,0,5.3,3.8,1.2,5.0,15,12,46,Premier League,2022-2023
+Rúben Neves,pt POR,MF,Wolves,25,1997,35,33,3019,33.5,6,1,7,3,3,3,12,0,5.2,2.8,1.6,4.4,28,218,18,Premier League,2022-2023
+Anthony Martial,fr FRA,FW,Manchester Utd,26,1995,21,11,978,10.9,6,2,8,5,1,1,0,0,6.2,5.5,1.4,6.9,18,35,87,Premier League,2022-2023
+Joelinton,br BRA,"MF,FW",Newcastle Utd,25,1996,32,30,2661,29.6,6,1,7,6,0,0,12,0,7.1,7.1,2.4,9.4,64,130,150,Premier League,2022-2023
+Evan Ferguson,ie IRL,FW,Brighton,17,2004,19,10,950,10.6,6,2,8,6,0,0,1,0,5.3,5.3,0.7,6.1,11,14,58,Premier League,2022-2023
+Douglas Luiz,br BRA,MF,Aston Villa,24,1998,37,33,2927,32.5,6,6,12,6,0,0,6,1,2.8,2.8,4.4,7.2,48,148,35,Premier League,2022-2023
+Jacob Ramsey,eng ENG,"MF,FW",Aston Villa,21,2001,35,31,2636,29.3,6,7,13,6,0,0,5,0,5.0,5.0,5.1,10.1,94,98,119,Premier League,2022-2023
+Jarrod Bowen,eng ENG,"FW,MF",West Ham,25,1996,38,36,3233,35.9,6,5,11,5,1,2,2,0,8.9,7.8,7.4,15.2,101,72,213,Premier League,2022-2023
+Saïd Benrahma,dz ALG,"FW,MF",West Ham,26,1995,35,22,2069,23.0,6,3,9,2,4,4,0,0,7.0,3.9,4.5,8.4,109,82,237,Premier League,2022-2023
+Dominic Solanke,eng ENG,"FW,MF",Bournemouth,24,1997,33,32,2860,31.8,6,7,13,6,0,0,2,0,9.1,9.1,3.9,13.0,70,47,167,Premier League,2022-2023
+Danny Welbeck,eng ENG,FW,Brighton,31,1990,31,21,1854,20.6,6,3,9,6,0,0,0,0,9.4,9.4,4.3,13.7,31,49,134,Premier League,2022-2023
+Jadon Sancho,eng ENG,"FW,MF",Manchester Utd,22,2000,26,21,1686,18.7,6,3,9,6,0,0,0,0,4.2,4.2,5.0,9.2,88,76,173,Premier League,2022-2023
+Daniel Podence,pt POR,"FW,MF",Wolves,26,1995,32,20,1771,19.7,6,0,6,6,0,0,5,0,3.9,3.9,2.5,6.4,43,95,148,Premier League,2022-2023
+Raheem Sterling,eng ENG,"FW,MF",Chelsea,27,1994,28,23,1891,21.0,6,3,9,6,0,0,4,0,6.2,6.2,4.6,10.8,81,59,186,Premier League,2022-2023
+Deniz Undav,de GER,"FW,MF",Brighton,26,1996,22,6,628,7.0,5,0,5,5,0,0,2,0,4.5,4.5,1.1,5.6,12,10,40,Premier League,2022-2023
+Luis Sinisterra,co COL,FW,Leeds United,23,1999,19,13,867,9.6,5,0,5,5,0,0,3,1,3.7,3.7,0.4,4.2,30,39,84,Premier League,2022-2023
+Michail Antonio,jm JAM,FW,West Ham,32,1990,33,21,1829,20.3,5,3,8,5,0,0,2,0,6.6,6.6,1.3,7.8,49,27,120,Premier League,2022-2023
+Abdoulaye Doucouré,ml MLI,MF,Everton,29,1993,25,17,1533,17.0,5,2,7,5,0,0,6,1,2.4,2.4,2.2,4.6,23,38,66,Premier League,2022-2023
+Willian,br BRA,FW,Fulham,33,1988,27,25,2126,23.6,5,5,10,5,0,0,2,0,3.4,3.4,4.4,7.8,97,113,152,Premier League,2022-2023
+Riyad Mahrez,dz ALG,"FW,MF",Manchester City,31,1991,30,22,1920,21.3,5,10,15,4,1,1,2,0,5.6,4.8,7.0,11.8,78,76,242,Premier League,2022-2023
+Jefferson Lerma,co COL,MF,Bournemouth,27,1994,37,37,3252,36.1,5,0,5,5,0,0,7,0,2.6,2.6,2.3,4.9,22,142,30,Premier League,2022-2023
+Odsonne Édouard,fr FRA,FW,Crystal Palace,24,1998,35,20,1803,20.0,5,2,7,5,0,0,3,0,4.2,4.2,1.2,5.4,29,32,100,Premier League,2022-2023
+Jack Grealish,eng ENG,FW,Manchester City,26,1995,28,23,2055,22.8,5,7,12,5,0,0,4,0,4.6,4.6,7.1,11.7,143,100,310,Premier League,2022-2023
+Morgan Gibbs-White,eng ENG,"MF,FW",Nott'ham Forest,22,2000,35,34,2971,33.0,5,8,13,3,2,2,5,0,6.0,4.4,8.2,12.7,69,131,157,Premier League,2022-2023
+Che Adams,sct SCO,FW,Southampton,26,1996,28,23,1992,22.1,5,3,8,5,0,0,1,0,6.7,6.7,2.8,9.5,17,34,115,Premier League,2022-2023
+Jack Harrison,eng ENG,"FW,MF",Leeds United,25,1996,36,34,2708,30.1,5,7,12,5,0,0,2,0,4.7,4.7,5.1,9.8,103,103,255,Premier League,2022-2023
+Mathias Jensen,dk DEN,MF,Brentford,26,1996,37,37,2803,31.1,5,6,11,5,0,0,5,0,2.1,2.1,5.0,7.1,21,141,77,Premier League,2022-2023
+Marcus Tavernier,eng ENG,"MF,FW",Bournemouth,23,1999,23,19,1743,19.4,5,4,9,5,0,0,1,0,3.1,3.1,2.9,6.0,67,56,137,Premier League,2022-2023
+Rodrigo Bentancur,uy URU,MF,Tottenham,25,1997,18,17,1500,16.7,5,2,7,5,0,0,8,0,2.2,2.2,0.8,3.1,26,76,19,Premier League,2022-2023
+Carlos Vinícius,br BRA,FW,Fulham,27,1995,28,11,1109,12.3,5,2,7,5,0,0,3,0,3.3,3.3,0.8,4.0,9,15,46,Premier League,2022-2023
+Emi Buendía,ar ARG,"MF,FW",Aston Villa,25,1996,38,27,2412,26.8,5,2,7,5,0,0,0,0,6.3,6.3,5.7,12.0,60,138,137,Premier League,2022-2023
+Kelechi Iheanacho,ng NGA,"FW,MF",Leicester City,25,1996,28,11,1127,12.5,5,5,10,4,1,1,0,0,7.1,6.3,4.0,10.4,33,27,99,Premier League,2022-2023
+Bruno Guimarães,br BRA,MF,Newcastle Utd,24,1997,32,32,2726,30.3,4,5,9,4,0,0,7,0,2.8,2.8,4.0,6.8,41,222,42,Premier League,2022-2023
+Jordan Ayew,gh GHA,"FW,MF",Crystal Palace,30,1991,38,31,2714,30.2,4,3,7,4,0,0,5,0,3.2,3.2,3.2,6.4,83,63,174,Premier League,2022-2023
+Patrick Bamford,eng ENG,FW,Leeds United,28,1993,28,18,1515,16.8,4,2,6,4,0,2,3,0,8.5,6.9,1.0,7.9,17,23,96,Premier League,2022-2023
+Bernardo Silva,pt POR,"MF,FW",Manchester City,27,1994,34,24,2205,24.5,4,5,9,4,0,0,5,0,2.2,2.2,3.3,5.4,90,130,188,Premier League,2022-2023
+Manor Solomon,il ISR,FW,Fulham,23,1999,19,4,572,6.4,4,0,4,4,0,0,0,0,1.3,1.3,0.4,1.7,16,24,51,Premier League,2022-2023
+Andreas Pereira,br BRA,MF,Fulham,26,1996,33,33,2692,29.9,4,6,10,3,1,1,8,0,7.3,6.5,5.2,11.7,53,121,133,Premier League,2022-2023
+Leon Bailey,jm JAM,"FW,MF",Aston Villa,24,1997,33,26,1967,21.9,4,4,8,4,0,0,4,0,5.3,5.3,4.8,10.1,85,28,182,Premier League,2022-2023
+Crysencio Summerville,nl NED,FW,Leeds United,20,2001,28,12,1426,15.8,4,2,6,4,0,0,4,0,2.9,2.9,1.6,4.5,51,45,92,Premier League,2022-2023
+Antony,br BRA,FW,Manchester Utd,22,2000,25,23,1802,20.0,4,2,6,4,0,0,5,0,6.6,6.6,2.9,9.4,95,74,168,Premier League,2022-2023
+Jacob Murphy,eng ENG,FW,Newcastle Utd,27,1995,36,14,1251,13.9,4,2,6,4,0,0,0,0,3.3,3.3,2.8,6.1,67,57,141,Premier League,2022-2023
+Eddie Nketiah,eng ENG,FW,Arsenal,23,1999,30,9,1089,12.1,4,1,5,4,0,0,3,0,8.2,8.2,1.1,9.3,32,15,82,Premier League,2022-2023
+Kieffer Moore,wls WAL,FW,Bournemouth,29,1992,27,12,1279,14.2,4,0,4,4,0,0,1,0,4.4,4.4,0.3,4.7,10,23,56,Premier League,2022-2023
+João Félix,pt POR,"FW,MF",Chelsea,22,1999,16,11,941,10.5,4,0,4,4,0,0,1,1,4.9,4.9,0.5,5.4,34,47,79,Premier League,2022-2023
+Luis Díaz,co COL,FW,Liverpool,25,1997,17,11,996,11.1,4,2,6,4,0,0,2,0,2.5,2.5,1.5,4.0,39,49,116,Premier League,2022-2023
+Lucas Paquetá,br BRA,MF,West Ham,24,1997,28,27,2151,23.9,4,3,7,3,1,1,5,0,4.4,3.6,2.5,6.1,25,147,63,Premier League,2022-2023
+Bobby Reid,jm JAM,"FW,DF",Fulham,29,1993,36,29,2475,27.5,4,1,5,4,0,0,8,0,3.9,3.9,1.7,5.6,46,63,186,Premier League,2022-2023
+Declan Rice,eng ENG,MF,West Ham,23,1999,37,36,3273,36.4,4,1,5,4,0,1,5,0,2.4,1.6,3.2,4.8,89,240,37,Premier League,2022-2023
+Carlos Alcaraz,ar ARG,"MF,FW",Southampton,19,2002,18,13,1029,11.4,4,2,6,4,0,0,3,0,1.9,1.9,0.7,2.6,20,28,32,Premier League,2022-2023
+Julio Enciso,py PAR,"FW,MF",Brighton,18,2004,20,7,806,9.0,4,2,6,4,0,0,1,0,4.0,4.0,1.7,5.7,39,31,74,Premier League,2022-2023
+Josh Dasilva,eng ENG,MF,Brentford,23,1998,36,14,1389,15.4,4,2,6,4,0,0,1,0,1.5,1.5,1.4,3.0,60,62,69,Premier League,2022-2023
+Patson Daka,zm ZAM,FW,Leicester City,23,1998,30,13,1187,13.2,4,4,8,4,0,0,2,0,3.5,3.5,2.8,6.3,18,17,82,Premier League,2022-2023
+Casemiro,br BRA,MF,Manchester Utd,30,1992,28,24,2124,23.6,4,3,7,4,0,0,7,2,3.4,3.4,3.1,6.5,14,152,34,Premier League,2022-2023
+Demarai Gray,jm JAM,"FW,MF",Everton,26,1996,33,27,2507,27.9,4,1,5,2,2,2,3,0,6.2,4.7,3.8,8.5,94,46,199,Premier League,2022-2023
+Pierre Højbjerg,dk DEN,MF,Tottenham,26,1995,35,35,3131,34.8,4,5,9,4,0,0,5,0,2.0,2.0,3.1,5.1,46,235,66,Premier League,2022-2023
+Ethan Pinnock,jm JAM,DF,Brentford,29,1993,30,30,2700,30.0,3,0,3,3,0,0,0,0,3.0,3.0,1.0,4.0,2,52,16,Premier League,2022-2023
+Gianluca Scamacca,it ITA,FW,West Ham,23,1999,16,11,926,10.3,3,0,3,3,0,0,3,0,2.5,2.5,0.7,3.1,13,17,48,Premier League,2022-2023
+Jamie Vardy,eng ENG,FW,Leicester City,35,1987,37,19,1857,20.6,3,4,7,3,0,1,1,0,6.7,5.9,1.4,7.3,16,14,101,Premier League,2022-2023
+Jaidon Anthony,eng ENG,"MF,FW",Bournemouth,22,1999,30,11,1257,14.0,3,1,4,3,0,0,2,0,2.2,2.2,1.0,3.3,31,49,72,Premier League,2022-2023
+Youri Tielemans,be BEL,MF,Leicester City,25,1997,31,27,2344,26.0,3,2,5,2,1,2,4,0,2.5,0.9,4.7,5.6,35,181,56,Premier League,2022-2023
+Virgil van Dijk,nl NED,DF,Liverpool,31,1991,32,32,2835,31.5,3,1,4,3,0,0,3,0,2.6,2.6,1.2,3.8,10,127,8,Premier League,2022-2023
+Jeffrey Schlupp,gh GHA,"MF,FW",Crystal Palace,29,1992,34,30,2531,28.1,3,1,4,3,0,0,7,0,3.2,3.2,1.4,4.6,32,98,67,Premier League,2022-2023
+Harrison Reed,eng ENG,MF,Fulham,27,1995,37,35,2866,31.8,3,4,7,3,0,0,5,0,1.9,1.9,4.1,6.0,30,102,107,Premier League,2022-2023
+Pedro Porro,es ESP,"DF,MF",Tottenham,22,1999,15,13,1131,12.6,3,3,6,3,0,0,0,0,1.8,1.8,3.0,4.8,34,39,95,Premier League,2022-2023
+Mason Mount,eng ENG,"MF,FW",Chelsea,23,1999,24,20,1648,18.3,3,2,5,3,0,0,4,0,2.0,2.0,3.0,5.0,48,98,114,Premier League,2022-2023
+Reiss Nelson,eng ENG,FW,Arsenal,22,1999,11,0,212,2.4,3,2,5,3,0,0,0,0,1.1,1.1,1.4,2.4,19,6,34,Premier League,2022-2023
+Thomas Partey,gh GHA,MF,Arsenal,29,1993,33,28,2483,27.6,3,0,3,3,0,0,5,0,2.2,2.2,1.5,3.8,34,231,35,Premier League,2022-2023
+João Palhinha,pt POR,MF,Fulham,27,1995,35,35,3108,34.5,3,0,3,3,0,0,14,0,2.9,2.9,0.4,3.3,8,101,18,Premier League,2022-2023
+Gabriel Magalhães,br BRA,DF,Arsenal,24,1997,38,38,3409,37.9,3,0,3,3,0,0,5,0,5.1,5.1,0.3,5.3,18,153,16,Premier League,2022-2023
+Ben Mee,eng ENG,DF,Brentford,32,1989,37,37,3269,36.3,3,1,4,3,0,0,2,0,3.1,3.1,1.3,4.5,8,84,14,Premier League,2022-2023
+Curtis Jones,eng ENG,MF,Liverpool,21,2001,18,12,1035,11.5,3,1,4,3,0,0,2,0,1.2,1.2,1.1,2.3,31,69,75,Premier League,2022-2023
+Rasmus Kristensen,dk DEN,DF,Leeds United,25,1997,26,21,1960,21.8,3,1,4,3,0,0,4,0,0.8,0.8,1.0,1.9,15,89,70,Premier League,2022-2023
+Hwang Hee-chan,kr KOR,"FW,MF",Wolves,26,1996,27,12,1130,12.6,3,1,4,3,0,0,1,0,2.9,2.9,1.1,4.0,25,30,60,Premier League,2022-2023
+Vitaly Janelt,de GER,"MF,DF",Brentford,24,1998,35,24,2208,24.5,3,1,4,3,0,0,3,0,2.4,2.4,1.4,3.8,14,82,28,Premier League,2022-2023
+Danilo,br BRA,MF,Nott'ham Forest,21,2001,13,12,976,10.8,3,2,5,3,0,0,1,0,1.5,1.5,0.7,2.3,13,34,22,Premier League,2022-2023
+Conor Gallagher,eng ENG,MF,Chelsea,22,2000,35,18,1621,18.0,3,1,4,3,0,0,11,1,2.5,2.5,2.3,4.7,40,105,104,Premier League,2022-2023
+Anthony Gordon,eng ENG,FW,Everton,21,2001,16,12,1095,12.2,3,0,3,3,0,0,6,0,3.3,3.3,0.6,3.9,28,19,67,Premier League,2022-2023
+Pablo Fornals,es ESP,"FW,MF",West Ham,26,1996,32,17,1503,16.7,3,1,4,3,0,0,0,0,2.2,2.2,1.7,3.9,33,89,101,Premier League,2022-2023
+Alejandro Garnacho,ar ARG,"FW,MF",Manchester Utd,18,2004,19,5,569,6.3,3,2,5,3,0,0,3,0,3.0,3.0,1.0,4.1,33,12,85,Premier League,2022-2023
+Joe Willock,eng ENG,MF,Newcastle Utd,22,1999,35,31,2558,28.4,3,6,9,3,0,0,1,0,7.0,7.0,6.0,13.0,97,121,152,Premier League,2022-2023
+Kiernan Dewsbury-Hall,eng ENG,MF,Leicester City,23,1998,31,28,2306,25.6,2,2,4,2,0,0,5,1,2.4,2.4,3.3,5.6,68,132,91,Premier League,2022-2023
+Theo Walcott,eng ENG,"FW,MF",Southampton,33,1989,20,13,1129,12.5,2,2,4,2,0,0,1,0,2.2,2.2,2.0,4.2,21,14,62,Premier League,2022-2023
+Emmanuel Dennis,ng NGA,"FW,MF",Nott'ham Forest,24,1997,19,6,720,8.0,2,2,4,2,0,0,3,0,1.9,1.9,0.6,2.4,24,17,63,Premier League,2022-2023
+Matías Viña,uy URU,DF,Bournemouth,24,1997,12,5,458,5.1,2,0,2,2,0,0,1,0,0.9,0.9,0.2,1.0,10,17,19,Premier League,2022-2023
+Eric Dier,eng ENG,DF,Tottenham,28,1994,33,31,2818,31.3,2,1,3,2,0,0,3,0,1.6,1.6,1.2,2.8,9,87,14,Premier League,2022-2023
+Trent Alexander-Arnold,eng ENG,DF,Liverpool,23,1998,37,34,2923,32.5,2,9,11,2,0,0,5,0,2.4,2.4,11.5,13.8,43,235,139,Premier League,2022-2023
+Bertrand Traoré,bf BFA,"FW,MF",Aston Villa,26,1995,8,1,233,2.6,2,0,2,2,0,0,1,0,0.7,0.7,0.1,0.8,9,9,28,Premier League,2022-2023
+Adam Armstrong,eng ENG,"FW,MF",Southampton,25,1997,30,14,1335,14.8,2,1,3,2,0,0,2,0,2.1,2.1,1.3,3.3,39,16,70,Premier League,2022-2023
+Adama Traoré,es ESP,"FW,MF",Wolves,26,1996,34,12,1496,16.6,2,1,3,2,0,0,2,0,1.4,1.4,3.7,5.1,85,36,157,Premier League,2022-2023
+Stuart Armstrong,sct SCO,"MF,FW",Southampton,30,1992,32,14,1408,15.6,2,1,3,2,0,0,6,0,2.4,2.4,2.2,4.7,61,75,88,Premier League,2022-2023
+Romain Perraud,fr FRA,DF,Southampton,24,1997,29,22,1835,20.4,2,2,4,2,0,0,4,0,1.3,1.3,1.9,3.2,33,62,122,Premier League,2022-2023
+Wilfried Gnonto,it ITA,"FW,MF",Leeds United,18,2003,24,14,1354,15.0,2,4,6,2,0,0,7,0,1.8,1.8,2.2,4.0,66,35,136,Premier League,2022-2023
+Michael Olise,fr FRA,"FW,MF",Crystal Palace,20,2001,37,31,2749,30.5,2,11,13,2,0,0,2,0,2.9,2.9,8.7,11.6,111,133,243,Premier League,2022-2023
+Marcos Senesi,ar ARG,DF,Bournemouth,25,1997,31,29,2491,27.7,2,0,2,2,0,0,7,0,1.6,1.6,0.5,2.1,9,66,3,Premier League,2022-2023
+Matheus Cunha,br BRA,FW,Wolves,23,1999,17,12,965,10.7,2,0,2,2,0,0,1,0,2.0,2.0,0.6,2.6,16,14,43,Premier League,2022-2023
+Luke Ayling,eng ENG,DF,Leeds United,30,1991,29,22,2054,22.8,2,1,3,2,0,0,3,0,3.2,3.2,2.0,5.2,28,77,100,Premier League,2022-2023
+Ryan Sessegnon,eng ENG,DF,Tottenham,22,2000,17,9,813,9.0,2,0,2,2,0,0,4,0,1.6,1.6,1.1,2.7,24,22,64,Premier League,2022-2023
+Ben Davies,wls WAL,DF,Tottenham,29,1993,31,26,2288,25.4,2,2,4,2,0,0,4,0,1.0,1.0,2.5,3.5,39,107,69,Premier League,2022-2023
+Tomáš Souček,cz CZE,MF,West Ham,27,1995,36,32,2815,31.3,2,3,5,2,0,0,3,0,4.0,4.0,1.9,6.0,11,88,52,Premier League,2022-2023
+Emerson,br BRA,DF,Tottenham,23,1999,26,20,1735,19.3,2,1,3,2,0,0,2,1,1.7,1.7,0.6,2.3,47,80,103,Premier League,2022-2023
+John Stones,eng ENG,"DF,MF",Manchester City,28,1994,23,21,1846,20.5,2,2,4,2,0,0,2,0,1.0,1.0,1.4,2.4,28,101,34,Premier League,2022-2023
+Pascal Struijk,nl NED,DF,Leeds United,22,1999,29,26,2200,24.4,2,1,3,2,0,0,5,0,1.4,1.4,2.4,3.7,24,119,53,Premier League,2022-2023
+Kamaldeen Sulemana,gh GHA,"FW,MF",Southampton,20,2002,18,10,966,10.7,2,1,3,2,0,0,1,0,1.7,1.7,1.3,3.0,32,36,80,Premier League,2022-2023
+Alex Iwobi,ng NGA,"MF,FW",Everton,26,1996,38,38,3378,37.5,2,7,9,2,0,0,2,0,2.5,2.5,6.1,8.5,90,194,145,Premier League,2022-2023
+Daniel James,wls WAL,FW,Fulham,24,1997,20,5,621,6.9,2,1,3,2,0,0,0,0,1.7,1.7,0.7,2.5,24,15,48,Premier League,2022-2023
+Joe Aribo,ng NGA,"MF,FW",Southampton,26,1996,21,13,1224,13.6,2,0,2,2,0,0,2,0,1.5,1.5,0.8,2.3,19,39,64,Premier League,2022-2023
+Nayef Aguerd,ma MAR,DF,West Ham,26,1996,18,17,1595,17.7,2,0,2,2,0,0,4,0,2.2,2.2,0.5,2.7,2,25,4,Premier League,2022-2023
+Chris Wood,nz NZL,FW,Newcastle Utd,30,1991,18,4,446,5.0,2,0,2,1,1,1,0,0,1.8,1.0,0.3,1.3,1,4,23,Premier League,2022-2023
+Kalidou Koulibaly,sn SEN,DF,Chelsea,31,1991,23,20,1800,20.0,2,1,3,2,0,0,7,1,0.9,0.9,0.4,1.4,10,81,4,Premier League,2022-2023
+Adam Lallana,eng ENG,"MF,FW",Brighton,34,1988,16,12,722,8.0,2,1,3,2,0,0,0,0,0.9,0.9,1.0,1.9,10,33,43,Premier League,2022-2023
+Harry Wilson,wls WAL,FW,Fulham,25,1997,29,13,1100,12.2,2,3,5,2,0,0,1,0,2.0,2.0,0.9,2.9,18,37,87,Premier League,2022-2023
+Kurt Zouma,fr FRA,DF,West Ham,27,1994,25,24,1989,22.1,2,0,2,2,0,0,0,0,2.2,2.2,0.1,2.3,3,31,1,Premier League,2022-2023
+Ben White,eng ENG,DF,Arsenal,24,1997,38,36,3055,33.9,2,5,7,2,0,0,5,0,1.3,1.3,3.2,4.5,64,249,124,Premier League,2022-2023
+Jorginho,it ITA,MF,Chelsea,30,1991,18,15,1279,14.2,2,0,2,0,2,2,4,0,1.7,0.1,0.4,0.5,13,80,10,Premier League,2022-2023
+Ben Chilwell,eng ENG,"DF,MF",Chelsea,25,1996,23,15,1408,15.6,2,2,4,2,0,0,3,0,1.4,1.4,2.2,3.7,43,41,131,Premier League,2022-2023
+Jean-Philippe Mateta,fr FRA,FW,Crystal Palace,25,1997,29,6,770,8.6,2,0,2,2,0,0,3,0,3.4,3.4,0.6,4.0,9,6,43,Premier League,2022-2023
+Rodri,es ESP,MF,Manchester City,26,1996,36,34,2911,32.3,2,6,8,2,0,0,5,0,4.6,4.6,4.1,8.7,76,260,37,Premier League,2022-2023
+Fred,br BRA,MF,Manchester Utd,29,1993,35,12,1249,13.9,2,2,4,2,0,0,6,0,2.0,2.0,2.9,4.9,10,76,50,Premier League,2022-2023
+William Saliba,fr FRA,DF,Arsenal,21,2001,27,27,2415,26.8,2,1,3,2,0,0,4,0,0.9,0.9,1.2,2.1,13,99,2,Premier League,2022-2023
+Dominic Calvert-Lewin,eng ENG,FW,Everton,25,1997,17,15,1165,12.9,2,1,3,1,1,1,3,0,5.8,5.0,0.8,5.9,18,15,56,Premier League,2022-2023
+João Cancelo,pt POR,DF,Manchester City,28,1994,17,16,1274,14.2,2,1,3,2,0,0,3,1,0.8,0.8,0.9,1.7,73,106,125,Premier League,2022-2023
+Fabio Carvalho,pt POR,"MF,FW",Liverpool,19,2002,13,4,347,3.9,2,0,2,2,0,0,0,0,1.1,1.1,0.1,1.2,9,12,26,Premier League,2022-2023
+Timothy Castagne,be BEL,DF,Leicester City,26,1995,37,36,3254,36.2,2,3,5,2,0,0,3,0,2.2,2.2,2.6,4.8,39,106,149,Premier League,2022-2023
+Dejan Kulusevski,se SWE,"MF,FW",Tottenham,22,2000,30,23,2067,23.0,2,7,9,2,0,0,2,0,2.5,2.5,4.6,7.2,87,67,195,Premier League,2022-2023
+Yerry Mina,co COL,DF,Everton,27,1994,7,7,594,6.6,2,0,2,2,0,0,2,0,1.5,1.5,0.1,1.6,1,13,3,Premier League,2022-2023
+Danny Ings,eng ENG,FW,West Ham,30,1992,17,7,775,8.6,2,2,4,2,0,0,1,0,3.0,3.0,1.0,4.0,9,12,44,Premier League,2022-2023
+Tom Cairney,sct SCO,MF,Fulham,31,1991,33,6,988,11.0,2,0,2,2,0,0,2,0,1.5,1.5,1.4,2.9,34,92,57,Premier League,2022-2023
+Leandro Trossard,be BEL,FW,Arsenal,27,1994,20,10,931,10.3,1,10,11,1,0,0,0,0,1.8,1.8,4.7,6.6,36,57,102,Premier League,2022-2023
+Brenden Aaronson,us USA,"MF,FW",Leeds United,21,2000,36,28,2372,26.4,1,3,4,1,0,0,2,0,3.9,3.9,4.2,8.1,43,86,151,Premier League,2022-2023
+Joel Ward,eng ENG,DF,Crystal Palace,32,1989,28,24,2256,25.1,1,0,1,1,0,0,6,0,1.1,1.1,0.4,1.5,22,101,46,Premier League,2022-2023
+Kyle Walker-Peters,eng ENG,DF,Southampton,25,1997,31,30,2650,29.4,1,0,1,1,0,0,4,0,1.0,1.0,1.4,2.5,102,97,114,Premier League,2022-2023
+Ashley Young,eng ENG,DF,Aston Villa,37,1985,29,23,2036,22.6,1,0,1,1,0,0,7,0,0.5,0.5,1.0,1.4,29,107,33,Premier League,2022-2023
+Kieran Trippier,eng ENG,DF,Newcastle Utd,31,1990,38,38,3341,37.1,1,7,8,1,0,0,5,0,0.9,0.9,12.4,13.3,45,260,151,Premier League,2022-2023
+Lucas Digne,fr FRA,DF,Aston Villa,29,1993,28,18,1502,16.7,1,0,1,1,0,0,5,0,0.4,0.4,1.9,2.3,29,57,89,Premier League,2022-2023
+Issa Diop,fr FRA,DF,Fulham,25,1997,25,21,2012,22.4,1,0,1,1,0,0,2,0,0.3,0.3,0.4,0.7,13,70,4,Premier League,2022-2023
+Kenny Tete,nl NED,DF,Fulham,26,1995,31,29,2569,28.5,1,5,6,1,0,0,8,0,0.7,0.7,1.9,2.6,75,103,69,Premier League,2022-2023
+James Tomkins,eng ENG,DF,Crystal Palace,33,1989,6,3,338,3.8,1,0,1,1,0,0,3,1,1.0,1.0,0.0,1.0,1,2,1,Premier League,2022-2023
+Fabio Vieira,pt POR,"MF,FW",Arsenal,22,2000,22,3,514,5.7,1,2,3,1,0,0,0,0,0.8,0.8,2.5,3.3,8,35,40,Premier League,2022-2023
+Pierre-Emerick Aubameyang,ga GAB,FW,Chelsea,33,1989,15,5,554,6.2,1,0,1,1,0,0,1,0,1.5,1.5,0.4,1.9,9,3,29,Premier League,2022-2023
+Matt Doherty,ie IRL,"DF,MF",Tottenham,30,1992,12,7,667,7.4,1,0,1,1,0,0,0,0,0.8,0.8,0.3,1.0,16,20,57,Premier League,2022-2023
+Diogo Dalot,pt POR,DF,Manchester Utd,23,1999,26,24,2154,23.9,1,2,3,1,0,0,6,0,2.5,2.5,1.9,4.4,46,92,85,Premier League,2022-2023
+Wout Faes,be BEL,DF,Leicester City,24,1998,31,31,2786,31.0,1,2,3,1,0,0,6,1,1.2,1.2,0.6,1.8,11,74,2,Premier League,2022-2023
+Junior Firpo,do DOM,DF,Leeds United,25,1996,19,14,1368,15.2,1,1,2,1,0,0,6,1,0.1,0.1,0.8,0.9,20,54,34,Premier League,2022-2023
+Marc Roca,es ESP,MF,Leeds United,25,1996,32,29,2315,25.7,1,2,3,1,0,0,7,0,2.1,2.1,2.9,5.0,25,172,28,Premier League,2022-2023
+Richarlison,br BRA,"MF,FW",Tottenham,25,1997,27,12,1010,11.2,1,3,4,1,0,0,3,0,3.3,3.3,2.2,5.5,33,28,75,Premier League,2022-2023
+Christian Pulisic,us USA,"FW,DF",Chelsea,23,1998,24,8,821,9.1,1,1,2,1,0,0,1,0,1.7,1.7,0.7,2.3,35,23,76,Premier League,2022-2023
+Tim Ream,us USA,DF,Fulham,34,1987,33,33,2897,32.2,1,0,1,1,0,0,2,0,0.3,0.3,0.1,0.4,28,142,2,Premier League,2022-2023
+Allan Saint-Maximin,fr FRA,FW,Newcastle Utd,25,1997,25,12,1120,12.4,1,5,6,1,0,0,1,0,1.6,1.6,4.6,6.2,93,69,111,Premier League,2022-2023
+Wesley Fofana,fr FRA,DF,Chelsea,21,2000,15,12,1183,13.1,1,0,1,1,0,0,3,0,0.7,0.7,0.1,0.8,29,43,12,Premier League,2022-2023
+Luke Shaw,eng ENG,DF,Manchester Utd,27,1995,31,30,2552,28.4,1,2,3,1,0,0,8,0,1.1,1.1,3.6,4.7,53,140,76,Premier League,2022-2023
+Arnaut Danjuma,nl NED,"FW,MF",Tottenham,25,1997,9,1,169,1.9,1,0,1,1,0,0,0,0,0.8,0.8,0.0,0.9,5,2,19,Premier League,2022-2023
+Fabian Schär,ch SUI,DF,Newcastle Utd,30,1991,36,36,3206,35.6,1,3,4,1,0,0,7,0,4.9,4.9,3.3,8.2,27,139,32,Premier League,2022-2023
+Antoine Semenyo,gh GHA,"FW,MF",Bournemouth,22,2000,11,2,258,2.9,1,0,1,1,0,0,0,0,0.3,0.3,0.1,0.4,5,5,11,Premier League,2022-2023
+Çağlar Söyüncü,tr TUR,DF,Leicester City,26,1996,7,6,529,5.9,1,0,1,1,0,0,2,0,0.4,0.4,0.1,0.5,5,12,0,Premier League,2022-2023
+Lewis Dunk,eng ENG,DF,Brighton,30,1991,36,36,3239,36.0,1,0,1,1,0,0,4,0,1.7,1.7,1.0,2.7,19,158,5,Premier League,2022-2023
+Mohamed Elyounoussi,no NOR,"MF,FW",Southampton,27,1994,33,27,2168,24.1,1,1,2,1,0,0,4,0,3.5,3.5,2.1,5.6,56,50,98,Premier League,2022-2023
+Oliver Skipp,eng ENG,MF,Tottenham,21,2000,23,18,1491,16.6,1,0,1,1,0,0,7,0,0.3,0.3,0.6,0.9,14,56,25,Premier League,2022-2023
+Ellis Simms,eng ENG,FW,Everton,21,2001,11,2,228,2.5,1,0,1,1,0,0,0,0,0.9,0.9,0.1,0.9,2,4,19,Premier League,2022-2023
+Serge Aurier,ci CIV,DF,Nott'ham Forest,29,1992,24,22,1943,21.6,1,0,1,1,0,0,2,0,0.8,0.8,1.0,1.8,37,71,50,Premier League,2022-2023
+Benoît Badiashile,fr FRA,DF,Chelsea,21,2001,11,10,905,10.1,1,0,1,1,0,0,2,0,1.2,1.2,0.5,1.6,11,56,2,Premier League,2022-2023
+Stefan Bajcetic,es ESP,MF,Liverpool,17,2004,11,6,526,5.8,1,0,1,1,0,0,2,0,0.8,0.8,0.4,1.2,10,24,1,Premier League,2022-2023
+Harvey Elliott,eng ENG,"MF,FW",Liverpool,19,2003,32,18,1613,17.9,1,2,3,1,0,0,2,0,2.1,2.1,3.5,5.6,54,142,129,Premier League,2022-2023
+Pervis Estupiñán,ec ECU,DF,Brighton,24,1998,35,31,2675,29.7,1,5,6,1,0,0,4,0,1.7,1.7,5.4,7.1,91,157,183,Premier League,2022-2023
+Christian Eriksen,dk DEN,MF,Manchester Utd,30,1992,28,25,2048,22.8,1,8,9,1,0,0,3,0,5.0,5.0,4.2,9.2,23,164,66,Premier League,2022-2023
+James Tarkowski,eng ENG,DF,Everton,29,1992,38,38,3420,38.0,1,1,2,1,0,0,6,0,3.1,3.1,2.9,6.0,13,106,11,Premier League,2022-2023
+Sam Surridge,eng ENG,FW,Nott'ham Forest,24,1998,20,1,323,3.6,1,0,1,1,0,0,2,0,1.8,1.8,0.1,1.8,2,6,17,Premier League,2022-2023
+Tetê,br BRA,FW,Leicester City,22,2000,13,9,734,8.2,1,0,1,1,0,0,0,0,1.8,1.8,0.4,2.2,22,26,55,Premier League,2022-2023
+Christian Nørgaard,dk DEN,MF,Brentford,28,1994,22,21,1763,19.6,1,3,4,1,0,0,6,0,1.6,1.6,3.1,4.7,4,73,8,Premier League,2022-2023
+Matheus Nunes,pt POR,MF,Wolves,23,1998,34,30,2467,27.4,1,1,2,1,0,0,2,1,2.4,2.4,2.2,4.7,59,84,129,Premier League,2022-2023
+João Gomes,br BRA,MF,Wolves,21,2001,11,7,653,7.3,1,0,1,1,0,0,5,0,0.3,0.3,0.2,0.4,7,19,8,Premier League,2022-2023
+Lewis O'Brien,eng ENG,MF,Nott'ham Forest,23,1998,13,6,584,6.5,1,0,1,1,0,0,2,0,0.3,0.3,0.2,0.5,13,21,3,Premier League,2022-2023
+Gonçalo Guedes,pt POR,"FW,MF",Wolves,25,1996,13,8,707,7.9,1,1,2,1,0,0,1,0,1.2,1.2,0.5,1.7,20,16,54,Premier League,2022-2023
+Sam Greenwood,eng ENG,"MF,FW",Leeds United,20,2002,18,3,424,4.7,1,2,3,1,0,0,1,0,0.7,0.7,1.1,1.8,7,15,10,Premier League,2022-2023
+Anthony Gordon,eng ENG,"FW,MF",Newcastle Utd,21,2001,16,4,487,5.4,1,0,1,1,0,0,1,0,1.7,1.7,0.9,2.6,20,15,45,Premier League,2022-2023
+Toti Gomes,pt POR,DF,Wolves,23,1999,17,10,984,10.9,1,0,1,1,0,0,6,0,0.4,0.4,0.3,0.7,4,27,23,Premier League,2022-2023
+Marc Guéhi,eng ENG,DF,Crystal Palace,22,2000,37,37,3329,37.0,1,0,1,1,0,0,8,0,1.5,1.5,0.5,1.9,17,106,3,Premier League,2022-2023
+Amadou Onana,be BEL,MF,Everton,20,2001,33,29,2488,27.6,1,2,3,1,0,0,9,0,3.0,3.0,2.6,5.6,27,79,49,Premier League,2022-2023
+Dango Ouattara,bf BFA,"MF,FW",Bournemouth,20,2002,19,15,1241,13.8,1,3,4,1,0,0,1,0,3.6,3.6,2.5,6.1,39,23,87,Premier League,2022-2023
+Alex Oxlade-Chamberlain,eng ENG,"FW,MF",Liverpool,28,1993,9,4,335,3.7,1,0,1,1,0,0,0,0,1.2,1.2,0.6,1.8,11,14,28,Premier League,2022-2023
+Dennis Praet,be BEL,"MF,FW",Leicester City,28,1994,22,6,649,7.2,1,0,1,1,0,0,1,0,1.0,1.0,0.5,1.5,15,17,42,Premier League,2022-2023
+Ivan Perišić,hr CRO,"DF,MF",Tottenham,33,1989,34,23,2108,23.4,1,8,9,1,0,0,6,0,2.6,2.6,6.1,8.8,87,61,181,Premier League,2022-2023
+Ricardo Pereira,pt POR,"DF,MF",Leicester City,28,1993,10,5,454,5.0,1,1,2,1,0,0,2,0,0.1,0.1,0.6,0.7,5,27,14,Premier League,2022-2023
+Emerson Palmieri,it ITA,DF,West Ham,27,1994,22,16,1320,14.7,1,0,1,1,0,0,2,0,0.8,0.8,0.9,1.7,39,45,57,Premier League,2022-2023
+Pablo Sarabia,es ESP,"FW,MF",Wolves,30,1992,13,9,765,8.5,1,0,1,1,0,0,3,0,3.1,3.1,0.8,3.9,17,41,54,Premier League,2022-2023
+Cristiano Ronaldo,pt POR,FW,Manchester Utd,37,1985,10,4,525,5.8,1,0,1,1,0,0,2,0,1.9,1.9,0.4,2.3,9,12,33,Premier League,2022-2023
+Craig Dawson,eng ENG,DF,Wolves,32,1990,17,17,1414,15.7,1,0,1,1,0,0,4,0,1.0,1.0,0.0,1.0,5,44,1,Premier League,2022-2023
+Lucas Moura,br BRA,"MF,DF",Tottenham,29,1992,15,0,153,1.7,1,0,1,1,0,0,0,1,0.5,0.5,0.3,0.9,4,13,15,Premier League,2022-2023
+Scott McTominay,sct SCO,MF,Manchester Utd,25,1996,24,10,1160,12.9,1,0,1,1,0,0,8,0,1.9,1.9,0.6,2.5,20,33,19,Premier League,2022-2023
+Nampalys Mendy,sn SEN,MF,Leicester City,30,1992,19,7,757,8.4,1,0,1,1,0,0,1,0,0.1,0.1,0.0,0.2,2,28,4,Premier League,2022-2023
+Séamus Coleman,ie IRL,DF,Everton,33,1988,23,20,1656,18.4,1,0,1,1,0,0,1,0,0.4,0.4,0.9,1.2,13,61,37,Premier League,2022-2023
+Duje Ćaleta-Car,hr CRO,DF,Southampton,25,1996,13,9,946,10.5,1,0,1,1,0,0,2,0,0.8,0.8,0.0,0.8,5,33,0,Premier League,2022-2023
+Dan Burn,eng ENG,DF,Newcastle Utd,30,1992,38,35,3111,34.6,1,0,1,1,0,0,5,0,2.1,2.1,1.3,3.4,29,118,46,Premier League,2022-2023
+Moisés Caicedo,ec ECU,MF,Brighton,20,2001,37,34,3139,34.9,1,1,2,1,0,0,10,0,1.7,1.7,2.7,4.3,38,219,61,Premier League,2022-2023
+Facundo Buonanotte,ar ARG,"FW,MF",Brighton,17,2004,13,6,565,6.3,1,1,2,1,0,0,2,0,1.4,1.4,0.5,1.9,9,13,42,Premier League,2022-2023
+Armando Broja,al ALB,FW,Chelsea,20,2001,12,2,294,3.3,1,0,1,1,0,0,0,0,0.8,0.8,0.1,0.9,8,4,17,Premier League,2022-2023
+Tyrone Mings,eng ENG,DF,Aston Villa,29,1993,35,35,3150,35.0,1,2,3,1,0,0,7,0,1.2,1.2,1.4,2.6,20,111,7,Premier League,2022-2023
+Conor Coady,eng ENG,DF,Everton,29,1993,24,23,2096,23.3,1,1,2,1,0,0,2,0,0.8,0.8,0.3,1.2,4,43,1,Premier League,2022-2023
+Liam Cooper,sct SCO,DF,Leeds United,30,1991,18,16,1426,15.8,1,0,1,1,0,0,5,0,1.0,1.0,0.7,1.7,3,47,2,Premier League,2022-2023
+Diego Costa,es ESP,FW,Wolves,33,1988,23,16,1241,13.8,1,0,1,1,0,0,5,1,3.2,3.2,0.7,3.9,19,13,60,Premier League,2022-2023
+Sean Longstaff,eng ENG,MF,Newcastle Utd,24,1997,33,28,2518,28.0,1,4,5,1,0,0,2,0,3.6,3.6,3.3,6.9,21,116,115,Premier League,2022-2023
+Ryan Christie,sct SCO,"MF,FW",Bournemouth,27,1995,32,22,1834,20.4,1,1,2,1,0,0,2,0,2.7,2.7,2.4,5.1,39,71,71,Premier League,2022-2023
+Noni Madueke,eng ENG,FW,Chelsea,20,2002,12,7,643,7.1,1,0,1,1,0,0,0,0,0.9,0.9,0.5,1.5,48,36,100,Premier League,2022-2023
+Lyanco,br BRA,DF,Southampton,25,1997,21,11,1180,13.1,1,1,2,1,0,0,4,0,0.6,0.6,0.5,1.0,13,35,4,Premier League,2022-2023
+Orel Mangala,be BEL,MF,Nott'ham Forest,24,1998,27,20,1550,17.2,1,1,2,1,0,0,3,0,0.6,0.6,0.4,0.9,14,43,8,Premier League,2022-2023
+Sekou Mara,fr FRA,"FW,MF",Southampton,20,2002,22,4,555,6.2,1,2,3,1,0,0,1,0,1.0,1.0,0.8,1.8,7,7,27,Premier League,2022-2023
+Joël Matip,cm CMR,DF,Liverpool,30,1991,14,12,1092,12.1,1,0,1,1,0,0,3,0,0.7,0.7,0.3,1.0,28,59,2,Premier League,2022-2023
+Lisandro Martínez,ar ARG,DF,Manchester Utd,24,1998,27,24,2114,23.5,1,0,1,1,0,0,6,0,0.5,0.5,0.3,0.8,12,83,2,Premier League,2022-2023
+Rob Holding,eng ENG,DF,Arsenal,26,1995,14,6,566,6.3,1,0,1,1,0,0,0,0,0.3,0.3,0.0,0.3,3,24,2,Premier League,2022-2023
+Philippe Coutinho,br BRA,"MF,FW",Aston Villa,30,1992,20,7,788,8.8,1,0,1,1,0,0,3,0,1.4,1.4,0.5,1.8,18,48,68,Premier League,2022-2023
+Neal Maupay,fr FRA,FW,Everton,25,1996,27,11,1118,12.4,1,0,1,1,0,0,4,0,4.8,4.8,0.6,5.4,8,11,61,Premier League,2022-2023
+John McGinn,sct SCO,"MF,FW",Aston Villa,27,1994,34,30,2693,29.9,1,3,4,1,0,0,7,0,2.4,2.4,2.6,5.0,34,140,66,Premier League,2022-2023
+Will Hughes,eng ENG,MF,Crystal Palace,27,1995,27,7,842,9.4,1,1,2,1,0,0,4,0,0.3,0.3,0.9,1.2,14,32,23,Premier League,2022-2023
+Jonny Castro,es ESP,DF,Wolves,28,1994,18,14,1261,14.0,1,0,1,1,0,0,3,1,0.3,0.3,1.0,1.3,24,70,46,Premier League,2022-2023
+Roméo Lavia,be BEL,MF,Southampton,18,2004,29,26,2221,24.7,1,0,1,1,0,0,9,0,0.4,0.4,0.6,1.0,22,102,14,Premier League,2022-2023
+Pontus Jansson,se SWE,DF,Brentford,31,1991,12,9,724,8.0,1,0,1,1,0,0,0,0,0.3,0.3,0.0,0.3,1,14,0,Premier League,2022-2023
+Michael Keane,eng ENG,DF,Everton,29,1993,12,10,985,10.9,1,2,3,1,0,0,0,0,1.3,1.3,0.7,2.1,2,31,4,Premier League,2022-2023
+Jakub Kiwior,pl POL,DF,Arsenal,22,2000,7,5,427,4.7,1,0,1,1,0,0,0,0,0.1,0.1,0.0,0.1,0,6,6,Premier League,2022-2023
+Cheikhou Kouyaté,sn SEN,MF,Nott'ham Forest,32,1989,21,10,882,9.8,1,0,1,1,0,0,3,0,0.4,0.4,0.7,1.1,7,19,14,Premier League,2022-2023
+Mateo Kovačić,hr CRO,MF,Chelsea,28,1994,27,17,1707,19.0,1,2,3,1,0,0,8,0,1.8,1.8,2.1,3.9,37,153,30,Premier League,2022-2023
+Manuel Lanzini,ar ARG,"MF,FW",West Ham,29,1993,10,2,252,2.8,1,0,1,1,0,0,0,0,0.5,0.5,0.2,0.7,2,19,6,Premier League,2022-2023
+Reece James,eng ENG,"DF,MF",Chelsea,22,1999,16,14,1244,13.8,1,1,2,1,0,0,4,0,1.0,1.0,3.0,4.0,52,90,115,Premier League,2022-2023
+Joe Worrall,eng ENG,DF,Nott'ham Forest,25,1997,30,21,2224,24.7,1,0,1,1,0,0,6,0,0.8,0.8,0.8,1.6,5,67,1,Premier League,2022-2023
+Chris Wood,nz NZL,FW,Nott'ham Forest,30,1991,7,5,372,4.1,1,0,1,1,0,0,0,0,1.0,1.0,0.2,1.2,2,7,12,Premier League,2022-2023
+Oleksandr Zinchenko,ua UKR,DF,Arsenal,25,1996,27,26,2118,23.5,1,2,3,1,0,0,3,0,1.4,1.4,1.4,2.8,67,227,68,Premier League,2022-2023
+Neco Williams,wls WAL,DF,Nott'ham Forest,21,2001,31,20,1882,20.9,1,0,1,1,0,0,7,0,1.3,1.3,1.4,2.7,51,33,67,Premier League,2022-2023
+Joël Veltman,nl NED,DF,Brighton,30,1992,31,25,2188,24.3,1,1,2,1,0,0,6,0,1.8,1.8,0.7,2.5,43,153,49,Premier League,2022-2023
+Joachim Andersen,dk DEN,DF,Crystal Palace,26,1996,32,32,2782,30.9,1,0,1,1,0,0,8,0,1.8,1.8,1.3,3.1,16,105,7,Premier League,2022-2023
+Marc Albrighton,eng ENG,"FW,MF",Leicester City,32,1989,6,1,237,2.6,1,0,1,1,0,0,0,0,0.3,0.3,0.9,1.3,4,7,18,Premier League,2022-2023
+Nathan Aké,nl NED,DF,Manchester City,27,1995,26,22,1873,20.8,1,0,1,1,0,0,2,0,1.6,1.6,0.7,2.3,25,140,30,Premier League,2022-2023
+Rayan Aït-Nouri,dz ALG,DF,Wolves,21,2001,21,9,1076,12.0,1,0,1,1,0,0,4,0,0.7,0.7,1.0,1.7,30,43,76,Premier League,2022-2023
+Tosin Adarabioyo,eng ENG,DF,Fulham,24,1997,25,23,2085,23.2,1,0,1,1,0,0,4,0,0.7,0.7,0.4,1.1,16,95,3,Premier League,2022-2023
+Rúben Dias,pt POR,DF,Manchester City,25,1997,26,22,1998,22.2,0,0,0,0,0,0,3,0,1.3,1.3,0.6,1.9,14,98,2,Premier League,2022-2023
+Naouirou Ahamada,fr FRA,"MF,FW",Crystal Palace,20,2002,8,0,94,1.0,0,0,0,0,0,0,1,0,0.2,0.2,0.1,0.2,1,2,11,Premier League,2022-2023
+Kristoffer Ajer,no NOR,DF,Brentford,24,1998,9,9,763,8.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.1,10,31,12,Premier League,2022-2023
+Manuel Akanji,ch SUI,DF,Manchester City,27,1995,29,24,2287,25.4,0,1,1,0,0,0,2,0,1.3,1.3,0.4,1.7,24,116,17,Premier League,2022-2023
+Daniel Amartey,gh GHA,DF,Leicester City,27,1994,20,18,1610,17.9,0,0,0,0,0,0,1,0,1.1,1.1,0.5,1.6,23,66,5,Premier League,2022-2023
+Samuel Amo-Ameyaw,eng ENG,MF,Southampton,16,2006,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,1,0,Premier League,2022-2023
+Kostas Tsimikas,gr GRE,DF,Liverpool,26,1996,20,9,771,8.6,0,4,4,0,0,0,3,0,0.3,0.3,1.5,1.9,23,26,77,Premier League,2022-2023
+Mark Travers,ie IRL,GK,Bournemouth,23,1999,12,11,1035,11.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Boubacar Traoré,ml MLI,MF,Wolves,20,2001,10,4,411,4.6,0,1,1,0,0,0,2,0,0.1,0.1,0.2,0.2,4,8,2,Premier League,2022-2023
+Flynn Downes,eng ENG,MF,West Ham,23,1999,21,7,762,8.5,0,0,0,0,0,0,2,0,0.4,0.4,0.1,0.5,3,22,11,Premier League,2022-2023
+Cheick Doucouré,ml MLI,MF,Crystal Palace,22,2000,34,34,2769,30.8,0,3,3,0,0,0,10,1,1.4,1.4,1.9,3.4,18,140,17,Premier League,2022-2023
+Ben Doak,sct SCO,FW,Liverpool,16,2005,2,0,26,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,1,4,Premier League,2022-2023
+Moussa Djenepo,ml MLI,"DF,FW",Southampton,24,1998,16,7,710,7.9,0,2,2,0,0,0,1,0,0.2,0.2,0.5,0.7,27,19,39,Premier League,2022-2023
+Ludwig Augustinsson,se SWE,DF,Aston Villa,28,1994,3,1,77,0.9,0,0,0,0,0,0,1,0,0.1,0.1,0.0,0.1,0,0,3,Premier League,2022-2023
+Kepa Arrizabalaga,es ESP,GK,Chelsea,27,1994,29,29,2565,28.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Takehiro Tomiyasu,jp JPN,DF,Arsenal,23,1998,21,6,663,7.4,0,1,1,0,0,0,2,0,0.2,0.2,0.6,0.8,14,51,28,Premier League,2022-2023
+Harry Toffolo,eng ENG,DF,Nott'ham Forest,26,1995,19,9,940,10.4,0,0,0,0,0,0,2,0,0.3,0.3,0.8,1.0,8,29,43,Premier League,2022-2023
+Kieran Tierney,sct SCO,DF,Arsenal,25,1997,27,6,795,8.8,0,1,1,0,0,0,0,0,0.3,0.3,0.3,0.7,25,36,31,Premier League,2022-2023
+Luke Thomas,eng ENG,DF,Leicester City,21,2001,17,11,1073,11.9,0,0,0,0,0,0,3,0,0.1,0.1,0.7,0.8,10,48,13,Premier League,2022-2023
+Matt Targett,eng ENG,DF,Newcastle Utd,26,1995,17,6,610,6.8,0,0,0,0,0,0,1,0,0.0,0.0,0.4,0.4,3,43,13,Premier League,2022-2023
+Japhet Tanganga,eng ENG,DF,Tottenham,23,1999,4,2,146,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,5,2,Premier League,2022-2023
+Jack Stephens,eng ENG,DF,Bournemouth,28,1994,15,13,1173,13.0,0,0,0,0,0,0,3,0,0.4,0.4,0.2,0.6,7,34,3,Premier League,2022-2023
+Jamal Lewis,nir NIR,"DF,FW",Newcastle Utd,24,1998,2,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,1,Premier League,2022-2023
+Bernd Leno,de GER,GK,Fulham,30,1992,36,36,3240,36.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Clément Lenglet,fr FRA,DF,Tottenham,27,1995,26,24,2019,22.4,0,2,2,0,0,0,4,0,1.0,1.0,0.6,1.6,33,85,7,Premier League,2022-2023
+Mario Lemina,ga GAB,MF,Wolves,28,1993,19,17,1299,14.4,0,1,1,0,0,0,4,1,0.3,0.3,0.3,0.6,6,42,9,Premier League,2022-2023
+Dexter Lembikisa,jm JAM,DF,Wolves,18,2003,1,0,23,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,3,3,Premier League,2022-2023
+Jamaal Lascelles,eng ENG,DF,Newcastle Utd,28,1993,7,2,218,2.4,0,0,0,0,0,0,4,0,0.1,0.1,0.0,0.1,0,3,0,Premier League,2022-2023
+Juan Larios,es ESP,DF,Southampton,18,2004,5,2,152,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,4,1,Premier League,2022-2023
+Aymeric Laporte,es ESP,DF,Manchester City,28,1994,12,11,993,11.0,0,0,0,0,0,0,0,0,0.5,0.5,0.2,0.7,30,85,11,Premier League,2022-2023
+Tariq Lamptey,gh GHA,DF,Brighton,21,2000,20,3,453,5.0,0,0,0,0,0,0,1,0,0.2,0.2,0.2,0.4,28,26,58,Premier League,2022-2023
+Layvin Kurzawa,fr FRA,DF,Fulham,29,1992,3,2,135,1.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,1,2,2,Premier League,2022-2023
+Emil Krafth,se SWE,DF,Newcastle Utd,27,1994,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Ezri Konsa,eng ENG,DF,Aston Villa,24,1997,38,37,3322,36.9,0,0,0,0,0,0,6,0,1.1,1.1,1.3,2.3,7,56,11,Premier League,2022-2023
+Ibrahima Konaté,fr FRA,DF,Liverpool,23,1999,18,17,1552,17.2,0,0,0,0,0,0,5,0,1.1,1.1,0.1,1.3,7,56,5,Premier League,2022-2023
+Robin Koch,de GER,DF,Leeds United,26,1996,36,36,3175,35.3,0,0,0,0,0,0,7,0,1.5,1.5,0.4,1.9,11,114,11,Premier League,2022-2023
+Mateusz Klich,pl POL,"MF,FW",Leeds United,32,1990,14,0,280,3.1,0,0,0,0,0,0,2,0,0.2,0.2,0.2,0.4,5,16,21,Premier League,2022-2023
+Max Kilman,eng ENG,DF,Wolves,25,1997,37,37,3307,36.7,0,0,0,0,0,0,3,0,1.3,1.3,0.2,1.6,30,127,5,Premier League,2022-2023
+Raúl Jiménez,mx MEX,FW,Wolves,31,1991,15,8,846,9.4,0,1,1,0,0,0,0,0,2.6,2.6,1.7,4.3,5,14,45,Premier League,2022-2023
+Daniel James,wls WAL,FW,Leeds United,24,1997,4,2,198,2.2,0,0,0,0,0,0,0,0,0.3,0.3,0.3,0.6,6,3,9,Premier League,2022-2023
+Calum Chambers,eng ENG,"DF,MF",Aston Villa,27,1995,14,2,353,3.9,0,0,0,0,0,0,2,0,0.1,0.1,0.3,0.4,6,16,2,Premier League,2022-2023
+Trevoh Chalobah,eng ENG,DF,Chelsea,23,1999,25,18,1608,17.9,0,0,0,0,0,0,4,0,0.9,0.9,0.3,1.2,17,71,27,Premier League,2022-2023
+Nathaniel Chalobah,eng ENG,MF,Fulham,27,1994,4,1,12,0.1,0,0,0,0,0,0,0,1,0.1,0.1,0.0,0.1,0,0,0,Premier League,2022-2023
+Matty Cash,pl POL,DF,Aston Villa,24,1997,26,20,1820,20.2,0,1,1,0,0,0,4,0,0.2,0.2,0.7,0.9,42,75,57,Premier League,2022-2023
+Diego Carlos,br BRA,DF,Aston Villa,29,1993,3,2,205,2.3,0,0,0,0,0,0,0,0,0.4,0.4,0.0,0.4,1,11,0,Premier League,2022-2023
+Sergi Canós,es ESP,"FW,DF",Brentford,25,1997,5,0,77,0.9,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,4,2,7,Premier League,2022-2023
+Renan Lodi,br BRA,DF,Nott'ham Forest,24,1998,28,26,2214,24.6,0,1,1,0,0,0,7,0,1.0,1.0,1.2,2.1,24,31,70,Premier League,2022-2023
+Hugo Lloris,fr FRA,GK,Tottenham,35,1986,25,25,2205,24.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Diego Llorente,es ESP,DF,Leeds United,28,1993,8,7,649,7.2,0,0,0,0,0,0,1,0,0.7,0.7,0.0,0.7,2,27,1,Premier League,2022-2023
+Valentino Livramento,eng ENG,"DF,FW",Southampton,19,2002,2,0,28,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Jesse Lingard,eng ENG,"FW,MF",Nott'ham Forest,29,1992,17,12,923,10.3,0,0,0,0,0,0,1,0,1.0,1.0,0.7,1.7,11,33,38,Premier League,2022-2023
+Victor Lindelöf,se SWE,DF,Manchester Utd,28,1994,20,14,1365,15.2,0,0,0,0,0,0,1,0,0.3,0.3,0.1,0.4,3,36,1,Premier League,2022-2023
+Keane Lewis-Potter,eng ENG,"FW,MF",Brentford,21,2001,10,3,321,3.6,0,1,1,0,0,0,0,0,0.5,0.5,1.2,1.7,8,6,39,Premier League,2022-2023
+Rico Lewis,eng ENG,"DF,MF",Manchester City,17,2004,14,10,903,10.0,0,0,0,0,0,0,1,0,0.2,0.2,1.5,1.7,22,48,26,Premier League,2022-2023
+Saša Lukić,rs SRB,MF,Fulham,25,1996,12,4,412,4.6,0,0,0,0,0,0,1,0,0.1,0.1,0.0,0.1,8,13,5,Premier League,2022-2023
+Jamal Lowe,jm JAM,"MF,FW",Bournemouth,28,1994,2,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Premier League,2022-2023
+Ruben Loftus-Cheek,eng ENG,"MF,DF",Chelsea,26,1996,25,19,1536,17.1,0,1,1,0,0,0,1,0,0.8,0.8,1.5,2.4,56,90,86,Premier League,2022-2023
+Nathaniel Clyne,eng ENG,DF,Crystal Palace,31,1991,22,19,1640,18.2,0,0,0,0,0,0,3,0,0.0,0.0,0.7,0.7,14,52,29,Premier League,2022-2023
+Bobby Clark,eng ENG,MF,Liverpool,17,2005,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,2,Premier League,2022-2023
+Carney Chukwuemeka,eng ENG,"MF,FW",Chelsea,18,2003,14,2,354,3.9,0,0,0,0,0,0,0,0,0.4,0.4,0.6,1.0,21,23,21,Premier League,2022-2023
+Shea Charles,nir NIR,DF,Manchester City,18,2003,1,0,28,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,1,0,Premier League,2022-2023
+Boubacar Kamara,fr FRA,MF,Aston Villa,22,1999,24,21,1777,19.7,0,1,1,0,0,0,4,0,0.2,0.2,0.8,1.0,16,84,8,Premier League,2022-2023
+Sasa Kalajdzic,at AUT,FW,Wolves,25,1997,1,1,45,0.5,0,0,0,0,0,0,0,0,0.3,0.3,0.0,0.3,0,0,1,Premier League,2022-2023
+Mathias Jørgensen,dk DEN,DF,Brentford,32,1990,18,11,1103,12.3,0,0,0,0,0,0,2,0,0.9,0.9,0.2,1.1,1,35,1,Premier League,2022-2023
+James Justin,eng ENG,DF,Leicester City,24,1998,14,14,1252,13.9,0,0,0,0,0,0,0,0,0.3,0.3,0.3,0.6,20,47,50,Premier League,2022-2023
+Hamed Junior Traorè,ci CIV,"FW,MF",Bournemouth,22,2000,7,5,427,4.7,0,0,0,0,0,0,0,0,0.9,0.9,1.1,2.1,19,26,21,Premier League,2022-2023
+Mateo Joseph,es ESP,"FW,MF",Leeds United,18,2003,3,0,26,0.3,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,0,0,2,Premier League,2022-2023
+Jorginho,it ITA,MF,Arsenal,30,1991,14,9,855,9.5,0,1,1,0,0,0,0,0,0.2,0.2,0.2,0.4,15,99,8,Premier League,2022-2023
+Sam Johnstone,eng ENG,GK,Crystal Palace,29,1993,9,9,810,9.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Ben Johnson,eng ENG,DF,West Ham,22,2000,17,9,866,9.6,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.3,15,37,22,Premier League,2022-2023
+Matthew Craig,sct SCO,MF,Tottenham,19,2003,1,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Conor Coventry,ie IRL,"MF,FW",West Ham,22,2000,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Vladimír Coufal,cz CZE,DF,West Ham,29,1992,27,24,2136,23.7,0,1,1,0,0,0,5,0,0.3,0.3,2.5,2.7,53,82,109,Premier League,2022-2023
+Scott McKenna,sct SCO,DF,Nott'ham Forest,25,1996,20,19,1571,17.5,0,0,0,0,0,0,4,0,0.1,0.1,1.0,1.1,5,35,2,Premier League,2022-2023
+Alex McCarthy,eng ENG,GK,Southampton,32,1989,6,6,540,6.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+James McArthur,sct SCO,MF,Crystal Palace,34,1987,4,0,54,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Premier League,2022-2023
+Kevin Mbabu,ch SUI,"DF,FW",Fulham,27,1995,6,1,144,1.6,0,1,1,0,0,0,1,0,0.0,0.0,0.4,0.4,4,8,11,Premier League,2022-2023
+Pape Matar Sarr,sn SEN,"MF,FW",Tottenham,19,2002,11,2,218,2.4,0,1,1,0,0,0,1,0,0.1,0.1,0.3,0.4,1,13,0,Premier League,2022-2023
+Emiliano Martínez,ar ARG,GK,Aston Villa,29,1992,36,36,3139,34.9,0,0,0,0,0,0,7,0,0.0,0.0,0.3,0.3,0,0,0,Premier League,2022-2023
+Marquinhos,br BRA,MF,Arsenal,19,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Emiliano Marcondes,dk DEN,MF,Bournemouth,27,1995,1,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Premier League,2022-2023
+Javier Manquillo,es ESP,DF,Newcastle Utd,28,1994,4,0,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,4,1,Premier League,2022-2023
+Tyrell Malacia,nl NED,DF,Manchester Utd,22,1999,22,14,1396,15.5,0,0,0,0,0,0,6,0,0.2,0.2,0.7,0.9,19,44,33,Premier League,2022-2023
+Ainsley Maitland-Niles,eng ENG,"DF,MF",Southampton,24,1997,22,13,1407,15.6,0,0,0,0,0,0,3,0,0.0,0.0,0.7,0.7,15,57,35,Premier League,2022-2023
+Kobbie Mainoo,eng ENG,MF,Manchester Utd,17,2005,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,1,1,Premier League,2022-2023
+Harry Maguire,eng ENG,DF,Manchester Utd,29,1993,16,8,767,8.5,0,0,0,0,0,0,4,0,0.3,0.3,0.0,0.4,8,26,4,Premier League,2022-2023
+Luka Milivojević,rs SRB,MF,Crystal Palace,31,1991,18,5,512,5.7,0,0,0,0,0,0,2,0,0.3,0.3,0.2,0.5,2,20,2,Premier League,2022-2023
+Lewis Miley,eng ENG,MF,Newcastle Utd,16,2006,1,0,15,0.2,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,0,0,0,Premier League,2022-2023
+Alex Mighten,eng ENG,FW,Nott'ham Forest,20,2002,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2022-2023
+Illan Meslier,fr FRA,GK,Leeds United,22,2000,34,34,3060,34.0,0,0,0,0,0,0,3,0,0.1,0.1,0.0,0.1,0,0,0,Premier League,2022-2023
+Chris Mepham,wls WAL,DF,Bournemouth,24,1997,26,24,2199,24.4,0,0,0,0,0,0,7,0,0.7,0.7,0.2,0.9,2,42,1,Premier League,2022-2023
+Edouard Mendy,sn SEN,GK,Chelsea,30,1992,10,9,855,9.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Weston McKennie,us USA,MF,Leeds United,23,1998,19,16,1437,16.0,0,1,1,0,0,0,7,0,0.8,0.8,0.7,1.4,14,82,33,Premier League,2022-2023
+Daniel Iversen,dk DEN,GK,Leicester City,25,1997,12,12,1080,12.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Omari Hutchinson,eng ENG,FW,Chelsea,18,2003,1,0,23,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,2,Premier League,2022-2023
+Mason Holgate,eng ENG,DF,Everton,25,1996,8,5,507,5.6,0,0,0,0,0,0,3,1,1.0,1.0,0.4,1.4,4,14,5,Premier League,2022-2023
+Joseph Hodge,ie IRL,MF,Wolves,19,2002,6,1,175,1.9,0,0,0,0,0,0,1,0,0.3,0.3,0.1,0.3,1,8,5,Premier League,2022-2023
+Jack Hinshelwood,eng ENG,FW,Brighton,17,2005,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2022-2023
+Aaron Hickey,sct SCO,DF,Brentford,20,2002,26,23,1916,21.3,0,1,1,0,0,0,7,0,0.4,0.4,0.4,0.8,41,81,47,Premier League,2022-2023
+Rico Henry,eng ENG,DF,Brentford,25,1997,37,37,3238,36.0,0,2,2,0,0,0,4,0,1.5,1.5,2.6,4.1,55,107,111,Premier League,2022-2023
+Marc Cucurella,es ESP,DF,Chelsea,24,1998,24,21,1671,18.6,0,2,2,0,0,0,4,0,0.4,0.4,0.6,1.0,30,73,65,Premier League,2022-2023
+Aaron Cresswell,eng ENG,DF,West Ham,32,1989,28,24,2235,24.8,0,1,1,0,0,0,3,0,0.3,0.3,3.7,4.0,35,145,82,Premier League,2022-2023
+Lewis Hall,eng ENG,DF,Chelsea,17,2004,9,8,654,7.3,0,0,0,0,0,0,1,0,0.9,0.9,2.2,3.1,19,25,40,Premier League,2022-2023
+Cafú,pt POR,MF,Nott'ham Forest,29,1993,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Premier League,2022-2023
+Hugo Bueno,es ESP,DF,Wolves,19,2002,21,16,1310,14.6,0,1,1,0,0,0,1,0,0.2,0.2,1.3,1.5,52,39,64,Premier League,2022-2023
+Lewis Brunt,eng ENG,DF,Leicester City,21,2000,1,0,23,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,2,Premier League,2022-2023
+David Brooks,wls WAL,"FW,MF",Bournemouth,25,1997,6,2,173,1.9,0,0,0,0,0,0,1,0,0.3,0.3,0.2,0.5,5,11,10,Premier League,2022-2023
+James Bree,eng ENG,DF,Southampton,24,1997,5,4,367,4.1,0,0,0,0,0,0,1,0,0.0,0.0,0.2,0.2,4,5,12,Premier League,2022-2023
+Keylor Navas,cr CRC,GK,Nott'ham Forest,35,1986,17,17,1529,17.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,1,0,Premier League,2022-2023
+Vitaliy Mykolenko,ua UKR,DF,Everton,23,1999,34,30,2655,29.5,0,0,0,0,0,0,4,0,0.5,0.5,1.2,1.8,31,100,72,Premier League,2022-2023
+Enock Mwepu,zm ZAM,"FW,MF",Brighton,24,1998,6,2,213,2.4,0,1,1,0,0,0,0,0,0.2,0.2,0.5,0.7,5,6,17,Premier League,2022-2023
+Mykhailo Mudryk,ua UKR,"FW,MF",Chelsea,21,2001,15,7,657,7.3,0,2,2,0,0,0,1,0,1.9,1.9,0.9,2.8,25,20,43,Premier League,2022-2023
+Divin Mubama,eng ENG,FW,West Ham,17,2004,3,0,38,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2022-2023
+João Moutinho,pt POR,MF,Wolves,35,1986,31,20,1780,19.8,0,2,2,0,0,0,3,0,1.3,1.3,2.6,3.9,23,132,32,Premier League,2022-2023
+Álex Moreno,es ESP,DF,Aston Villa,29,1993,19,14,1329,14.8,0,3,3,0,0,0,3,0,0.6,0.6,3.0,3.7,65,37,122,Premier League,2022-2023
+Andrew Moran,ie IRL,FW,Brighton,18,2003,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2022-2023
+Tyrick Mitchell,eng ENG,DF,Crystal Palace,22,1999,36,34,2891,32.1,0,2,2,0,0,0,5,1,0.6,0.6,1.2,1.8,23,106,90,Premier League,2022-2023
+James Milner,eng ENG,"MF,DF",Liverpool,36,1986,31,7,913,10.1,0,1,1,0,0,0,2,0,0.4,0.4,0.9,1.3,21,70,78,Premier League,2022-2023
+Pedro Neto,pt POR,"FW,MF",Wolves,22,2000,18,13,964,10.7,0,0,0,0,0,0,1,0,1.1,1.1,2.1,3.2,37,24,111,Premier League,2022-2023
+Neto,br BRA,GK,Bournemouth,33,1989,27,27,2385,26.5,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Wilfred Ndidi,ng NGA,MF,Leicester City,25,1996,27,19,1679,18.7,0,0,0,0,0,0,4,0,0.2,0.2,0.1,0.3,11,51,7,Premier League,2022-2023
+Thomas Cannon,ie IRL,FW,Everton,19,2002,2,0,25,0.3,0,0,0,0,0,0,0,0,0.1,0.1,0.5,0.6,1,0,2,Premier League,2022-2023
+Chem Campbell,wls WAL,"FW,MF",Wolves,19,2002,5,0,74,0.8,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,2,4,10,Premier League,2022-2023
+Maxwel Cornet,ci CIV,FW,West Ham,25,1996,14,2,245,2.7,0,0,0,0,0,0,0,0,1.3,1.3,0.1,1.3,9,5,26,Premier League,2022-2023
+Steve Cook,eng ENG,DF,Nott'ham Forest,31,1991,12,11,957,10.6,0,0,0,0,0,0,4,0,0.1,0.1,0.6,0.7,1,19,0,Premier League,2022-2023
+Lewis Cook,eng ENG,MF,Bournemouth,25,1997,28,18,1720,19.1,0,2,2,0,0,0,4,0,0.2,0.2,2.5,2.7,9,63,10,Premier League,2022-2023
+Levi Colwill,eng ENG,DF,Brighton,19,2003,17,13,1220,13.6,0,2,2,0,0,0,1,0,1.4,1.4,0.5,1.9,16,70,3,Premier League,2022-2023
+Nathan Collins,ie IRL,DF,Wolves,21,2001,26,19,1814,20.2,0,0,0,0,0,0,2,1,0.2,0.2,0.1,0.3,11,64,5,Premier League,2022-2023
+Jack Colback,eng ENG,MF,Nott'ham Forest,32,1989,11,4,497,5.5,0,0,0,0,0,0,0,0,0.0,0.0,0.2,0.2,5,16,3,Premier League,2022-2023
+Wayne Hennessey,wls WAL,GK,Nott'ham Forest,35,1987,4,3,271,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Jordan Henderson,eng ENG,MF,Liverpool,32,1990,35,23,2074,23.0,0,2,2,0,0,0,2,0,1.4,1.4,3.2,4.5,37,189,90,Premier League,2022-2023
+Dean Henderson,eng ENG,GK,Nott'ham Forest,25,1997,18,18,1620,18.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Jan Paul van Hecke,nl NED,DF,Brighton,22,2000,8,3,295,3.3,0,0,0,0,0,0,2,0,0.6,0.6,0.0,0.6,3,21,0,Premier League,2022-2023
+Luke Harris,wls WAL,"MF,FW",Fulham,17,2005,3,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Premier League,2022-2023
+Paul Onuachu,ng NGA,FW,Southampton,28,1994,11,4,407,4.5,0,0,0,0,0,0,0,0,1.3,1.3,0.1,1.4,1,7,22,Premier League,2022-2023
+Josh Onomah,eng ENG,MF,Fulham,25,1997,2,0,15,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,0,Premier League,2022-2023
+Robin Olsen,se SWE,GK,Aston Villa,32,1990,4,2,281,3.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Darko Gyabi,eng ENG,FW,Leeds United,18,2004,1,0,8,0.1,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,0,2,0,Premier League,2022-2023
+Vicente Guaita,es ESP,GK,Crystal Palace,35,1987,27,27,2430,27.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,1,0,Premier League,2022-2023
+Sergio Gómez,es ESP,"DF,MF",Manchester City,21,2000,12,2,349,3.9,0,1,1,0,0,0,0,0,0.4,0.4,1.2,1.5,10,18,20,Premier League,2022-2023
+Joe Gomez,eng ENG,DF,Liverpool,25,1997,21,15,1466,16.3,0,0,0,0,0,0,3,0,0.2,0.2,0.2,0.3,15,108,5,Premier League,2022-2023
+Ben Godfrey,eng ENG,DF,Everton,24,1998,13,10,802,8.9,0,1,1,0,0,0,2,0,1.2,1.2,0.2,1.4,9,19,7,Premier League,2022-2023
+Billy Gilmour,sct SCO,MF,Brighton,21,2001,14,7,507,5.6,0,1,1,0,0,0,1,0,0.5,0.5,0.2,0.8,5,35,4,Premier League,2022-2023
+Bryan Gil,es ESP,"MF,FW",Tottenham,21,2001,4,2,148,1.6,0,1,1,0,0,0,1,0,0.1,0.1,0.2,0.3,4,5,15,Premier League,2022-2023
+Morgan Gibbs-White,eng ENG,"FW,MF",Wolves,22,2000,2,2,180,2.0,0,0,0,0,0,0,1,0,0.7,0.7,0.1,0.8,4,12,12,Premier League,2022-2023
+Saman Ghoddos,ir IRN,"MF,FW",Brentford,28,1993,15,0,139,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.4,0.5,1,8,6,Premier League,2022-2023
+Angelo Ogbonna,it ITA,DF,West Ham,34,1988,16,13,1237,13.7,0,0,0,0,0,0,0,0,0.3,0.3,0.2,0.5,0,11,2,Premier League,2022-2023
+Odeluga Offiah,eng ENG,DF,Brighton,19,2002,2,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,1,1,Premier League,2022-2023
+Ethan Nwaneri,eng ENG,FW,Arsenal,15,2007,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Moussa Niakhate,sn SEN,DF,Nott'ham Forest,26,1996,14,14,1163,12.9,0,0,0,0,0,0,1,0,0.6,0.6,0.1,0.7,2,15,3,Premier League,2022-2023
+Jan Bednarek,pl POL,DF,Southampton,26,1996,20,20,1672,18.6,0,0,0,0,0,0,5,0,0.4,0.4,0.1,0.5,8,45,2,Premier League,2022-2023
+Nick Pope,eng ENG,GK,Newcastle Utd,30,1992,37,37,3261,36.2,0,0,0,0,0,0,3,1,0.0,0.0,0.1,0.1,0,1,0,Premier League,2022-2023
+Jordan Pickford,eng ENG,GK,Everton,28,1994,37,37,3330,37.0,0,1,1,0,0,0,6,0,0.0,0.0,0.1,0.1,0,2,0,Premier League,2022-2023
+Nathaniel Phillips,eng ENG,DF,Liverpool,25,1997,2,1,66,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,9,0,Premier League,2022-2023
+Kalvin Phillips,eng ENG,MF,Manchester City,26,1995,12,2,300,3.3,0,0,0,0,0,0,1,0,0.3,0.3,0.2,0.5,1,18,2,Premier League,2022-2023
+Cameron Peupion,au AUS,MF,Brighton,19,2002,1,0,6,0.1,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,0,0,2,Premier League,2022-2023
+Máximo Perrone,ar ARG,MF,Manchester City,19,2003,1,0,19,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,2,1,Premier League,2022-2023
+Ayoze Pérez,es ESP,"MF,FW",Leicester City,29,1993,8,3,382,4.2,0,1,1,0,0,0,0,0,1.1,1.1,1.5,2.6,17,20,43,Premier League,2022-2023
+Facundo Pellistri,uy URU,"FW,MF",Manchester Utd,20,2001,4,0,64,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,1,2,Premier League,2022-2023
+Ben Pearson,eng ENG,MF,Bournemouth,27,1995,7,3,286,3.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,2,5,4,Premier League,2022-2023
+Nathan Patterson,sct SCO,"DF,MF",Everton,20,2001,19,14,1279,14.2,0,0,0,0,0,0,3,0,0.5,0.5,0.4,0.9,16,24,51,Premier League,2022-2023
+Cole Palmer,eng ENG,"MF,FW",Manchester City,20,2002,14,2,370,4.1,0,1,1,0,0,0,1,0,1.2,1.2,0.6,1.8,29,13,40,Premier League,2022-2023
+David Ozoh,eng ENG,FW,Crystal Palace,17,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Stefan Ortega,de GER,GK,Manchester City,29,1992,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Mislav Oršić,hr CRO,MF,Southampton,29,1992,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Frank Onyeka,ng NGA,MF,Brentford,24,1998,21,8,848,9.4,0,2,2,0,0,0,0,0,1.0,1.0,0.6,1.6,9,28,21,Premier League,2022-2023
+Chris Richards,us USA,DF,Crystal Palace,22,2000,9,4,447,5.0,0,0,0,0,0,0,0,0,0.7,0.7,0.3,1.0,4,14,3,Premier League,2022-2023
+Nathan Redmond,eng ENG,DF,Southampton,28,1994,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2022-2023
+David Raya,es ESP,GK,Brentford,26,1995,38,38,3420,38.0,0,0,0,0,0,0,1,0,0.1,0.1,0.1,0.3,0,13,0,Premier League,2022-2023
+Aaron Ramsdale,eng ENG,GK,Arsenal,24,1998,38,38,3420,38.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,8,0,Premier League,2022-2023
+Isaac Price,nir NIR,MF,Everton,18,2003,1,0,33,0.4,0,0,0,0,0,0,1,0,0.0,0.0,0.1,0.1,1,1,0,Premier League,2022-2023
+Sven Botman,nl NED,DF,Newcastle Utd,22,2000,36,35,3127,34.7,0,0,0,0,0,0,2,0,2.5,2.5,1.0,3.5,8,87,5,Premier League,2022-2023
+Willy Boly,ci CIV,DF,Nott'ham Forest,31,1991,11,9,685,7.6,0,1,1,0,0,0,2,0,0.0,0.0,0.2,0.2,1,12,0,Premier League,2022-2023
+Yves Bissouma,ml MLI,MF,Tottenham,25,1996,23,10,1010,11.2,0,0,0,0,0,0,6,0,0.2,0.2,0.5,0.7,14,62,10,Premier League,2022-2023
+Giulian Biancone,fr FRA,DF,Nott'ham Forest,22,2000,2,0,17,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,1,Premier League,2022-2023
+Owen Bevan,wls WAL,DF,Bournemouth,18,2003,1,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Victor Bernth Kristiansen,dk DEN,DF,Leicester City,19,2002,12,11,892,9.9,0,1,1,0,0,0,2,0,0.1,0.1,0.8,0.9,17,31,24,Premier League,2022-2023
+Daniel Bentley,eng ENG,GK,Wolves,29,1993,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Armel Bella Kotchap,de GER,DF,Southampton,20,2001,24,24,1879,20.9,0,2,2,0,0,0,4,0,1.0,1.0,1.0,2.1,9,39,2,Premier League,2022-2023
+Asmir Begović,ba BIH,GK,Everton,35,1987,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Donny van de Beek,nl NED,MF,Manchester Utd,25,1997,7,2,167,1.9,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,2,6,20,Premier League,2022-2023
+Jan Bednarek,pl POL,DF,Aston Villa,26,1996,3,1,100,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,5,0,Premier League,2022-2023
+Craig Dawson,eng ENG,DF,West Ham,32,1990,8,8,720,8.0,0,0,0,0,0,0,2,0,0.5,0.5,0.1,0.6,0,18,1,Premier League,2022-2023
+Marcel Sabitzer,at AUT,MF,Manchester Utd,28,1994,11,7,627,7.0,0,1,1,0,0,0,1,0,0.7,0.7,0.9,1.7,8,38,26,Premier League,2022-2023
+José Sá,pt POR,GK,Wolves,29,1993,36,36,3240,36.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Georginio Rutter,fr FRA,"FW,MF",Leeds United,20,2002,11,1,273,3.0,0,1,1,0,0,0,0,0,0.4,0.4,0.3,0.7,5,6,21,Premier League,2022-2023
+Joe Rothwell,eng ENG,MF,Bournemouth,27,1995,20,12,1016,11.3,0,1,1,0,0,0,1,0,0.1,0.1,1.0,1.2,12,33,12,Premier League,2022-2023
+Salomón Rondón,ve VEN,FW,Everton,32,1989,7,1,109,1.2,0,0,0,0,0,0,0,0,0.8,0.8,0.2,1.0,0,1,7,Premier League,2022-2023
+Connor Ronan,ie IRL,MF,Wolves,24,1998,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2022-2023
+Oriol Romeu,es ESP,MF,Southampton,30,1991,1,1,74,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,4,0,Premier League,2022-2023
+Cristian Romero,ar ARG,DF,Tottenham,24,1998,27,26,2364,26.3,0,1,1,0,0,0,11,1,1.5,1.5,1.2,2.6,19,92,9,Premier League,2022-2023
+Mads Roerslev,dk DEN,DF,Brentford,23,1999,20,12,1108,12.3,0,0,0,0,0,0,0,0,0.3,0.3,1.2,1.5,8,19,36,Premier League,2022-2023
+Marek Rodák,sk SVK,GK,Fulham,25,1996,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Joel Robles,es ESP,GK,Leeds United,32,1990,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Antonee Robinson,us USA,DF,Fulham,24,1997,35,35,3088,34.3,0,1,1,0,0,0,8,0,0.1,0.1,1.3,1.3,113,129,153,Premier League,2022-2023
+Andrew Robertson,sct SCO,DF,Liverpool,28,1994,34,29,2583,28.7,0,8,8,0,0,0,3,0,1.3,1.3,6.1,7.4,80,166,194,Premier League,2022-2023
+Matt Ritchie,sct SCO,"FW,MF",Newcastle Utd,32,1989,7,0,39,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,1,1,9,Premier League,2022-2023
+Jaïro Riedewald,nl NED,"DF,MF",Crystal Palace,25,1996,6,0,64,0.7,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,1,1,1,Premier League,2022-2023
+Albert Sambi Lokonga,be BEL,MF,Crystal Palace,22,1999,9,6,536,6.0,0,0,0,0,0,0,2,0,0.2,0.2,0.0,0.2,2,20,2,Premier League,2022-2023
+Albert Sambi Lokonga,be BEL,MF,Arsenal,22,1999,6,2,198,2.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,12,2,Premier League,2022-2023
+Mohammed Salisu,gh GHA,DF,Southampton,23,1999,22,21,1973,21.9,0,1,1,0,0,0,5,0,1.5,1.5,0.6,2.1,5,82,4,Premier League,2022-2023
+Joe Gelhardt,eng ENG,FW,Leeds United,20,2002,15,1,212,2.4,0,2,2,0,0,0,1,0,0.8,0.8,0.5,1.3,2,6,21,Premier League,2022-2023
+David de Gea,es ESP,GK,Manchester Utd,31,1990,38,38,3420,38.0,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,0,0,0,Premier League,2022-2023
+James Garner,eng ENG,"MF,DF",Everton,21,2001,16,7,804,8.9,0,1,1,0,0,0,3,0,0.8,0.8,0.5,1.3,8,33,18,Premier League,2022-2023
+Idrissa Gana Gueye,sn SEN,MF,Everton,32,1989,33,32,2577,28.6,0,1,1,0,0,0,7,0,0.7,0.7,1.1,1.8,27,98,19,Premier League,2022-2023
+Remo Freuler,ch SUI,MF,Nott'ham Forest,30,1992,28,24,2161,24.0,0,0,0,0,0,0,4,0,0.4,0.4,0.8,1.2,7,54,11,Premier League,2022-2023
+Ryan Fredericks,eng ENG,DF,Bournemouth,29,1992,12,5,533,5.9,0,0,0,0,0,0,1,0,0.0,0.0,0.1,0.1,13,15,28,Premier League,2022-2023
+Ryan Fraser,sct SCO,FW,Newcastle Utd,28,1994,8,3,313,3.5,0,0,0,0,0,0,1,0,0.3,0.3,0.4,0.7,8,9,23,Premier League,2022-2023
+Tyrese Francois,au AUS,FW,Fulham,22,2000,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2022-2023
+Fraser Forster,eng ENG,GK,Tottenham,34,1988,14,13,1215,13.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Adam Forshaw,eng ENG,MF,Leeds United,30,1991,12,5,479,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.9,0.9,4,33,7,Premier League,2022-2023
+Leander Dendoncker,be BEL,MF,Wolves,27,1995,4,2,214,2.4,0,0,0,0,0,0,0,0,0.7,0.7,0.0,0.7,1,6,3,Premier League,2022-2023
+Leander Dendoncker,be BEL,MF,Aston Villa,27,1995,20,7,697,7.7,0,0,0,0,0,0,0,0,0.1,0.1,0.5,0.5,1,18,2,Premier League,2022-2023
+Siriki Dembélé,ci CIV,"FW,MF",Bournemouth,25,1996,6,0,110,1.2,0,0,0,0,0,0,0,0,0.2,0.2,0.3,0.5,5,4,11,Premier League,2022-2023
+Tom Davies,eng ENG,MF,Everton,24,1998,19,4,538,6.0,0,0,0,0,0,0,3,0,1.2,1.2,0.2,1.3,2,30,13,Premier League,2022-2023
+David Datro Fofana,ci CIV,FW,Chelsea,19,2002,3,1,70,0.8,0,0,0,0,0,0,0,0,0.2,0.2,0.1,0.4,2,2,9,Premier League,2022-2023
+Mikkel Damsgaard,dk DEN,"MF,FW",Brentford,22,2000,26,9,988,11.0,0,0,0,0,0,0,4,0,2.6,2.6,1.4,4.0,9,44,45,Premier League,2022-2023
+Wesley Fofana,fr FRA,DF,Leicester City,21,2000,2,2,180,2.0,0,0,0,0,0,0,1,0,0.1,0.1,0.0,0.1,3,6,1,Premier League,2022-2023
+Enzo Fernández,ar ARG,MF,Chelsea,21,2001,18,18,1547,17.2,0,2,2,0,0,0,3,0,0.8,0.8,2.4,3.2,22,168,18,Premier League,2022-2023
+Felipe,br BRA,DF,Nott'ham Forest,33,1989,16,15,1418,15.8,0,1,1,0,0,0,4,0,1.2,1.2,0.9,2.1,3,22,4,Premier League,2022-2023
+Fabinho,br BRA,MF,Liverpool,28,1993,36,31,2671,29.7,0,2,2,0,0,0,11,0,0.7,0.7,2.1,2.9,15,161,39,Premier League,2022-2023
+Łukasz Fabiański,pl POL,GK,West Ham,37,1985,36,36,3111,34.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Jonny Evans,nir NIR,DF,Leicester City,34,1988,13,12,1051,11.7,0,0,0,0,0,0,1,0,0.2,0.2,0.0,0.2,6,35,0,Premier League,2022-2023
+Nélson Semedo,pt POR,DF,Wolves,28,1993,36,31,2632,29.2,0,1,1,0,0,0,11,1,0.4,0.4,0.7,1.2,50,110,147,Premier League,2022-2023
+Kevin Schade,de GER,FW,Brentford,20,2001,18,7,732,8.1,0,1,1,0,0,0,2,0,2.1,2.1,1.1,3.2,24,15,57,Premier League,2022-2023
+Gustavo Scarpa,br BRA,"MF,FW",Nott'ham Forest,28,1994,6,2,181,2.0,0,0,0,0,0,0,1,0,0.3,0.3,0.0,0.3,9,12,4,Premier League,2022-2023
+Jeremy Sarmiento,ec ECU,MF,Brighton,20,2002,9,1,176,2.0,0,1,1,0,0,0,1,0,0.3,0.3,0.2,0.5,5,11,20,Premier League,2022-2023
+Morgan Sanson,fr FRA,MF,Aston Villa,27,1994,2,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Premier League,2022-2023
+Robert Sánchez,es ESP,GK,Brighton,24,1997,23,23,2070,23.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Davinson Sánchez,co COL,DF,Tottenham,26,1996,18,8,858,9.5,0,0,0,0,0,0,1,0,0.6,0.6,0.4,1.0,5,35,4,Premier League,2022-2023
+Harry Souttar,au AUS,DF,Leicester City,23,1998,12,11,992,11.0,0,1,1,0,0,0,2,0,1.4,1.4,0.2,1.6,6,29,4,Premier League,2022-2023
+Boubakary Soumaré,fr FRA,MF,Leicester City,23,1999,26,20,1629,18.1,0,0,0,0,0,0,9,0,0.0,0.0,0.4,0.4,17,73,20,Premier League,2022-2023
+Cédric Soares,pt POR,DF,Fulham,30,1991,6,2,198,2.2,0,0,0,0,0,0,0,0,0.1,0.1,0.3,0.4,4,12,12,Premier League,2022-2023
+Cédric Soares,pt POR,DF,Arsenal,30,1991,2,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,3,0,Premier League,2022-2023
+Mads Bech Sørensen,dk DEN,"DF,MF",Brentford,23,1999,4,0,21,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Premier League,2022-2023
+Gavin Bazunu,ie IRL,GK,Southampton,20,2002,32,32,2880,32.0,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,0,1,0,Premier League,2022-2023
+Shandon Baptiste,gd GRN,MF,Brentford,24,1998,23,4,618,6.9,0,1,1,0,0,0,3,1,0.4,0.4,1.1,1.4,8,39,23,Premier League,2022-2023
+Dominic Ballard,eng ENG,"FW,MF",Southampton,17,2005,2,0,26,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,1,Premier League,2022-2023
+César Azpilicueta,es ESP,DF,Chelsea,32,1989,25,16,1527,17.0,0,0,0,0,0,0,3,0,0.4,0.4,1.1,1.5,23,71,81,Premier League,2022-2023
+André Ayew,gh GHA,"FW,MF",Nott'ham Forest,32,1989,13,1,316,3.5,0,0,0,0,0,1,1,0,1.0,0.3,0.0,0.3,3,11,16,Premier League,2022-2023
+Yasin Ayari,se SWE,MF,Brighton,18,2003,3,1,67,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.2,0,2,2,Premier League,2022-2023
+Emile Smith Rowe,eng ENG,"MF,FW",Arsenal,22,2000,12,0,172,1.9,0,2,2,0,0,0,0,0,0.3,0.3,0.7,1.0,2,7,11,Premier League,2022-2023
+Adam Smith,eng ENG,DF,Bournemouth,31,1991,37,34,2943,32.7,0,1,1,0,0,0,11,0,0.5,0.5,1.3,1.8,28,83,54,Premier League,2022-2023
+Thiago Silva,br BRA,DF,Chelsea,37,1984,27,26,2352,26.1,0,2,2,0,0,0,2,0,1.5,1.5,0.5,2.0,8,104,2,Premier League,2022-2023
+Jonjo Shelvey,eng ENG,MF,Nott'ham Forest,30,1992,8,6,540,6.0,0,0,0,0,0,0,2,0,0.2,0.2,0.3,0.5,1,34,0,Premier League,2022-2023
+Jonjo Shelvey,eng ENG,MF,Newcastle Utd,30,1992,3,0,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,3,0,Premier League,2022-2023
+Mohamed Elneny,eg EGY,MF,Arsenal,30,1992,5,1,113,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,2,1,Premier League,2022-2023
+Anthony Elanga,se SWE,FW,Manchester Utd,20,2002,16,5,426,4.7,0,1,1,0,0,0,0,0,0.7,0.7,0.9,1.6,12,8,28,Premier League,2022-2023
+Samuel Edozie,eng ENG,"FW,MF",Southampton,19,2003,17,5,567,6.3,0,0,0,0,0,0,0,0,0.9,0.9,0.4,1.3,26,13,39,Premier League,2022-2023
+Ederson,br BRA,GK,Manchester City,28,1993,35,35,3150,35.0,0,1,1,0,0,0,3,0,0.0,0.0,0.2,0.2,0,0,0,Premier League,2022-2023
+Malcolm Ebiowei,eng ENG,"MF,FW",Crystal Palace,18,2003,3,0,34,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,2,9,Premier League,2022-2023
+Jáder Durán,co COL,"FW,MF",Aston Villa,18,2003,12,0,136,1.5,0,0,0,0,0,0,1,0,0.6,0.6,0.0,0.6,4,4,13,Premier League,2022-2023
+Shane Duffy,ie IRL,"DF,FW",Fulham,30,1992,5,0,20,0.2,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.2,0,0,0,Premier League,2022-2023
+Martin Dúbravka,sk SVK,GK,Newcastle Utd,33,1989,2,1,157,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Cody Drameh,eng ENG,DF,Leeds United,20,2001,1,1,69,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,2,3,Premier League,2022-2023
+Kami Doyle,eng ENG,MF,Southampton,16,2005,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Jack Stephens,eng ENG,DF,Southampton,28,1994,2,0,46,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,3,0,Premier League,2022-2023
+Jason Steele,eng ENG,GK,Brighton,31,1990,15,15,1350,15.0,0,1,1,0,0,0,1,0,0.0,0.0,0.1,0.1,0,0,0,Premier League,2022-2023
+Jay Stansfield,eng ENG,FW,Fulham,19,2002,3,1,87,1.0,0,0,0,0,0,0,0,0,0.3,0.3,0.1,0.3,2,0,4,Premier League,2022-2023
+Junior Stanislas,eng ENG,MF,Bournemouth,32,1989,4,0,61,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.2,0,4,5,Premier League,2022-2023
+Jack Stacey,eng ENG,DF,Bournemouth,26,1996,10,3,299,3.3,0,0,0,0,0,0,2,0,0.1,0.1,0.0,0.1,9,2,15,Premier League,2022-2023
+Djed Spence,eng ENG,"FW,DF",Tottenham,21,2000,4,0,7,0.1,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,2,0,2,Premier League,2022-2023
+Elliot Anderson,eng ENG,"MF,FW",Newcastle Utd,19,2002,22,3,410,4.6,0,1,1,0,0,0,0,0,1.0,1.0,1.3,2.3,23,24,35,Premier League,2022-2023
+Ibrahima Diallo,fr FRA,MF,Southampton,23,1999,18,11,819,9.1,0,0,0,0,0,0,4,0,0.2,0.2,0.1,0.3,9,28,6,Premier League,2022-2023
+Rúben Vinagre,pt POR,"DF,MF",Everton,23,1999,2,0,26,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,1,Premier League,2022-2023
+Halil Dervişoğlu,tr TUR,MF,Brentford,22,1999,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Harvey White,eng ENG,MF,Tottenham,20,2001,1,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2022-2023
+Illia Zabarnyi,ua UKR,DF,Bournemouth,19,2002,5,3,299,3.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,11,0,Premier League,2022-2023
+Tyler Adams,us USA,MF,Leeds United,23,1999,24,24,2156,24.0,0,0,0,0,0,0,6,1,0.1,0.1,1.4,1.5,19,136,20,Premier League,2022-2023
+Ryan Yates,eng ENG,MF,Nott'ham Forest,24,1997,26,21,1837,20.4,0,2,2,0,0,0,5,0,2.3,2.3,1.2,3.4,11,43,27,Premier League,2022-2023
+Wout Weghorst,nl NED,"FW,MF",Manchester Utd,29,1992,17,10,797,8.9,0,1,1,0,0,0,1,0,2.0,2.0,1.2,3.2,3,17,41,Premier League,2022-2023
+Adam Webster,eng ENG,DF,Brighton,27,1995,27,23,1985,22.1,0,0,0,0,0,0,2,0,1.8,1.8,0.2,1.9,19,119,9,Premier League,2022-2023
+Danny Ward,wls WAL,GK,Leicester City,29,1993,26,26,2340,26.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Aaron Wan-Bissaka,eng ENG,DF,Manchester Utd,24,1997,19,16,1435,15.9,0,0,0,0,0,0,2,0,1.2,1.2,1.0,2.2,41,55,64,Premier League,2022-2023
+Kyle Walker,eng ENG,DF,Manchester City,32,1990,27,22,1958,21.8,0,0,0,0,0,0,3,0,0.4,0.4,0.2,0.7,50,162,75,Premier League,2022-2023
+Thiago Alcántara,es ESP,MF,Liverpool,31,1991,18,14,1254,13.9,0,0,0,0,0,0,2,0,0.4,0.4,1.1,1.5,13,120,24,Premier League,2022-2023
+Raphaël Varane,fr FRA,DF,Manchester Utd,29,1993,24,22,1911,21.2,0,0,0,0,0,0,1,0,0.7,0.7,0.2,0.9,17,63,4,Premier League,2022-2023
+Yan Valery,tn TUN,DF,Southampton,23,1999,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Lloyd Kelly,eng ENG,DF,Bournemouth,23,1998,23,23,2040,22.7,0,2,2,0,0,0,3,0,0.2,0.2,0.5,0.7,14,47,10,Premier League,2022-2023
+Caoimhín Kelleher,ie IRL,GK,Liverpool,23,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Naby Keïta,gn GUI,MF,Liverpool,27,1995,8,3,293,3.3,0,0,0,0,0,0,1,0,0.6,0.6,0.7,1.3,5,15,21,Premier League,2022-2023
+Thilo Kehrer,de GER,DF,West Ham,25,1996,27,25,2230,24.8,0,2,2,0,0,0,4,0,0.5,0.5,0.6,1.1,15,60,29,Premier League,2022-2023
+Neeskens Kebano,cd COD,FW,Fulham,30,1992,17,9,764,8.5,0,3,3,0,0,0,0,0,0.5,0.5,1.5,2.0,39,24,68,Premier League,2022-2023
+N'Golo Kanté,fr FRA,MF,Chelsea,31,1991,7,6,518,5.8,0,1,1,0,0,0,1,0,0.3,0.3,1.9,2.2,19,34,36,Premier League,2022-2023
+Maximilian Wöber,at AUT,DF,Leeds United,24,1998,16,14,1266,14.1,0,0,0,0,0,0,3,0,0.7,0.7,0.6,1.4,15,54,15,Premier League,2022-2023
+Joseph Whitworth,eng ENG,GK,Crystal Palace,18,2004,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Alisson,br BRA,GK,Liverpool,29,1992,37,37,3330,37.0,0,1,1,0,0,0,1,0,0.0,0.0,0.3,0.3,0,3,0,Premier League,2022-2023
+Dele Alli,eng ENG,MF,Everton,26,1996,2,0,40,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,1,Premier League,2022-2023
+Hakim Ziyech,ma MAR,"FW,MF",Chelsea,29,1993,18,6,661,7.3,0,3,3,0,0,0,1,0,0.6,0.6,2.2,2.8,20,42,69,Premier League,2022-2023
+Jordan Zemura,zw ZIM,DF,Bournemouth,22,1999,19,17,1454,16.2,0,1,1,0,0,0,1,0,0.4,0.4,1.9,2.2,39,45,48,Premier League,2022-2023
+Denis Zakaria,ch SUI,MF,Chelsea,25,1996,7,5,411,4.6,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.2,9,6,3,Premier League,2022-2023
+George Abbott,eng ENG,MF,Tottenham,16,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Alphonse Areola,fr FRA,GK,West Ham,29,1993,5,2,309,3.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2022-2023
+Cameron Archer,eng ENG,"FW,MF",Aston Villa,21,2001,6,0,49,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,3,Premier League,2022-2023

@@ -1,0 +1,547 @@
+Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,League,Season
+Mohamed Salah,eg EGY,FW,Liverpool,29,1992,35,30,2762,30.7,23,13,36,18,5,6,1,0,22.7,17.8,10.0,27.8,125,122,451,Premier League,2021-2022
+Son Heung-min,kr KOR,"MF,FW",Tottenham,29,1992,35,35,3006,33.4,23,7,30,23,0,0,2,0,15.9,15.9,7.5,23.4,116,90,242,Premier League,2021-2022
+Cristiano Ronaldo,pt POR,FW,Manchester Utd,36,1985,30,27,2456,27.3,18,3,21,15,3,3,8,0,17.7,15.4,2.9,18.2,67,64,192,Premier League,2021-2022
+Harry Kane,eng ENG,FW,Tottenham,28,1993,37,36,3232,35.9,17,9,26,13,4,4,5,0,18.6,15.4,9.1,24.5,87,143,212,Premier League,2021-2022
+Sadio Mané,sn SEN,FW,Liverpool,29,1992,34,32,2819,31.3,16,2,18,16,0,0,5,0,17.2,17.2,5.2,22.5,105,130,305,Premier League,2021-2022
+Diogo Jota,pt POR,FW,Liverpool,24,1996,35,27,2364,26.3,15,4,19,15,0,0,3,0,16.3,16.3,5.8,22.0,74,87,191,Premier League,2021-2022
+Kevin De Bruyne,be BEL,MF,Manchester City,30,1991,30,25,2201,24.5,15,8,23,15,0,0,2,0,5.7,5.7,10.4,16.1,84,204,175,Premier League,2021-2022
+Jamie Vardy,eng ENG,FW,Leicester City,34,1987,25,20,1806,20.1,15,2,17,15,0,0,2,0,10.8,10.8,1.4,12.2,37,28,112,Premier League,2021-2022
+Wilfried Zaha,ci CIV,FW,Crystal Palace,28,1992,33,31,2760,30.7,14,1,15,9,5,7,6,1,9.5,3.9,5.1,9.0,113,121,265,Premier League,2021-2022
+Raheem Sterling,eng ENG,FW,Manchester City,26,1994,30,23,2128,23.6,13,5,18,11,2,3,1,0,14.0,11.5,5.5,17.0,108,65,317,Premier League,2021-2022
+Ivan Toney,eng ENG,FW,Brentford,25,1996,33,32,2909,32.3,12,5,17,7,5,5,8,0,11.4,7.4,5.8,13.3,28,83,168,Premier League,2021-2022
+James Maddison,eng ENG,"MF,FW",Leicester City,24,1996,35,28,2459,27.3,12,8,20,12,0,0,3,0,7.5,7.5,5.1,12.7,53,136,141,Premier League,2021-2022
+Jarrod Bowen,eng ENG,FW,West Ham,24,1996,36,34,2983,33.1,12,10,22,12,0,0,6,0,11.9,11.9,6.1,18.0,74,66,204,Premier League,2021-2022
+Riyad Mahrez,dz ALG,FW,Manchester City,30,1991,28,15,1498,16.6,11,5,16,7,4,5,0,0,10.1,6.2,4.2,10.4,74,70,234,Premier League,2021-2022
+Ollie Watkins,eng ENG,FW,Aston Villa,25,1995,35,33,2952,32.8,11,2,13,10,1,1,7,0,11.6,11.0,3.4,14.4,74,60,226,Premier League,2021-2022
+Bukayo Saka,eng ENG,"FW,MF",Arsenal,19,2001,38,36,2978,33.1,11,7,18,9,2,2,6,0,10.3,8.7,7.5,16.3,140,101,388,Premier League,2021-2022
+Mason Mount,eng ENG,MF,Chelsea,22,1999,32,27,2363,26.3,11,10,21,10,1,1,4,0,8.0,7.2,6.7,14.0,92,164,276,Premier League,2021-2022
+Raphinha,br BRA,"FW,MF",Leeds United,24,1996,35,34,2915,32.4,11,3,14,7,4,4,7,0,10.2,7.0,7.5,14.5,89,134,286,Premier League,2021-2022
+Teemu Pukki,fi FIN,FW,Norwich City,31,1990,37,37,3253,36.1,11,3,14,8,3,3,4,0,11.4,9.1,3.8,12.9,62,34,186,Premier League,2021-2022
+Bruno Fernandes,pt POR,MF,Manchester Utd,26,1994,36,35,3111,34.6,10,6,16,10,0,2,10,0,9.7,8.1,9.0,17.1,78,237,190,Premier League,2021-2022
+James Ward-Prowse,eng ENG,MF,Southampton,26,1994,36,36,3215,35.7,10,5,15,6,4,4,3,1,5.4,2.2,6.5,8.7,21,189,42,Premier League,2021-2022
+Michail Antonio,jm JAM,FW,West Ham,31,1990,36,34,2971,33.0,10,8,18,10,0,1,8,1,10.8,10.2,6.0,16.2,77,46,246,Premier League,2021-2022
+Emmanuel Dennis,ng NGA,"FW,MF",Watford,23,1997,33,30,2581,28.7,10,6,16,10,0,0,9,1,7.3,7.3,4.1,11.3,90,61,172,Premier League,2021-2022
+Emile Smith Rowe,eng ENG,"MF,FW",Arsenal,21,2000,33,21,1921,21.3,10,2,12,10,0,0,1,0,6.0,6.0,2.0,8.0,65,85,139,Premier League,2021-2022
+Richarlison,br BRA,FW,Everton,24,1997,30,28,2523,28.0,10,5,15,7,3,3,9,0,9.2,6.8,3.6,10.4,44,42,146,Premier League,2021-2022
+Maxwel Cornet,ci CIV,"FW,MF",Burnley,24,1996,26,21,1766,19.6,9,1,10,9,0,1,2,0,6.7,5.9,1.7,7.7,28,30,125,Premier League,2021-2022
+Phil Foden,eng ENG,FW,Manchester City,21,2000,28,24,2128,23.6,9,5,14,9,0,0,1,0,9.4,9.4,6.3,15.7,71,98,248,Premier League,2021-2022
+Leandro Trossard,be BEL,"FW,MF",Brighton,26,1994,34,32,2805,31.2,8,3,11,7,1,1,2,0,6.7,5.9,4.8,10.7,97,154,222,Premier League,2021-2022
+Bernardo Silva,pt POR,"MF,FW",Manchester City,26,1994,35,33,2857,31.7,8,4,12,8,0,0,6,0,6.7,6.7,6.5,13.2,146,170,277,Premier League,2021-2022
+Neal Maupay,fr FRA,FW,Brighton,24,1996,32,25,2276,25.3,8,2,10,7,1,2,7,0,8.7,7.1,2.4,9.5,21,48,164,Premier League,2021-2022
+Kai Havertz,de GER,"FW,MF",Chelsea,22,1999,29,22,1809,20.1,8,3,11,8,0,0,3,0,8.7,8.7,2.2,10.9,64,62,203,Premier League,2021-2022
+İlkay Gündoğan,de GER,MF,Manchester City,30,1990,27,20,1857,20.6,8,4,12,8,0,0,1,0,9.0,9.0,4.9,13.9,60,126,107,Premier League,2021-2022
+Romelu Lukaku,be BEL,FW,Chelsea,28,1993,26,16,1589,17.7,8,0,8,7,1,1,1,0,6.6,5.8,3.0,8.8,29,19,125,Premier League,2021-2022
+Gabriel Jesus,br BRA,FW,Manchester City,24,1997,28,21,1877,20.9,8,8,16,7,1,1,1,0,9.8,9.0,5.7,14.7,51,55,220,Premier League,2021-2022
+Conor Gallagher,eng ENG,MF,Crystal Palace,21,2000,34,33,2845,31.6,8,3,11,8,0,0,10,0,6.3,6.3,3.1,9.4,42,94,118,Premier League,2021-2022
+Callum Wilson,eng ENG,FW,Newcastle Utd,29,1992,18,16,1386,15.4,8,0,8,6,2,2,4,0,6.2,4.6,0.5,5.1,14,9,52,Premier League,2021-2022
+Jack Harrison,eng ENG,"FW,MF",Leeds United,24,1996,35,32,2639,29.3,8,1,9,8,0,0,3,0,4.4,4.4,3.2,7.6,120,89,234,Premier League,2021-2022
+Saïd Benrahma,dz ALG,"FW,MF",West Ham,25,1995,32,26,2168,24.1,8,6,14,8,0,0,0,0,4.8,4.8,3.7,8.5,73,73,222,Premier League,2021-2022
+Danny Ings,eng ENG,FW,Aston Villa,29,1992,30,22,1898,21.1,7,6,13,6,1,1,4,0,7.1,6.3,1.6,8.0,24,39,117,Premier League,2021-2022
+Rodri,es ESP,MF,Manchester City,25,1996,33,33,2884,32.0,7,2,9,7,0,0,5,0,2.3,2.3,1.4,3.7,43,285,47,Premier League,2021-2022
+Martin Ødegaard,no NOR,"MF,FW",Arsenal,22,1998,36,32,2785,30.9,7,4,11,7,0,0,4,0,4.8,4.8,6.3,11.1,57,224,146,Premier League,2021-2022
+Yoane Wissa,cd COD,FW,Brentford,24,1996,30,12,1284,14.3,7,1,8,7,0,0,0,0,3.1,3.1,0.9,4.0,19,29,84,Premier League,2021-2022
+Che Adams,sct SCO,FW,Southampton,25,1996,30,23,2039,22.7,7,3,10,7,0,0,0,0,7.1,7.1,3.0,10.1,19,33,153,Premier League,2021-2022
+Danny Welbeck,eng ENG,"FW,MF",Brighton,30,1990,25,15,1478,16.4,6,2,8,6,0,0,0,0,6.6,6.6,1.2,7.8,22,23,105,Premier League,2021-2022
+Youri Tielemans,be BEL,MF,Leicester City,24,1997,32,29,2631,29.2,6,4,10,4,2,2,3,0,4.4,2.8,4.2,7.0,31,202,69,Premier League,2021-2022
+Christian Pulisic,us USA,"MF,FW",Chelsea,22,1998,22,13,1290,14.3,6,2,8,6,0,0,2,0,4.9,4.9,1.3,6.2,44,38,108,Premier League,2021-2022
+Jacob Ramsey,eng ENG,MF,Aston Villa,20,2001,34,29,2467,27.4,6,1,7,6,0,0,6,0,4.0,4.0,1.9,5.9,91,132,92,Premier League,2021-2022
+Odsonne Édouard,fr FRA,FW,Crystal Palace,23,1998,28,18,1564,17.4,6,3,9,5,1,1,4,0,6.4,5.6,1.9,7.5,42,42,109,Premier League,2021-2022
+Pablo Fornals,es ESP,"FW,MF",West Ham,25,1996,36,32,2795,31.1,6,3,9,6,0,0,4,0,4.6,4.6,6.3,10.9,49,191,200,Premier League,2021-2022
+Jorginho,it ITA,MF,Chelsea,29,1991,29,26,2273,25.3,6,2,8,0,6,7,5,0,5.8,0.3,2.7,3.0,18,178,19,Premier League,2021-2022
+Raúl Jiménez,mx MEX,FW,Wolves,30,1991,34,30,2631,29.2,6,4,10,5,1,1,9,2,6.1,5.4,3.1,8.5,40,65,163,Premier League,2021-2022
+Rodrigo,es ESP,"MF,FW",Leeds United,30,1991,31,27,2265,25.2,6,1,7,5,1,1,9,0,4.2,3.5,3.1,6.6,47,105,164,Premier League,2021-2022
+Ademola Lookman,ng NGA,"FW,MF",Leicester City,23,1997,26,16,1453,16.1,6,0,6,6,0,0,2,0,4.5,4.5,1.9,6.4,43,54,139,Premier League,2021-2022
+Armando Broja,al ALB,FW,Southampton,19,2001,32,21,1975,21.9,6,0,6,6,0,0,2,0,5.9,5.9,1.0,6.9,56,29,114,Premier League,2021-2022
+Gabriel Martinelli,br BRA,"FW,MF",Arsenal,20,2001,29,21,1860,20.7,6,6,12,5,1,1,3,1,7.3,6.6,4.3,11.0,79,37,207,Premier League,2021-2022
+Harvey Barnes,eng ENG,"FW,MF",Leicester City,23,1997,32,24,2101,23.3,6,10,16,6,0,0,2,0,5.6,5.6,4.6,10.2,107,59,237,Premier League,2021-2022
+Tomáš Souček,cz CZE,MF,West Ham,26,1995,35,34,3062,34.0,5,1,6,5,0,0,3,0,5.5,4.8,2.2,7.0,36,141,54,Premier League,2021-2022
+Ismaila Sarr,sn SEN,"FW,MF",Watford,23,1998,22,21,1861,20.7,5,2,7,5,0,1,2,0,4.8,4.0,2.9,6.9,79,52,158,Premier League,2021-2022
+Allan Saint-Maximin,fr FRA,"FW,MF",Newcastle Utd,24,1997,35,31,2804,31.2,5,5,10,5,0,0,6,0,5.2,5.2,4.3,9.5,180,87,167,Premier League,2021-2022
+Alexis Mac Allister,ar ARG,"MF,FW",Brighton,22,1998,33,22,2123,23.6,5,2,7,3,2,3,4,0,6.3,4.0,1.9,5.9,30,137,66,Premier League,2021-2022
+Eddie Nketiah,eng ENG,FW,Arsenal,22,1999,21,8,835,9.3,5,1,6,5,0,0,3,0,4.4,4.4,2.0,6.4,27,21,66,Premier League,2021-2022
+Joshua King,no NOR,FW,Watford,29,1992,32,27,2248,25.0,5,3,8,4,1,1,5,0,8.9,8.1,3.8,11.9,41,39,157,Premier League,2021-2022
+Dejan Kulusevski,se SWE,"MF,FW",Tottenham,21,2000,18,14,1261,14.0,5,8,13,5,0,0,3,0,2.7,2.7,3.4,6.2,51,35,100,Premier League,2021-2022
+Manuel Lanzini,ar ARG,"MF,FW",West Ham,28,1993,30,19,1786,19.8,5,3,8,2,3,3,2,0,3.7,1.3,2.4,3.7,29,119,57,Premier League,2021-2022
+Dominic Calvert-Lewin,eng ENG,FW,Everton,24,1997,17,15,1283,14.3,5,2,7,3,2,3,2,0,6.5,4.2,1.6,5.7,9,17,50,Premier League,2021-2022
+Gabriel Magalhães,br BRA,DF,Arsenal,23,1997,35,35,3063,34.0,5,0,5,5,0,0,8,1,3.2,3.2,0.7,3.9,12,110,9,Premier League,2021-2022
+Jean-Philippe Mateta,fr FRA,FW,Crystal Palace,24,1997,22,13,1145,12.7,5,1,6,5,0,0,2,0,5.8,5.8,1.3,7.1,16,6,46,Premier League,2021-2022
+Reece James,eng ENG,DF,Chelsea,21,1999,26,22,1864,20.7,5,9,14,5,0,0,4,1,3.1,3.1,5.9,9.1,52,149,203,Premier League,2021-2022
+Hwang Hee-chan,kr KOR,"FW,MF",Wolves,25,1996,30,20,1816,20.2,5,1,6,5,0,0,2,0,4.4,4.4,1.3,5.8,66,57,114,Premier League,2021-2022
+Demarai Gray,jm JAM,"MF,FW",Everton,25,1996,34,28,2338,26.0,5,4,9,5,0,0,3,0,4.0,4.0,3.6,7.6,93,59,169,Premier League,2021-2022
+Mason Greenwood,eng ENG,"FW,MF",Manchester Utd,19,2001,18,16,1271,14.1,5,1,6,5,0,0,1,0,4.3,4.3,1.8,6.1,48,39,109,Premier League,2021-2022
+Bruno Guimarães,br BRA,MF,Newcastle Utd,23,1997,17,11,1034,11.5,5,1,6,5,0,0,4,0,3.1,3.1,1.1,4.2,18,54,15,Premier League,2021-2022
+Roberto Firmino,br BRA,FW,Liverpool,29,1991,20,10,990,11.0,5,4,9,5,0,0,3,0,4.7,4.7,1.7,6.4,27,40,100,Premier League,2021-2022
+Fabinho,br BRA,MF,Liverpool,27,1993,29,26,2314,25.7,5,1,6,3,2,2,7,0,3.9,2.4,1.3,3.7,18,134,37,Premier League,2021-2022
+Philippe Coutinho,br BRA,"MF,FW",Aston Villa,29,1992,19,16,1329,14.8,5,3,8,5,0,0,0,0,3.8,3.8,2.9,6.7,48,94,62,Premier League,2021-2022
+Cucho,co COL,"FW,MF",Watford,22,1999,25,11,1147,12.7,5,2,7,5,0,0,3,0,2.5,2.5,1.9,4.3,22,39,85,Premier League,2021-2022
+Patson Daka,zm ZAM,FW,Leicester City,22,1998,23,13,1159,12.9,5,3,8,5,0,0,2,0,4.2,4.2,2.0,6.1,10,17,66,Premier League,2021-2022
+Pierre-Emerick Aubameyang,ga GAB,FW,Arsenal,32,1989,14,12,1037,11.5,4,1,5,4,0,2,3,0,5.9,4.2,1.0,5.2,21,26,47,Premier League,2021-2022
+Hakim Ziyech,ma MAR,"MF,FW",Chelsea,28,1993,23,14,1319,14.7,4,3,7,4,0,0,3,0,3.4,3.4,2.9,6.3,50,88,142,Premier League,2021-2022
+Jan Bednarek,pl POL,DF,Southampton,25,1996,31,30,2629,29.2,4,0,4,4,0,0,10,0,2.2,2.2,0.4,2.6,0,61,5,Premier League,2021-2022
+Conor Coady,eng ENG,DF,Wolves,28,1993,38,38,3361,37.3,4,0,4,4,0,0,4,0,2.8,2.8,0.1,2.8,6,35,3,Premier League,2021-2022
+Mohamed Elyounoussi,no NOR,"MF,FW",Southampton,26,1994,30,23,2042,22.7,4,2,6,4,0,0,4,0,5.5,5.5,2.3,7.8,59,81,124,Premier League,2021-2022
+Luis Díaz,co COL,FW,Liverpool,24,1997,13,11,958,10.6,4,3,7,4,0,0,0,0,3.6,3.6,2.6,6.2,53,38,127,Premier League,2021-2022
+Jeffrey Schlupp,gh GHA,"MF,FW",Crystal Palace,28,1992,32,20,1851,20.6,4,1,5,4,0,0,1,0,3.4,3.4,1.6,4.9,31,70,60,Premier League,2021-2022
+Christian Benteke,be BEL,FW,Crystal Palace,30,1990,25,11,1145,12.7,4,1,5,4,0,0,3,0,4.9,4.9,1.3,6.2,15,24,79,Premier League,2021-2022
+Kelechi Iheanacho,ng NGA,FW,Leicester City,24,1996,26,13,1264,14.0,4,5,9,4,0,0,1,0,3.6,3.6,2.5,6.1,28,37,85,Premier League,2021-2022
+Matty Cash,pl POL,DF,Aston Villa,23,1997,38,38,3377,37.5,4,3,7,4,0,0,8,0,2.7,2.7,2.8,5.4,89,96,174,Premier League,2021-2022
+Anthony Gordon,eng ENG,"MF,FW",Everton,20,2001,35,25,2285,25.4,4,2,6,4,0,0,4,0,3.5,3.5,3.8,7.3,74,51,137,Premier League,2021-2022
+Rúben Neves,pt POR,MF,Wolves,24,1997,33,31,2661,29.6,4,2,6,4,0,0,9,0,1.1,1.1,3.1,4.3,34,202,19,Premier League,2021-2022
+Fred,br BRA,MF,Manchester Utd,28,1993,28,24,2028,22.5,4,4,8,4,0,0,5,0,1.3,1.3,2.2,3.5,17,138,41,Premier League,2021-2022
+Marcus Rashford,eng ENG,"FW,MF",Manchester Utd,23,1997,25,13,1235,13.7,4,2,6,4,0,0,2,0,2.9,2.9,2.1,5.0,50,28,118,Premier League,2021-2022
+Marcos Alonso,es ESP,DF,Chelsea,30,1990,28,25,2167,24.1,4,4,8,4,0,0,8,0,2.8,2.8,4.5,7.3,51,93,192,Premier League,2021-2022
+Bryan Mbeumo,cm CMR,FW,Brentford,21,1999,35,34,2905,32.3,4,7,11,3,1,1,4,0,9.3,8.5,3.7,12.2,81,56,273,Premier League,2021-2022
+Vitaly Janelt,de GER,MF,Brentford,23,1998,31,27,2298,25.5,4,0,4,4,0,0,3,0,2.4,2.4,1.9,4.2,25,103,60,Premier League,2021-2022
+Joelinton,br BRA,"MF,FW",Newcastle Utd,24,1996,35,30,2558,28.4,4,1,5,4,0,0,8,0,3.3,3.3,1.9,5.2,45,92,90,Premier League,2021-2022
+Emi Buendía,ar ARG,"MF,FW",Aston Villa,24,1996,35,22,1899,21.1,4,6,10,4,0,0,1,0,3.4,3.4,5.8,9.1,40,117,84,Premier League,2021-2022
+Aymeric Laporte,es ESP,DF,Manchester City,27,1994,33,33,2828,31.4,4,0,4,4,0,0,5,1,4.9,4.9,0.6,5.5,51,271,8,Premier League,2021-2022
+Timo Werner,de GER,"FW,MF",Chelsea,25,1996,21,15,1283,14.3,4,1,5,4,0,0,1,0,6.8,6.8,0.3,7.1,46,18,144,Premier League,2021-2022
+Alexandre Lacazette,fr FRA,FW,Arsenal,30,1991,30,20,1782,19.8,4,7,11,2,2,3,0,0,8.4,6.0,3.0,9.1,19,52,106,Premier League,2021-2022
+Daniel James,wls WAL,"FW,MF",Leeds United,23,1997,32,29,2366,26.3,4,4,8,4,0,0,7,1,6.1,6.1,2.9,8.9,69,57,186,Premier League,2021-2022
+Andrew Robertson,sct SCO,DF,Liverpool,27,1994,29,29,2537,28.2,3,10,13,3,0,0,5,1,1.4,1.4,5.6,7.0,96,186,239,Premier League,2021-2022
+Trevoh Chalobah,eng ENG,DF,Chelsea,22,1999,20,17,1449,16.1,3,1,4,3,0,0,2,0,1.1,1.1,0.3,1.4,24,88,14,Premier League,2021-2022
+Pontus Jansson,se SWE,DF,Brentford,30,1991,37,37,3321,36.9,3,1,4,3,0,0,7,0,3.0,3.0,0.3,3.3,4,67,5,Premier League,2021-2022
+Ben Chilwell,eng ENG,DF,Chelsea,24,1996,7,6,542,6.0,3,1,4,3,0,0,0,0,0.9,0.9,0.8,1.7,14,18,46,Premier League,2021-2022
+João Pedro,br BRA,"FW,MF",Watford,19,2001,28,15,1644,18.3,3,1,4,3,0,0,1,0,3.6,3.6,2.8,6.3,54,77,102,Premier League,2021-2022
+Joël Matip,cm CMR,DF,Liverpool,29,1991,31,31,2790,31.0,3,3,6,3,0,0,2,0,3.4,3.4,1.3,4.6,55,186,7,Premier League,2021-2022
+John McGinn,sct SCO,MF,Aston Villa,26,1994,35,35,3090,34.3,3,4,7,3,0,0,8,0,1.5,1.5,5.3,6.8,52,196,67,Premier League,2021-2022
+Divock Origi,be BEL,FW,Liverpool,26,1995,7,0,133,1.5,3,0,3,3,0,0,0,0,1.5,1.5,0.0,1.5,3,2,9,Premier League,2021-2022
+Thiago Silva,br BRA,DF,Chelsea,36,1984,32,28,2650,29.4,3,0,3,3,0,0,2,0,0.9,0.9,0.2,1.1,14,145,2,Premier League,2021-2022
+Steven Bergwijn,nl NED,"FW,MF",Tottenham,23,1997,25,4,565,6.3,3,1,4,3,0,0,1,0,2.5,2.5,0.9,3.5,26,17,53,Premier League,2021-2022
+Christian Nørgaard,dk DEN,MF,Brentford,27,1994,35,35,3054,33.9,3,4,7,3,0,0,8,0,3.8,3.8,3.3,7.1,17,169,31,Premier League,2021-2022
+Ben Mee,eng ENG,DF,Burnley,31,1989,21,21,1839,20.4,3,0,3,3,0,0,3,0,2.3,2.3,1.0,3.4,3,38,2,Premier League,2021-2022
+Sergi Canós,es ESP,"DF,FW",Brentford,24,1997,31,25,2083,23.1,3,2,5,3,0,0,8,1,3.0,3.0,1.7,4.6,52,59,100,Premier League,2021-2022
+Rico Henry,eng ENG,DF,Brentford,24,1997,34,33,2776,30.8,3,0,3,3,0,0,2,0,1.5,1.5,1.7,3.3,61,81,131,Premier League,2021-2022
+Takumi Minamino,jp JPN,"FW,MF",Liverpool,26,1995,11,1,186,2.1,3,0,3,3,0,0,1,0,1.6,1.6,0.5,2.2,2,5,15,Premier League,2021-2022
+Jack Grealish,eng ENG,FW,Manchester City,25,1995,26,22,1914,21.3,3,3,6,3,0,0,3,0,5.3,5.3,6.0,11.3,153,100,267,Premier League,2021-2022
+Naby Keïta,gn GUI,MF,Liverpool,26,1995,23,14,1173,13.0,3,1,4,3,0,0,3,0,2.2,2.2,1.9,4.1,39,75,42,Premier League,2021-2022
+Chris Wood,nz NZL,FW,Burnley,29,1991,17,17,1367,15.2,3,0,3,3,0,0,1,0,4.2,4.2,0.5,4.7,5,23,69,Premier League,2021-2022
+Andros Townsend,eng ENG,"MF,FW",Everton,30,1991,21,17,1455,16.2,3,2,5,2,1,1,3,0,2.2,1.5,3.1,4.5,41,50,100,Premier League,2021-2022
+Virgil van Dijk,nl NED,DF,Liverpool,30,1991,34,34,3060,34.0,3,1,4,3,0,0,3,0,2.0,2.0,1.5,3.6,11,145,4,Premier League,2021-2022
+Jordan Ayew,gh GHA,FW,Crystal Palace,29,1991,31,23,2019,22.4,3,3,6,3,0,0,2,0,3.1,3.1,2.8,5.9,98,51,151,Premier League,2021-2022
+Antonio Rüdiger,de GER,DF,Chelsea,28,1993,34,34,3035,33.7,3,0,3,3,0,0,9,0,2.3,2.3,0.7,3.0,54,188,21,Premier League,2021-2022
+Jadon Sancho,eng ENG,"FW,MF",Manchester Utd,21,2000,29,20,1900,21.1,3,3,6,3,0,0,0,0,3.6,3.6,4.1,7.7,111,88,222,Premier League,2021-2022
+Michael Keane,eng ENG,DF,Everton,28,1993,32,31,2792,31.0,3,2,5,3,0,0,4,1,1.2,1.2,1.6,2.8,9,79,4,Premier League,2021-2022
+Diego Llorente,es ESP,DF,Leeds United,27,1993,28,28,2340,26.0,3,0,3,3,0,0,7,0,1.0,1.0,0.1,1.0,20,97,1,Premier League,2021-2022
+Thomas Partey,gh GHA,MF,Arsenal,28,1993,24,23,2028,22.5,2,1,3,2,0,0,6,0,2.8,2.8,1.0,3.8,20,119,11,Premier League,2021-2022
+Josh Sargent,us USA,"FW,MF",Norwich City,21,2000,26,18,1572,17.5,2,1,3,2,0,0,1,0,2.5,2.5,0.9,3.4,21,12,88,Premier League,2021-2022
+Oriol Romeu,es ESP,MF,Southampton,29,1991,36,34,2889,32.1,2,2,4,2,0,0,9,0,1.4,1.4,2.9,4.3,38,156,29,Premier League,2021-2022
+Davinson Sánchez,co COL,DF,Tottenham,25,1996,23,17,1631,18.1,2,0,2,2,0,0,4,0,2.1,2.1,0.3,2.4,21,65,8,Premier League,2021-2022
+Matěj Vydra,cz CZE,FW,Burnley,29,1992,22,5,679,7.5,2,3,5,2,0,0,1,0,2.9,2.9,0.7,3.7,2,7,43,Premier League,2021-2022
+Aaron Cresswell,eng ENG,DF,West Ham,31,1989,31,31,2726,30.3,2,3,5,2,0,0,3,0,1.1,1.1,3.2,4.2,54,186,99,Premier League,2021-2022
+Adam Armstrong,eng ENG,FW,Southampton,24,1997,23,17,1413,15.7,2,2,4,2,0,0,1,0,4.5,4.5,1.6,6.2,39,30,105,Premier League,2021-2022
+Stuart Armstrong,sct SCO,MF,Southampton,29,1992,25,15,1473,16.4,2,0,2,2,0,0,1,0,2.5,2.5,1.5,4.0,63,83,78,Premier League,2021-2022
+Fabian Schär,ch SUI,DF,Newcastle Utd,29,1991,25,25,2158,24.0,2,2,4,2,0,0,4,0,1.2,1.2,1.1,2.3,20,59,2,Premier League,2021-2022
+Romain Saïss,ma MAR,DF,Wolves,31,1990,31,31,2705,30.1,2,0,2,2,0,0,6,0,2.7,2.7,0.3,3.1,18,137,9,Premier League,2021-2022
+Anthony Elanga,se SWE,FW,Manchester Utd,19,2002,21,14,1214,13.5,2,2,4,2,0,0,0,0,2.6,2.6,2.4,5.1,32,18,114,Premier League,2021-2022
+Craig Dawson,eng ENG,DF,West Ham,31,1990,34,30,2754,30.6,2,2,4,2,0,0,5,1,3.0,3.0,1.0,4.0,4,54,3,Premier League,2021-2022
+Kieran Trippier,eng ENG,DF,Newcastle Utd,30,1990,6,5,429,4.8,2,0,2,2,0,0,0,0,0.2,0.2,0.3,0.5,2,17,8,Premier League,2021-2022
+Leander Dendoncker,be BEL,MF,Wolves,26,1995,30,21,1950,21.7,2,2,4,2,0,0,4,0,2.2,2.2,1.1,3.3,9,64,45,Premier League,2021-2022
+Jonjo Shelvey,eng ENG,MF,Newcastle Utd,29,1992,24,22,1983,22.0,2,1,3,2,0,0,7,1,0.9,0.9,1.0,1.9,11,84,7,Premier League,2021-2022
+Ferrán Torres,es ESP,FW,Manchester City,21,2000,4,4,303,3.4,2,1,3,2,0,0,0,0,2.8,2.8,0.0,2.8,5,4,26,Premier League,2021-2022
+Abdoulaye Doucouré,ml MLI,MF,Everton,28,1993,30,29,2537,28.2,2,4,6,2,0,0,6,0,2.2,2.2,2.0,4.2,33,113,54,Premier League,2021-2022
+Rúben Dias,pt POR,DF,Manchester City,24,1997,29,27,2402,26.7,2,4,6,2,0,0,5,0,2.7,2.7,3.2,5.9,33,139,4,Premier League,2021-2022
+Moussa Sissoko,fr FRA,MF,Watford,31,1989,36,36,3220,35.8,2,1,3,2,0,0,5,0,3.8,3.7,3.1,6.8,51,116,71,Premier League,2021-2022
+Matt Doherty,ie IRL,DF,Tottenham,29,1992,15,9,875,9.7,2,4,6,2,0,0,0,0,2.5,2.5,2.0,4.5,29,24,80,Premier League,2021-2022
+Nathan Collins,ie IRL,DF,Burnley,20,2001,19,18,1670,18.6,2,0,2,2,0,0,2,1,1.5,1.5,1.5,3.0,7,44,8,Premier League,2021-2022
+Chris Wood,nz NZL,FW,Newcastle Utd,29,1991,17,15,1327,14.7,2,0,2,1,1,1,0,0,3.1,2.3,1.1,3.4,5,18,60,Premier League,2021-2022
+Francisco Trincão,pt POR,"FW,MF",Wolves,21,1999,28,16,1336,14.8,2,1,3,2,0,0,0,0,3.7,3.7,1.6,5.4,56,40,93,Premier League,2021-2022
+Jay Rodriguez,eng ENG,FW,Burnley,32,1989,29,13,1382,15.4,2,2,4,2,0,0,3,0,4.8,4.8,2.1,6.9,18,19,60,Premier League,2021-2022
+Fernandinho,br BRA,"MF,DF",Manchester City,36,1985,19,10,964,10.7,2,1,3,2,0,0,1,0,1.6,1.6,1.0,2.5,16,81,11,Premier League,2021-2022
+Patrick Bamford,eng ENG,FW,Leeds United,27,1993,9,7,559,6.2,2,2,4,2,0,0,2,0,3.0,3.0,1.1,4.0,8,12,24,Premier League,2021-2022
+Joe Willock,eng ENG,MF,Newcastle Utd,21,1999,29,24,2038,22.6,2,0,2,2,0,0,0,0,3.2,3.2,1.2,4.4,48,58,77,Premier League,2021-2022
+N'Golo Kanté,fr FRA,MF,Chelsea,30,1991,26,21,1773,19.7,2,4,6,2,0,0,2,0,1.5,1.5,2.1,3.6,72,159,62,Premier League,2021-2022
+Douglas Luiz,br BRA,MF,Aston Villa,23,1998,34,31,2715,30.2,2,3,5,2,0,0,7,0,2.0,2.0,2.5,4.4,28,105,44,Premier League,2021-2022
+Josh Brownhill,eng ENG,MF,Burnley,25,1995,35,32,2955,32.8,2,3,5,2,0,0,10,0,1.4,1.4,2.6,3.9,18,106,37,Premier League,2021-2022
+Pierre Højbjerg,dk DEN,MF,Tottenham,25,1995,36,36,3196,35.5,2,2,4,2,0,0,3,0,1.9,1.9,2.3,4.2,46,242,47,Premier League,2021-2022
+Lucas Moura,br BRA,"FW,MF",Tottenham,28,1992,34,19,1775,19.7,2,6,8,2,0,0,4,0,2.7,2.7,5.0,7.7,48,99,87,Premier League,2021-2022
+Jordan Henderson,eng ENG,MF,Liverpool,31,1990,35,29,2597,28.9,2,5,7,2,0,0,3,0,1.5,1.5,3.5,5.0,54,245,116,Premier League,2021-2022
+Mason Holgate,eng ENG,DF,Everton,24,1996,25,23,2134,23.7,2,1,3,2,0,0,7,1,1.3,1.3,0.1,1.4,4,40,2,Premier League,2021-2022
+Jonny Castro,es ESP,DF,Wolves,27,1994,13,10,1024,11.4,2,0,2,2,0,0,1,0,1.0,1.0,1.3,2.3,25,35,56,Premier League,2021-2022
+Mateo Kovačić,hr CRO,MF,Chelsea,27,1994,25,16,1558,17.3,2,5,7,2,0,0,4,0,1.6,1.6,3.2,4.7,42,135,37,Premier League,2021-2022
+Aaron Lennon,eng ENG,"MF,FW",Burnley,34,1987,28,17,1551,17.2,2,0,2,2,0,0,2,0,1.1,1.1,0.5,1.6,38,19,77,Premier League,2021-2022
+Jesse Lingard,eng ENG,"FW,MF",Manchester Utd,28,1992,16,2,367,4.1,2,0,2,2,0,0,1,0,0.6,0.6,0.3,1.0,9,13,22,Premier League,2021-2022
+Ezri Konsa,eng ENG,DF,Aston Villa,23,1997,29,29,2477,27.5,2,0,2,2,0,0,6,2,1.6,1.6,0.3,1.9,8,45,7,Premier League,2021-2022
+Nathan Aké,nl NED,DF,Manchester City,26,1995,14,10,923,10.3,2,0,2,2,0,0,0,0,0.7,0.7,0.6,1.2,12,57,8,Premier League,2021-2022
+Trent Alexander-Arnold,eng ENG,DF,Liverpool,22,1998,32,32,2853,31.7,2,12,14,2,0,0,2,0,2.4,2.4,12.0,14.4,53,267,201,Premier League,2021-2022
+Wout Weghorst,nl NED,FW,Burnley,28,1992,20,17,1450,16.1,2,3,5,2,0,0,3,0,4.8,4.8,1.5,6.2,7,26,81,Premier League,2021-2022
+Adam Webster,eng ENG,DF,Brighton,26,1995,22,16,1434,15.9,2,0,2,2,0,0,5,0,0.9,0.9,0.0,0.9,19,109,7,Premier League,2021-2022
+Luke Ayling,eng ENG,DF,Leeds United,29,1991,26,26,2272,25.2,2,2,4,2,0,0,4,1,1.2,1.2,1.8,3.1,45,135,51,Premier League,2021-2022
+Alex Oxlade-Chamberlain,eng ENG,"MF,FW",Liverpool,27,1993,17,9,785,8.7,2,1,3,2,0,0,0,0,1.3,1.3,1.1,2.5,34,61,63,Premier League,2021-2022
+Joe Gelhardt,eng ENG,"FW,MF",Leeds United,19,2002,20,5,746,8.3,2,2,4,2,0,0,4,0,3.0,3.0,1.6,4.6,17,15,55,Premier League,2021-2022
+João Moutinho,pt POR,MF,Wolves,34,1986,35,34,2970,33.0,2,1,3,2,0,0,4,0,1.3,1.3,2.7,3.9,42,196,37,Premier League,2021-2022
+Enock Mwepu,zm ZAM,MF,Brighton,23,1998,18,12,996,11.1,2,4,6,2,0,0,2,0,2.1,2.1,1.6,3.7,22,27,44,Premier League,2021-2022
+Michael Olise,fr FRA,"FW,MF",Crystal Palace,19,2001,26,12,1141,12.7,2,5,7,2,0,0,4,0,1.7,1.7,3.9,5.6,55,63,110,Premier League,2021-2022
+Sergio Reguilón,es ESP,"DF,MF",Tottenham,24,1996,25,22,1916,21.3,2,3,5,2,0,0,4,0,3.0,3.0,3.3,6.4,63,50,144,Premier League,2021-2022
+Ryan Fraser,sct SCO,"FW,MF",Newcastle Utd,27,1994,27,18,1465,16.3,2,3,5,2,0,0,3,0,2.7,2.7,2.1,4.7,35,34,86,Premier League,2021-2022
+Pascal Groß,de GER,"MF,DF",Brighton,30,1991,29,24,2038,22.6,2,4,6,2,0,1,1,0,2.9,2.1,5.5,7.7,39,149,141,Premier League,2021-2022
+Edinson Cavani,uy URU,FW,Manchester Utd,34,1987,15,7,766,8.5,2,1,3,2,0,0,0,0,3.4,3.4,1.2,4.7,2,9,32,Premier League,2021-2022
+Marc Guéhi,eng ENG,DF,Crystal Palace,21,2000,36,36,3222,35.8,2,1,3,2,0,0,4,0,2.5,2.5,1.3,3.8,17,111,7,Premier League,2021-2022
+Ayoze Pérez,es ESP,"MF,FW",Leicester City,28,1993,14,6,445,4.9,2,3,5,2,0,0,0,1,1.6,1.6,1.6,3.2,16,18,30,Premier League,2021-2022
+Daniel Podence,pt POR,"FW,MF",Wolves,25,1995,26,15,1484,16.5,2,3,5,2,0,0,2,0,2.0,2.0,3.9,5.9,63,75,102,Premier League,2021-2022
+Alex Iwobi,ng NGA,"MF,DF",Everton,25,1996,28,22,2035,22.6,2,2,4,2,0,0,1,0,2.3,2.3,2.6,4.9,44,103,104,Premier League,2021-2022
+Eberechi Eze,eng ENG,"MF,FW",Crystal Palace,23,1998,13,6,605,6.7,1,1,2,1,0,0,1,0,0.4,0.4,0.9,1.3,20,33,38,Premier League,2021-2022
+Donny van de Beek,nl NED,MF,Manchester Utd,24,1997,8,0,75,0.8,1,0,1,1,0,0,0,0,0.5,0.5,0.4,0.9,0,4,4,Premier League,2021-2022
+Tyler Roberts,wls WAL,"MF,FW",Leeds United,22,1999,23,7,987,11.0,1,1,2,1,0,0,5,0,2.4,2.4,1.0,3.4,17,29,63,Premier League,2021-2022
+Cristian Romero,ar ARG,DF,Tottenham,23,1998,22,21,1844,20.5,1,0,1,1,0,0,8,0,0.5,0.5,0.3,0.7,23,65,9,Premier League,2021-2022
+Mads Roerslev,dk DEN,DF,Brentford,22,1999,21,12,1240,13.8,1,1,2,1,0,0,1,0,0.4,0.4,0.6,0.9,14,22,54,Premier League,2021-2022
+Marc Cucurella,es ESP,DF,Brighton,23,1998,35,35,3089,34.3,1,1,2,1,0,0,6,0,0.7,0.7,2.7,3.4,104,191,208,Premier League,2021-2022
+Raphaël Varane,fr FRA,DF,Manchester Utd,28,1993,22,20,1831,20.3,1,1,2,1,0,0,0,0,0.7,0.7,0.2,0.9,11,49,2,Premier League,2021-2022
+Nikola Vlašić,hr CRO,"FW,MF",West Ham,23,1997,19,6,560,6.2,1,0,1,1,0,0,0,0,1.3,1.3,0.6,2.0,21,14,48,Premier League,2021-2022
+Joël Veltman,nl NED,DF,Brighton,29,1992,34,33,2874,31.9,1,1,2,1,0,0,6,0,0.7,0.7,1.6,2.3,25,124,65,Premier League,2021-2022
+Kurt Zouma,fr FRA,DF,West Ham,26,1994,24,24,2078,23.1,1,0,1,1,0,0,1,0,1.1,1.1,0.1,1.2,11,33,2,Premier League,2021-2022
+Ashley Barnes,eng ENG,FW,Burnley,31,1989,23,8,808,9.0,1,0,1,0,1,1,4,0,2.1,1.4,0.9,2.2,5,17,47,Premier League,2021-2022
+Ross Barkley,eng ENG,"MF,FW",Chelsea,27,1993,6,1,179,2.0,1,0,1,1,0,0,0,0,1.0,1.0,0.5,1.5,14,14,17,Premier League,2021-2022
+Shandon Baptiste,gd GRN,MF,Brentford,23,1998,22,9,910,10.1,1,0,1,1,0,0,2,1,0.7,0.7,0.5,1.3,14,35,29,Premier League,2021-2022
+Donny van de Beek,nl NED,MF,Everton,24,1997,7,5,483,5.4,1,0,1,1,0,0,1,0,1.1,1.1,0.1,1.1,3,20,10,Premier League,2021-2022
+Emerson,br BRA,"DF,MF",Tottenham,22,1999,31,26,2286,25.4,1,1,2,1,0,0,5,0,1.5,1.5,2.2,3.6,68,68,175,Premier League,2021-2022
+Christian Eriksen,dk DEN,MF,Brentford,29,1992,11,10,939,10.4,1,4,5,1,0,0,1,0,1.3,1.3,3.5,4.8,21,82,22,Premier League,2021-2022
+Salomón Rondón,ve VEN,FW,Everton,31,1989,20,8,790,8.8,1,1,2,1,0,0,3,1,1.8,1.8,0.7,2.6,5,9,41,Premier League,2021-2022
+Séamus Coleman,ie IRL,DF,Everton,32,1988,30,30,2656,29.5,1,0,1,1,0,0,4,0,1.2,1.2,0.8,2.0,40,96,77,Premier League,2021-2022
+Kieran Dowell,eng ENG,"FW,MF",Norwich City,23,1997,19,11,912,10.1,1,1,2,1,0,0,0,0,1.1,1.1,1.5,2.6,14,31,49,Premier League,2021-2022
+Kiernan Dewsbury-Hall,eng ENG,MF,Leicester City,22,1998,28,23,2105,23.4,1,2,3,1,0,0,4,0,1.2,1.2,2.7,3.9,82,132,98,Premier League,2021-2022
+Granit Xhaka,ch SUI,"MF,DF",Arsenal,28,1992,27,27,2327,25.9,1,2,3,1,0,0,10,1,1.4,1.4,2.3,3.7,39,230,67,Premier League,2021-2022
+Adama Traoré,es ESP,"FW,MF",Wolves,25,1996,20,10,1067,11.9,1,0,1,1,0,0,0,0,3.0,3.0,1.4,4.4,84,29,85,Premier League,2021-2022
+Tom Davies,eng ENG,MF,Everton,23,1998,6,2,234,2.6,1,0,1,1,0,0,1,0,0.8,0.8,0.0,0.8,1,7,3,Premier League,2021-2022
+Ben Davies,wls WAL,DF,Tottenham,28,1993,29,28,2538,28.2,1,1,2,1,0,0,6,0,2.3,2.3,0.5,2.9,62,137,60,Premier League,2021-2022
+Stuart Dallas,nir NIR,"DF,MF",Leeds United,30,1991,34,34,2919,32.4,1,1,2,1,0,0,5,0,1.9,1.9,2.3,4.1,82,170,79,Premier League,2021-2022
+James Tomkins,eng ENG,DF,Crystal Palace,32,1989,8,6,547,6.1,1,0,1,1,0,0,2,0,0.5,0.5,0.2,0.7,1,8,1,Premier League,2021-2022
+Kieran Tierney,sct SCO,DF,Arsenal,24,1997,22,22,1915,21.3,1,3,4,1,0,0,0,0,0.6,0.6,1.8,2.4,62,105,128,Premier League,2021-2022
+Nuno Tavares,pt POR,DF,Arsenal,21,2000,22,13,1176,13.1,1,1,2,1,0,0,2,0,1.9,1.9,1.1,2.9,47,42,91,Premier League,2021-2022
+James Tarkowski,eng ENG,DF,Burnley,28,1992,35,35,3106,34.5,1,2,3,1,0,0,11,0,2.5,2.5,0.5,3.0,3,97,11,Premier League,2021-2022
+Lewis Dunk,eng ENG,DF,Brighton,29,1991,29,29,2573,28.6,1,0,1,1,0,0,3,1,1.3,1.3,0.4,1.8,14,83,3,Premier League,2021-2022
+John Stones,eng ENG,DF,Manchester City,27,1994,14,12,1119,12.4,1,0,1,1,0,0,0,0,0.9,0.9,0.2,1.1,28,63,7,Premier League,2021-2022
+Pascal Struijk,nl NED,"DF,MF",Leeds United,21,1999,29,22,2055,22.8,1,0,1,1,0,0,6,1,1.4,1.4,0.4,1.9,8,86,10,Premier League,2021-2022
+Matt Targett,eng ENG,DF,Aston Villa,25,1995,17,17,1431,15.9,1,1,2,1,0,0,2,0,0.5,0.5,1.7,2.2,19,83,79,Premier League,2021-2022
+Shane Duffy,ie IRL,DF,Brighton,29,1992,18,15,1436,16.0,1,0,1,1,0,0,7,0,1.0,1.0,0.2,1.2,3,41,3,Premier League,2021-2022
+Çağlar Söyüncü,tr TUR,DF,Leicester City,25,1996,28,28,2497,27.7,1,0,1,1,0,0,5,0,1.0,1.0,0.1,1.1,19,71,5,Premier League,2021-2022
+Cédric Soares,pt POR,DF,Arsenal,29,1991,21,16,1486,16.5,1,1,2,1,0,0,3,0,0.6,0.6,1.6,2.1,17,84,56,Premier League,2021-2022
+Andriy Yarmolenko,ua UKR,"FW,MF",West Ham,31,1989,19,1,316,3.5,1,0,1,1,0,0,1,0,0.8,0.8,0.3,1.1,12,12,28,Premier League,2021-2022
+Scott McTominay,sct SCO,MF,Manchester Utd,24,1996,30,28,2387,26.5,1,1,2,1,0,0,9,0,1.4,1.4,1.5,2.9,40,125,37,Premier League,2021-2022
+Adam Idah,ie IRL,"FW,MF",Norwich City,20,2001,17,6,625,6.9,1,1,2,1,0,0,0,0,2.3,2.3,0.6,2.9,11,10,48,Premier League,2021-2022
+João Cancelo,pt POR,DF,Manchester City,27,1994,36,36,3227,35.9,1,7,8,1,0,0,7,0,4.0,4.0,5.4,9.3,125,357,270,Premier League,2021-2022
+Timothy Castagne,be BEL,DF,Leicester City,25,1995,27,22,2127,23.6,1,0,1,1,0,0,1,0,0.7,0.7,1.5,2.2,32,72,115,Premier League,2021-2022
+Kortney Hause,eng ENG,DF,Aston Villa,26,1995,7,4,397,4.4,1,0,1,1,0,0,0,0,0.1,0.1,0.0,0.1,2,14,3,Premier League,2021-2022
+Grant Hanley,sct SCO,DF,Norwich City,29,1991,33,33,2897,32.2,1,0,1,1,0,0,2,0,2.1,2.1,0.9,3.0,2,27,3,Premier League,2021-2022
+Jeff Hendrick,ie IRL,MF,Newcastle Utd,29,1992,3,0,72,0.8,1,0,1,1,0,0,0,0,0.1,0.1,0.0,0.1,1,0,1,Premier League,2021-2022
+Pedro Neto,pt POR,"FW,MF",Wolves,21,2000,13,5,466,5.2,1,1,2,1,0,0,3,0,1.5,1.5,1.0,2.5,27,10,49,Premier League,2021-2022
+Tyrone Mings,eng ENG,DF,Aston Villa,28,1993,36,35,3189,35.4,1,3,4,1,0,0,11,0,1.6,1.6,1.6,3.3,23,91,17,Premier League,2021-2022
+Jacob Murphy,eng ENG,"FW,DF",Newcastle Utd,26,1995,33,13,1473,16.4,1,2,3,1,0,0,4,0,2.2,2.2,2.6,4.8,51,44,80,Premier League,2021-2022
+Tanguy Ndombele,fr FRA,MF,Tottenham,24,1996,9,6,484,5.4,1,1,2,1,0,0,1,0,0.4,0.4,0.4,0.8,14,21,25,Premier League,2021-2022
+Vitaliy Mykolenko,ua UKR,DF,Everton,22,1999,13,12,1055,11.7,1,0,1,1,0,0,0,0,0.5,0.5,0.8,1.2,8,27,27,Premier League,2021-2022
+Rob Holding,eng ENG,DF,Arsenal,25,1995,15,9,845,9.4,1,0,1,1,0,0,4,1,0.4,0.4,0.0,0.4,4,23,0,Premier League,2021-2022
+Callum Hudson-Odoi,eng ENG,"MF,FW",Chelsea,20,2000,15,11,962,10.7,1,2,3,1,0,0,1,0,2.5,2.5,2.1,4.6,67,41,102,Premier League,2021-2022
+Isaac Hayden,eng ENG,"MF,DF",Newcastle Utd,26,1995,14,12,1002,11.1,1,0,1,1,0,0,5,0,0.4,0.4,0.0,0.5,3,15,10,Premier League,2021-2022
+Jonny Evans,nir NIR,DF,Leicester City,33,1988,18,16,1348,15.0,1,1,2,1,0,0,3,0,0.6,0.6,0.8,1.4,1,49,4,Premier League,2021-2022
+Ethan Pinnock,jm JAM,DF,Brentford,28,1993,32,32,2694,29.9,1,1,2,1,0,0,1,0,1.2,1.2,1.2,2.4,11,77,18,Premier League,2021-2022
+Paul Pogba,fr FRA,"MF,FW",Manchester Utd,28,1993,20,16,1349,15.0,1,9,10,1,0,0,7,1,2.6,2.6,3.5,6.1,34,117,62,Premier League,2021-2022
+Anwar El Ghazi,nl NED,"FW,MF",Aston Villa,26,1995,9,4,386,4.3,1,1,2,0,1,1,2,0,1.1,0.3,0.4,0.7,13,5,38,Premier League,2021-2022
+Jack Cork,eng ENG,MF,Burnley,32,1989,20,20,1670,18.6,1,0,1,1,0,0,4,0,0.7,0.7,0.3,1.0,12,46,12,Premier League,2021-2022
+Declan Rice,eng ENG,MF,West Ham,22,1999,36,35,3179,35.3,1,4,5,1,0,0,8,0,1.1,1.1,1.7,2.8,104,256,44,Premier League,2021-2022
+Connor Roberts,wls WAL,DF,Burnley,25,1995,21,19,1692,18.8,1,1,2,1,0,0,2,0,0.4,0.4,1.2,1.6,23,61,44,Premier League,2021-2022
+Nathan Redmond,eng ENG,"MF,FW",Southampton,27,1994,27,20,1833,20.4,1,5,6,1,0,0,0,0,1.7,1.7,3.9,5.6,71,95,131,Premier League,2021-2022
+Milot Rashica,xk KVX,"FW,MF",Norwich City,25,1996,31,25,2229,24.8,1,2,3,1,0,0,0,0,2.6,2.6,2.1,4.7,76,46,138,Premier League,2021-2022
+Dan Gosling,eng ENG,MF,Watford,31,1990,4,2,166,1.8,1,0,1,1,0,0,0,0,0.2,0.2,0.0,0.3,2,4,5,Premier League,2021-2022
+Ricardo Pereira,pt POR,DF,Leicester City,27,1993,14,13,991,11.0,1,3,4,1,0,0,3,0,0.7,0.7,1.3,2.0,28,43,34,Premier League,2021-2022
+Nicolas Pépé,ci CIV,"FW,MF",Arsenal,26,1995,20,5,696,7.7,1,2,3,1,0,0,0,0,2.6,2.6,1.7,4.3,20,17,97,Premier League,2021-2022
+Saman Ghoddos,ir IRN,"MF,DF",Brentford,27,1993,17,4,536,6.0,1,1,2,1,0,0,2,0,0.5,0.5,1.2,1.7,7,25,40,Premier League,2021-2022
+Angelo Ogbonna,it ITA,DF,West Ham,33,1988,11,11,921,10.2,1,0,1,1,0,0,1,0,0.3,0.3,0.0,0.3,2,14,0,Premier League,2021-2022
+Andrew Omobamidele,ie IRL,DF,Norwich City,19,2002,5,4,382,4.2,1,0,1,1,0,0,1,0,0.2,0.2,0.0,0.2,6,14,1,Premier League,2021-2022
+Mathias Normann,no NOR,MF,Norwich City,25,1996,23,20,1645,18.3,1,2,3,1,0,0,6,0,0.9,0.9,1.8,2.7,16,75,8,Premier League,2021-2022
+Mark Noble,eng ENG,MF,West Ham,34,1987,11,3,332,3.7,1,0,1,0,1,2,0,0,1.6,0.0,0.0,0.0,2,14,3,Premier League,2021-2022
+Hassane Kamara,ci CIV,DF,Watford,27,1994,19,18,1623,18.0,1,0,1,1,0,0,5,1,0.2,0.2,0.6,0.8,32,55,25,Premier League,2021-2022
+Max Kilman,eng ENG,DF,Wolves,24,1997,30,30,2687,29.9,1,0,1,1,0,0,3,0,1.1,1.1,0.2,1.3,31,95,7,Premier League,2021-2022
+Jarrad Branthwaite,eng ENG,DF,Everton,19,2002,6,4,388,4.3,1,0,1,1,0,0,0,1,0.5,0.5,0.0,0.5,1,12,0,Premier League,2021-2022
+Matthew Lowton,eng ENG,DF,Burnley,32,1989,25,20,1772,19.7,1,2,3,1,0,0,3,1,0.7,0.7,2.1,2.8,21,74,39,Premier League,2021-2022
+Sean Longstaff,eng ENG,MF,Newcastle Utd,23,1997,24,15,1464,16.3,1,1,2,1,0,0,1,0,0.7,0.7,0.8,1.6,2,43,15,Premier League,2021-2022
+Shane Long,ie IRL,FW,Southampton,34,1987,13,3,308,3.4,1,0,1,1,0,0,1,0,0.9,0.9,0.1,1.0,5,3,24,Premier League,2021-2022
+Moisés Caicedo,ec ECU,MF,Brighton,19,2001,8,8,660,7.3,1,1,2,1,0,0,2,0,0.8,0.8,0.3,1.1,9,22,8,Premier League,2021-2022
+Dan Burn,eng ENG,DF,Brighton,29,1992,13,12,1022,11.4,1,0,1,1,0,0,4,0,1.6,1.5,0.5,2.0,9,50,3,Premier League,2021-2022
+Calum Chambers,eng ENG,DF,Aston Villa,26,1995,11,9,831,9.2,1,0,1,1,0,0,1,0,0.2,0.2,0.1,0.3,3,31,1,Premier League,2021-2022
+Harry Maguire,eng ENG,DF,Manchester Utd,28,1993,30,28,2515,27.9,1,0,1,1,0,0,9,1,1.9,1.9,0.1,2.1,22,115,5,Premier League,2021-2022
+Anthony Martial,fr FRA,FW,Manchester Utd,25,1995,8,2,212,2.4,1,0,1,1,0,0,0,0,0.7,0.7,0.0,0.7,10,14,32,Premier League,2021-2022
+Arthur Masuaku,cd COD,"DF,FW",West Ham,27,1993,13,6,650,7.2,1,1,2,1,0,0,1,0,0.1,0.1,0.8,0.9,16,33,26,Premier League,2021-2022
+Kenny McLean,sct SCO,MF,Norwich City,29,1992,31,29,2706,30.1,1,0,1,1,0,0,3,0,1.8,1.8,0.8,2.6,32,99,61,Premier League,2021-2022
+Javier Manquillo,es ESP,DF,Newcastle Utd,27,1994,19,15,1257,14.0,1,2,3,1,0,0,5,0,0.3,0.3,0.3,0.6,6,22,25,Premier League,2021-2022
+Curtis Jones,eng ENG,MF,Liverpool,20,2001,15,10,851,9.5,1,1,2,1,0,0,0,0,0.9,0.9,0.6,1.5,25,58,54,Premier League,2021-2022
+Ben Johnson,eng ENG,DF,West Ham,21,2000,20,16,1397,15.5,1,0,1,1,0,0,1,0,0.2,0.2,0.6,0.7,23,64,67,Premier League,2021-2022
+Mateusz Klich,pl POL,MF,Leeds United,31,1990,33,26,2073,23.0,1,2,3,1,0,0,5,0,2.8,2.8,2.2,5.0,45,105,129,Premier League,2021-2022
+Juraj Kucka,sk SVK,MF,Watford,34,1987,26,22,1920,21.3,1,1,2,1,0,0,5,1,3.2,3.2,0.9,4.1,21,60,31,Premier League,2021-2022
+Pierre Lees-Melou,fr FRA,MF,Norwich City,28,1993,33,27,2265,25.2,1,0,1,1,0,0,5,0,1.6,1.6,1.9,3.6,33,114,60,Premier League,2021-2022
+Mathias Jørgensen,dk DEN,DF,Brentford,31,1990,8,6,518,5.8,1,0,1,1,0,0,2,0,0.1,0.1,0.3,0.4,5,18,1,Premier League,2021-2022
+Valentino Livramento,eng ENG,DF,Southampton,18,2002,28,25,2202,24.5,1,1,2,1,0,0,2,0,1.4,1.4,2.7,4.1,79,80,118,Premier League,2021-2022
+Yves Bissouma,ml MLI,MF,Brighton,24,1996,26,25,2111,23.5,1,2,3,1,0,0,10,0,0.9,0.9,0.8,1.7,40,92,16,Premier League,2021-2022
+Jamaal Lascelles,eng ENG,DF,Newcastle Utd,27,1993,26,22,2058,22.9,1,0,1,1,0,0,5,0,0.9,0.9,0.4,1.3,0,18,5,Premier League,2021-2022
+Kyle Walker-Peters,eng ENG,DF,Southampton,24,1997,32,29,2633,29.3,1,2,3,1,0,0,5,0,1.1,1.1,2.7,3.8,134,147,165,Premier League,2021-2022
+César Azpilicueta,es ESP,DF,Chelsea,31,1989,27,24,2070,23.0,1,2,3,1,0,0,3,0,0.9,0.9,1.8,2.6,49,138,132,Premier League,2021-2022
+Leon Bailey,jm JAM,"FW,MF",Aston Villa,23,1997,18,7,761,8.5,1,2,3,1,0,0,3,0,1.5,1.5,0.8,2.3,34,24,61,Premier League,2021-2022
+Dele Alli,eng ENG,MF,Tottenham,25,1996,10,8,657,7.3,1,0,1,0,1,1,1,0,1.6,0.8,0.3,1.1,8,18,22,Premier League,2021-2022
+Miguel Almirón,py PAR,"MF,FW",Newcastle Utd,27,1994,30,19,1716,19.1,1,0,1,1,0,0,2,0,1.7,1.7,0.9,2.6,44,46,85,Premier League,2021-2022
+Thiago Alcántara,es ESP,MF,Liverpool,30,1991,25,17,1534,17.0,1,4,5,1,0,0,2,0,1.9,1.9,2.3,4.2,24,214,45,Premier League,2021-2022
+Marc Albrighton,eng ENG,"FW,DF",Leicester City,31,1989,17,11,1132,12.6,1,2,3,1,0,0,3,0,0.5,0.5,2.0,2.5,21,26,56,Premier League,2021-2022
+Kristoffer Ajer,no NOR,DF,Brentford,23,1998,24,23,1995,22.2,1,3,4,1,0,0,5,0,0.8,0.8,1.7,2.5,30,82,29,Premier League,2021-2022
+Rayan Aït-Nouri,dz ALG,"DF,MF",Wolves,20,2001,23,20,1828,20.3,1,2,3,1,0,0,4,0,0.6,0.6,1.6,2.2,60,49,127,Premier League,2021-2022
+Max Aarons,eng ENG,DF,Norwich City,21,2000,34,32,2881,32.0,0,2,2,0,0,0,8,0,0.8,0.8,1.7,2.5,78,117,85,Premier League,2021-2022
+Alisson,br BRA,GK,Liverpool,28,1992,36,36,3240,36.0,0,1,1,0,0,0,0,0,0.0,0.0,0.2,0.2,0,1,0,Premier League,2021-2022
+Allan,br BRA,MF,Everton,30,1991,28,25,2183,24.3,0,2,2,0,0,0,7,1,0.2,0.2,0.8,1.1,26,130,18,Premier League,2021-2022
+Dele Alli,eng ENG,"MF,FW",Everton,25,1996,11,1,338,3.8,0,0,0,0,0,0,3,0,0.1,0.1,0.4,0.5,7,13,21,Premier League,2021-2022
+Steven Alzate,co COL,MF,Brighton,22,1998,9,5,404,4.5,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.2,3,21,6,Premier League,2021-2022
+Daniel Amartey,gh GHA,DF,Leicester City,26,1994,28,23,2123,23.6,0,0,0,0,0,0,4,0,0.0,0.0,0.2,0.2,14,62,0,Premier League,2021-2022
+Joachim Andersen,dk DEN,DF,Crystal Palace,25,1996,34,32,2916,32.4,0,3,3,0,0,0,4,0,0.7,0.7,1.7,2.4,14,100,4,Premier League,2021-2022
+Nathan Young-Coombes,eng ENG,MF,Brentford,18,2003,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Ashley Young,eng ENG,"DF,FW",Aston Villa,36,1985,24,10,1250,13.9,0,2,2,0,0,0,2,0,0.4,0.4,1.0,1.4,27,45,57,Premier League,2021-2022
+Freddie Woodman,eng ENG,GK,Newcastle Utd,24,1997,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Harry Winks,eng ENG,MF,Tottenham,25,1996,19,9,912,10.1,0,1,1,0,0,0,2,0,0.1,0.1,1.5,1.6,10,73,18,Premier League,2021-2022
+Ibrahima Diallo,fr FRA,MF,Southampton,22,1999,23,10,1023,11.4,0,2,2,0,0,0,1,0,0.4,0.4,1.0,1.5,17,57,20,Premier League,2021-2022
+Fabian Delph,eng ENG,MF,Everton,31,1989,11,8,662,7.4,0,0,0,0,0,0,2,0,0.0,0.0,0.1,0.1,2,34,3,Premier League,2021-2022
+Liam Delap,eng ENG,FW,Manchester City,18,2003,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Premier League,2021-2022
+Troy Deeney,eng ENG,FW,Watford,33,1988,2,0,25,0.3,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0,1,5,Premier League,2021-2022
+Keinan Davis,eng ENG,FW,Aston Villa,23,1998,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2021-2022
+Josh Dasilva,eng ENG,"MF,FW",Brentford,22,1998,9,2,257,2.9,0,0,0,0,0,0,0,1,0.1,0.1,0.1,0.2,10,11,10,Premier League,2021-2022
+Karl Darlow,wls WAL,GK,Newcastle Utd,30,1990,8,8,720,8.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Diogo Dalot,pt POR,DF,Manchester Utd,22,1999,24,19,1801,20.0,0,0,0,0,0,0,4,0,0.6,0.6,1.2,1.7,53,105,75,Premier League,2021-2022
+Ozan Tufan,tr TUR,MF,Watford,26,1995,7,4,334,3.7,0,0,0,0,0,0,0,0,0.6,0.6,0.3,0.9,2,16,13,Premier League,2021-2022
+Axel Tuanzebe,cd COD,DF,Aston Villa,23,1997,9,6,508,5.6,0,0,0,0,0,0,1,0,0.1,0.1,0.0,0.1,1,6,0,Premier League,2021-2022
+Kostas Tsimikas,gr GRE,DF,Liverpool,25,1996,13,9,877,9.7,0,2,2,0,0,0,3,0,0.6,0.6,2.7,3.3,48,47,109,Premier League,2021-2022
+William Troost-Ekong,ng NGA,DF,Watford,27,1993,17,15,1390,15.4,0,0,0,0,0,0,3,0,0.1,0.1,0.1,0.2,7,30,3,Premier League,2021-2022
+Moise Kean,it ITA,FW,Everton,21,2000,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Edo Kayembe,cd COD,MF,Watford,23,1998,13,9,799,8.9,0,0,0,0,0,0,0,0,0.1,0.1,0.3,0.5,9,47,8,Premier League,2021-2022
+Samuel Kalu,ng NGA,FW,Watford,23,1997,4,2,222,2.5,0,0,0,0,0,0,0,0,0.4,0.4,0.1,0.5,7,8,18,Premier League,2021-2022
+Christian Kabasele,be BEL,DF,Watford,30,1991,16,12,1193,13.3,0,0,0,0,0,0,0,0,0.9,0.9,0.2,1.0,5,21,1,Premier League,2021-2022
+Ozan Kabak,tr TUR,DF,Norwich City,21,2000,11,11,922,10.2,0,0,0,0,0,0,2,0,0.3,0.3,0.0,0.3,9,20,0,Premier League,2021-2022
+James Justin,eng ENG,DF,Leicester City,23,1998,13,11,998,11.1,0,0,0,0,0,0,0,0,0.3,0.3,1.0,1.3,23,44,52,Premier League,2021-2022
+Willy Boly,ci CIV,DF,Wolves,30,1991,10,10,900,10.0,0,0,0,0,0,0,1,0,0.2,0.2,0.1,0.2,6,20,0,Premier League,2021-2022
+Mads Bidstrup,dk DEN,MF,Brentford,20,2001,4,0,41,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Kevin Long,ie IRL,DF,Burnley,30,1990,6,4,410,4.6,0,0,0,0,0,0,1,0,0.2,0.2,0.0,0.2,1,4,0,Premier League,2021-2022
+Ruben Loftus-Cheek,eng ENG,"MF,DF",Chelsea,25,1996,24,13,1394,15.5,0,2,2,0,0,0,1,0,1.2,1.2,2.4,3.6,69,108,53,Premier League,2021-2022
+Jürgen Locadia,cw CUW,"MF,FW",Brighton,27,1993,1,0,23,0.3,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.2,0,0,0,Premier League,2021-2022
+Giovani Lo Celso,ar ARG,"MF,FW",Tottenham,25,1996,9,2,238,2.6,0,0,0,0,0,0,0,0,0.6,0.6,0.7,1.3,10,8,15,Premier League,2021-2022
+Hugo Lloris,fr FRA,GK,Tottenham,34,1986,38,38,3420,38.0,0,0,0,0,0,0,2,0,0.0,0.0,0.2,0.2,0,0,0,Premier League,2021-2022
+Victor Lindelöf,se SWE,DF,Manchester Utd,27,1994,28,26,2355,26.2,0,2,2,0,0,0,4,0,0.2,0.2,0.6,0.8,14,72,3,Premier League,2021-2022
+Jamal Lewis,nir NIR,DF,Newcastle Utd,23,1998,5,4,262,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,3,7,7,Premier League,2021-2022
+Bernd Leno,de GER,GK,Arsenal,29,1992,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Mathias Jensen,dk DEN,MF,Brentford,25,1996,31,19,1601,17.8,0,1,1,0,0,0,0,0,2.9,2.9,3.2,6.2,14,103,54,Premier League,2021-2022
+Daniel James,wls WAL,FW,Manchester Utd,23,1997,2,2,126,1.4,0,0,0,0,0,0,0,0,0.2,0.2,0.3,0.6,5,3,16,Premier League,2021-2022
+Chiquinho,pt POR,"DF,FW",Wolves,21,2000,8,1,208,2.3,0,3,3,0,0,0,0,0,0.6,0.6,0.7,1.3,10,7,35,Premier League,2021-2022
+Daniel Chesters,eng ENG,MF,West Ham,19,2002,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Calum Chambers,eng ENG,DF,Arsenal,26,1995,2,2,170,1.9,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,0,7,5,Premier League,2021-2022
+Imran Louza,ma MAR,MF,Watford,22,1999,20,17,1416,15.7,0,0,0,0,0,0,6,0,1.2,1.2,1.1,2.3,17,67,24,Premier League,2021-2022
+Jonas Lössl,dk DEN,GK,Brentford,32,1989,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Premier League,2021-2022
+Willy Caballero,ar ARG,GK,Southampton,39,1981,2,2,180,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Sam Byram,eng ENG,DF,Norwich City,27,1993,15,11,1027,11.4,0,0,0,0,0,0,3,0,0.6,0.6,0.2,0.9,11,23,16,Premier League,2021-2022
+Jack Butland,eng ENG,GK,Crystal Palace,28,1993,9,8,765,8.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Dan Burn,eng ENG,DF,Newcastle Utd,29,1992,16,16,1440,16.0,0,1,1,0,0,0,4,0,0.7,0.7,0.4,1.1,6,31,2,Premier League,2021-2022
+Lewis Brunt,eng ENG,MF,Leicester City,20,2000,1,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,2,2,Premier League,2021-2022
+Kristoffer Klaesson,no NOR,GK,Leeds United,20,2000,1,0,36,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Jonjoe Kenny,eng ENG,DF,Everton,24,1997,15,11,1018,11.3,0,1,1,0,0,0,3,1,0.2,0.2,0.8,1.0,9,36,25,Premier League,2021-2022
+Kenedy,br BRA,DF,Chelsea,25,1996,1,1,58,0.6,0,1,1,0,0,0,0,0,0.0,0.0,0.6,0.6,2,5,10,Premier League,2021-2022
+Caoimhín Kelleher,ie IRL,GK,Liverpool,22,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Stuart McKinstry,sct SCO,MF,Leeds United,18,2002,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2021-2022
+Alex McCarthy,eng ENG,GK,Southampton,31,1989,17,17,1530,17.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Liam McCarron,sct SCO,FW,Leeds United,20,2001,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Kasey McAteer,ie IRL,FW,Leicester City,19,2001,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+James Mcatee,eng ENG,"MF,FW",Manchester City,18,2002,2,0,20,0.2,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,2,1,3,Premier League,2021-2022
+James McArthur,sct SCO,MF,Crystal Palace,33,1987,21,15,1439,16.0,0,3,3,0,0,0,4,0,0.3,0.3,1.4,1.7,29,84,22,Premier League,2021-2022
+Nemanja Matić,rs SRB,MF,Manchester Utd,32,1988,23,16,1382,15.4,0,4,4,0,0,0,3,0,0.2,0.2,2.0,2.2,32,98,7,Premier League,2021-2022
+Juan Mata,es ESP,MF,Manchester Utd,33,1988,7,2,235,2.6,0,0,0,0,0,0,0,0,0.3,0.3,0.2,0.6,8,16,13,Premier League,2021-2022
+Adam Masina,ma MAR,DF,Watford,27,1994,15,13,1077,12.0,0,1,1,0,0,0,0,0,0.3,0.3,0.7,1.0,9,37,12,Premier League,2021-2022
+Emiliano Martínez,ar ARG,GK,Aston Villa,28,1992,36,36,3240,36.0,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Pablo Marí,es ESP,DF,Arsenal,27,1993,2,2,180,2.0,0,0,0,0,0,0,1,0,0.1,0.1,0.1,0.2,0,9,0,Premier League,2021-2022
+Solly March,eng ENG,"DF,FW",Brighton,27,1994,31,17,1746,19.4,0,2,2,0,0,0,1,0,1.2,1.2,2.3,3.5,71,69,148,Premier League,2021-2022
+Fernando Marçal,br BRA,"MF,DF",Wolves,32,1989,18,17,1449,16.1,0,0,0,0,0,0,3,0,0.4,0.4,0.6,1.0,39,50,98,Premier League,2021-2022
+Ainsley Maitland-Niles,eng ENG,MF,Arsenal,23,1997,8,2,268,3.0,0,0,0,0,0,0,0,0,0.1,0.1,0.3,0.3,2,15,8,Premier League,2021-2022
+Lyanco,br BRA,DF,Southampton,24,1997,15,9,911,10.1,0,0,0,0,0,0,2,0,0.3,0.3,0.1,0.4,3,18,1,Premier League,2021-2022
+Phil Jones,eng ENG,DF,Manchester Utd,29,1992,4,2,163,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,2,0,Premier League,2021-2022
+Angus Gunn,sct SCO,GK,Norwich City,25,1996,9,9,810,9.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Vicente Guaita,es ESP,GK,Crystal Palace,34,1987,30,30,2655,29.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Sam Greenwood,eng ENG,"MF,FW",Leeds United,19,2002,7,1,237,2.6,0,2,2,0,0,0,0,0,0.3,0.3,0.2,0.5,3,5,10,Premier League,2021-2022
+Kayky Chagas,br BRA,FW,Manchester City,18,2003,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,1,Premier League,2021-2022
+Craig Cathcart,nir NIR,DF,Watford,32,1989,31,27,2396,26.6,0,1,1,0,0,0,3,0,0.2,0.2,1.2,1.4,6,52,0,Premier League,2021-2022
+Todd Cantwell,eng ENG,"FW,MF",Norwich City,23,1998,8,5,441,4.9,0,0,0,0,0,0,2,0,0.1,0.1,0.1,0.3,2,10,17,Premier League,2021-2022
+Chem Campbell,wls WAL,MF,Wolves,18,2002,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,4,Premier League,2021-2022
+Tim Iroegbunam,eng ENG,MF,Aston Villa,18,2003,3,1,92,1.0,0,0,0,0,0,0,1,0,0.1,0.1,0.0,0.1,1,4,0,Premier League,2021-2022
+Will Hughes,eng ENG,MF,Crystal Palace,26,1995,16,13,1053,11.7,0,1,1,0,0,0,6,0,0.1,0.1,0.6,0.8,5,38,7,Premier League,2021-2022
+Luka Milivojević,rs SRB,MF,Crystal Palace,30,1991,15,9,774,8.6,0,0,0,0,0,0,1,0,0.3,0.3,0.7,1.0,2,37,4,Premier League,2021-2022
+Illan Meslier,fr FRA,GK,Leeds United,21,2000,38,38,3384,37.6,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Nampalys Mendy,sn SEN,MF,Leicester City,29,1992,14,12,1032,11.5,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,9,36,8,Premier League,2021-2022
+Edouard Mendy,sn SEN,GK,Chelsea,29,1992,34,34,3060,34.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Benjamin Mendy,fr FRA,DF,Manchester City,27,1994,1,1,78,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,4,9,4,Premier League,2021-2022
+Hannibal Mejbri,tn TUN,FW,Manchester Utd,18,2003,2,1,68,0.8,0,0,0,0,0,0,2,0,0.1,0.1,0.0,0.1,0,0,4,Premier League,2021-2022
+Dwight McNeil,eng ENG,MF,Burnley,21,1999,38,35,3107,34.5,0,1,1,0,0,0,1,0,2.3,2.3,4.6,6.9,93,104,112,Premier League,2021-2022
+Robin Olsen,se SWE,GK,Aston Villa,31,1990,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Nicolas Nkoulou,cm CMR,DF,Watford,31,1990,3,2,168,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,2,0,Premier League,2021-2022
+Saúl Ñíguez,es ESP,"DF,MF",Chelsea,26,1994,10,5,480,5.3,0,0,0,0,0,0,1,0,0.3,0.3,0.5,0.9,4,15,27,Premier League,2021-2022
+Jeremy Ngakia,,DF,Watford,20,2000,16,9,903,10.0,0,0,0,0,0,0,0,0,0.1,0.1,0.5,0.6,18,39,20,Premier League,2021-2022
+Reiss Nelson,eng ENG,FW,Arsenal,21,1999,1,0,20,0.2,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,0,0,4,Premier League,2021-2022
+Wilfred Ndidi,ng NGA,"MF,DF",Leicester City,24,1996,19,18,1618,18.0,0,0,0,0,0,0,4,0,0.7,0.7,0.0,0.8,14,57,13,Premier League,2021-2022
+Marvelous Nakamba,zw ZIM,MF,Aston Villa,27,1994,16,10,904,10.0,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,5,24,0,Premier League,2021-2022
+Bali Mumba,eng ENG,DF,Norwich City,19,2001,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,1,0,Premier League,2021-2022
+Tyler Morton,eng ENG,MF,Liverpool,18,2002,2,1,66,0.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,4,0,Premier League,2021-2022
+Wesley Moraes,br BRA,FW,Aston Villa,24,1996,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Jakub Moder,pl POL,MF,Brighton,22,1999,28,19,1701,18.9,0,3,3,0,0,0,1,0,2.6,2.6,2.2,4.8,42,89,102,Premier League,2021-2022
+Tyrick Mitchell,eng ENG,DF,Crystal Palace,21,1999,36,35,3101,34.5,0,2,2,0,0,0,1,0,0.2,0.2,1.7,1.9,41,134,116,Premier League,2021-2022
+Yerry Mina,co COL,DF,Everton,26,1994,13,11,846,9.4,0,0,0,0,0,0,3,0,0.3,0.3,0.0,0.3,1,20,2,Premier League,2021-2022
+James Milner,eng ENG,"MF,DF",Liverpool,35,1986,24,9,853,9.5,0,1,1,0,0,0,2,0,0.4,0.4,2.2,2.5,9,73,38,Premier League,2021-2022
+Ki-Jana Hoever,nl NED,"DF,MF",Wolves,19,2002,8,4,308,3.4,0,0,0,0,0,0,1,0,0.0,0.0,0.1,0.1,9,5,22,Premier League,2021-2022
+Wayne Hennessey,wls WAL,GK,Burnley,34,1987,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.2,0.2,0,0,0,Premier League,2021-2022
+Emerson Palmieri,it ITA,DF,Chelsea,26,1994,1,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2021-2022
+Cole Palmer,eng ENG,"FW,MF",Manchester City,19,2002,4,1,123,1.4,0,0,0,0,0,0,0,0,0.4,0.4,0.2,0.6,3,3,15,Premier League,2021-2022
+Kaide Gordon,eng ENG,FW,Liverpool,16,2004,1,0,9,0.1,0,0,0,0,0,0,0,0,0.4,0.4,0.0,0.4,1,0,3,Premier League,2021-2022
+Charlie Goode,eng ENG,DF,Brentford,25,1995,6,4,450,5.0,0,0,0,0,0,0,3,0,0.1,0.1,1.0,1.0,5,18,9,Premier League,2021-2022
+Joe Gomez,eng ENG,DF,Liverpool,24,1997,8,4,331,3.7,0,1,1,0,0,0,2,0,0.0,0.0,0.8,0.8,11,36,29,Premier League,2021-2022
+Toti Gomes,pt POR,DF,Wolves,22,1999,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,2,7,2,Premier League,2021-2022
+André Gomes,pt POR,MF,Everton,28,1993,14,7,619,6.9,0,1,1,0,0,0,3,0,0.7,0.7,0.2,0.8,6,25,13,Premier League,2021-2022
+Ben Godfrey,eng ENG,DF,Everton,23,1998,23,23,2029,22.5,0,0,0,0,0,0,6,0,1.4,1.4,0.8,2.2,23,67,26,Premier League,2021-2022
+Billy Gilmour,sct SCO,MF,Norwich City,20,2001,24,21,1855,20.6,0,1,1,0,0,0,2,0,0.9,0.9,1.4,2.3,30,112,17,Premier League,2021-2022
+Bryan Gil,es ESP,"FW,MF",Tottenham,20,2001,9,0,94,1.0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,6,7,17,Premier League,2021-2022
+Ben Gibson,eng ENG,DF,Norwich City,28,1993,28,28,2494,27.7,0,0,0,0,0,0,5,1,1.4,1.4,0.2,1.5,11,68,0,Premier League,2021-2022
+Morgan Gibbs-White,eng ENG,"DF,FW",Wolves,21,2000,2,0,9,0.1,0,0,0,0,0,0,1,0,0.1,0.1,0.0,0.1,0,2,2,Premier League,2021-2022
+Dimitris Giannoulis,gr GRE,DF,Norwich City,25,1995,18,14,1169,13.0,0,1,1,0,0,0,2,0,0.1,0.1,0.6,0.7,33,40,58,Premier League,2021-2022
+Anwar El Ghazi,nl NED,"FW,MF",Everton,26,1995,2,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,2,Premier League,2021-2022
+Frank Onyeka,ng NGA,MF,Brentford,23,1998,20,12,1045,11.6,0,0,0,0,0,0,4,0,0.8,0.8,0.2,1.0,18,35,27,Premier League,2021-2022
+Tyler Onyango,eng ENG,MF,Everton,18,2003,3,0,28,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Dwight Gayle,eng ENG,"FW,DF",Newcastle Utd,30,1990,8,0,38,0.4,0,0,0,0,0,0,1,0,0.6,0.6,0.3,0.9,0,0,4,Premier League,2021-2022
+Alejandro Garnacho,ar ARG,"FW,MF",Manchester Utd,17,2004,2,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Leo Fuhr Hjelde,no NOR,"MF,DF",Leeds United,17,2003,2,0,150,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,3,4,Premier League,2021-2022
+Ryan Fredericks,eng ENG,DF,West Ham,28,1992,7,3,307,3.4,0,0,0,0,0,0,1,0,0.0,0.0,0.1,0.1,4,6,14,Premier League,2021-2022
+Tariqe Fosu,gh GHA,DF,Brentford,25,1995,1,0,17,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,1,4,Premier League,2021-2022
+Ben Foster,eng ENG,GK,Watford,38,1983,26,26,2340,26.0,0,1,1,0,0,0,0,0,0.0,0.0,0.1,0.1,0,0,0,Premier League,2021-2022
+Fraser Forster,eng ENG,GK,Southampton,33,1988,19,19,1710,19.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Marcus Forss,fi FIN,"FW,MF",Brentford,22,1999,7,1,209,2.3,0,1,1,0,0,0,0,0,0.3,0.3,0.2,0.6,2,6,12,Premier League,2021-2022
+Adam Forshaw,eng ENG,MF,Leeds United,29,1991,22,17,1530,17.0,0,1,1,0,0,0,5,0,0.5,0.5,1.0,1.5,19,80,26,Premier League,2021-2022
+Wesley Fofana,fr FRA,DF,Leicester City,20,2000,7,7,630,7.0,0,0,0,0,0,0,2,0,0.4,0.4,0.0,0.4,10,28,1,Premier League,2021-2022
+Erik Pieters,nl NED,DF,Burnley,32,1988,12,8,730,8.1,0,1,1,0,0,0,1,0,0.2,0.2,1.0,1.2,7,15,11,Premier League,2021-2022
+Jordan Pickford,eng ENG,GK,Everton,27,1994,35,35,3150,35.0,0,0,0,0,0,0,2,0,0.0,0.0,0.1,0.1,0,0,0,Premier League,2021-2022
+Jaden Philogene Bidace,eng ENG,FW,Aston Villa,19,2002,1,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Kalvin Phillips,eng ENG,MF,Leeds United,25,1995,20,18,1596,17.7,0,1,1,0,0,0,4,0,0.7,0.7,0.7,1.4,6,93,14,Premier League,2021-2022
+Romain Perraud,fr FRA,DF,Southampton,23,1997,20,18,1623,18.0,0,1,1,0,0,0,3,0,0.5,0.5,0.7,1.2,34,48,91,Premier League,2021-2022
+Sonny Perkins,eng ENG,MF,West Ham,17,2004,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Łukasz Fabiański,pl POL,GK,West Ham,36,1985,37,37,3330,37.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Vladimír Coufal,cz CZE,DF,West Ham,28,1992,28,25,2209,24.5,0,4,4,0,0,0,5,1,0.8,0.8,2.1,2.9,51,113,119,Premier League,2021-2022
+Hélder Costa,ao ANG,MF,Leeds United,27,1994,1,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,2,Premier League,2021-2022
+Liam Cooper,sct SCO,DF,Leeds United,29,1991,21,21,1814,20.2,0,1,1,0,0,0,5,0,0.4,0.4,0.1,0.5,7,46,2,Premier League,2021-2022
+Aaron Connolly,ie IRL,"FW,MF",Brighton,21,2000,4,1,156,1.7,0,0,0,0,0,0,0,0,0.4,0.4,0.1,0.5,3,1,7,Premier League,2021-2022
+Matt Ritchie,sct SCO,DF,Newcastle Utd,31,1989,18,14,1337,14.9,0,2,2,0,0,0,5,0,0.7,0.7,2.0,2.7,8,48,40,Premier League,2021-2022
+Jaïro Riedewald,nl NED,MF,Crystal Palace,24,1996,3,1,118,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,1,4,2,Premier League,2021-2022
+Taylor Richards,eng ENG,MF,Brighton,20,2000,2,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,3,7,Premier League,2021-2022
+David Raya,es ESP,GK,Brentford,25,1995,24,24,2160,24.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,3,0,Premier League,2021-2022
+Aaron Ramsdale,eng ENG,GK,Arsenal,23,1998,34,34,3060,34.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,1,0,Premier League,2021-2022
+Jesurun Rak Sakyi,eng ENG,"FW,MF",Crystal Palace,18,2002,2,1,80,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,4,Premier League,2021-2022
+Przemysław Płacheta,pl POL,"FW,MF",Norwich City,23,1998,12,6,504,5.6,0,0,0,0,0,0,1,0,0.4,0.4,0.8,1.1,19,10,35,Premier League,2021-2022
+Isaac Price,nir NIR,MF,Everton,17,2003,1,0,14,0.2,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,0,0,1,Premier League,2021-2022
+Nick Pope,eng ENG,GK,Burnley,29,1992,36,36,3240,36.0,0,0,0,0,0,0,1,0,0.0,0.0,0.1,0.1,0,0,0,Premier League,2021-2022
+David de Gea,es ESP,GK,Manchester Utd,30,1990,38,38,3420,38.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Jean-Philippe Gbamin,ci CIV,MF,Everton,25,1995,3,1,67,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,0,Premier League,2021-2022
+Jon Rowe,eng ENG,"FW,MF",Norwich City,18,2003,13,0,223,2.5,0,1,1,0,0,0,0,0,0.3,0.3,0.5,0.8,4,3,21,Premier League,2021-2022
+Danny Rose,eng ENG,DF,Watford,31,1990,8,7,689,7.7,0,0,0,0,0,0,4,0,0.2,0.2,0.8,1.0,12,33,19,Premier League,2021-2022
+Ryan Bertrand,eng ENG,DF,Leicester City,31,1989,4,4,337,3.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,2,17,8,Premier League,2021-2022
+Jóhann Berg Guðmundsson,is ISL,MF,Burnley,30,1990,18,13,1102,12.2,0,1,1,0,0,0,2,0,1.6,1.6,0.5,2.0,27,16,75,Premier League,2021-2022
+Rodrigo Bentancur,uy URU,MF,Tottenham,24,1997,17,16,1361,15.1,0,4,4,0,0,0,5,0,0.8,0.8,2.6,3.4,20,76,11,Premier League,2021-2022
+Asmir Begović,ba BIH,GK,Everton,34,1987,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Mads Bech Sørensen,dk DEN,DF,Brentford,22,1999,11,9,835,9.3,0,0,0,0,0,0,3,0,0.1,0.1,0.4,0.4,9,20,4,Premier League,2021-2022
+Lewis Bate,eng ENG,MF,Leeds United,18,2002,3,1,146,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,6,1,Premier League,2021-2022
+Joe Rodon,wls WAL,DF,Tottenham,23,1997,3,0,89,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Ashley Fletcher,eng ENG,FW,Watford,25,1995,3,0,30,0.3,0,0,0,0,0,0,0,0,0.6,0.6,0.0,0.6,1,0,1,Premier League,2021-2022
+Junior Firpo,do DOM,"DF,MF",Leeds United,24,1996,24,19,1711,19.0,0,2,2,0,0,0,11,0,0.9,0.9,1.9,2.8,36,111,72,Premier League,2021-2022
+Federico Fernández,ar ARG,DF,Newcastle Utd,32,1989,7,5,523,5.8,0,0,0,0,0,0,0,0,0.4,0.4,0.3,0.7,0,12,1,Premier League,2021-2022
+Álvaro Fernández,es ESP,GK,Brentford,23,1998,12,12,1080,12.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Premier League,2021-2022
+Nathan Ferguson,eng ENG,DF,Crystal Palace,20,2000,1,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Evan Ferguson,ie IRL,MF,Brighton,16,2004,1,0,23,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2021-2022
+Kiko Femenía,es ESP,DF,Watford,30,1991,27,26,2142,23.8,0,5,5,0,0,0,2,0,0.1,0.1,3.6,3.8,40,100,48,Premier League,2021-2022
+Morgan Sanson,fr FRA,MF,Aston Villa,26,1994,10,3,356,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,16,21,10,Premier League,2021-2022
+Robert Sánchez,es ESP,GK,Brighton,23,1997,37,37,3329,37.0,0,0,0,0,0,0,3,1,0.0,0.0,0.4,0.4,0,1,0,Premier League,2021-2022
+Nathaniel Clyne,eng ENG,DF,Crystal Palace,30,1991,16,15,1351,15.0,0,1,1,0,0,0,1,0,0.1,0.1,0.4,0.5,14,36,25,Premier League,2021-2022
+Tom Cleverley,eng ENG,MF,Watford,31,1989,28,20,1616,18.0,0,2,2,0,0,0,2,0,0.7,0.7,2.1,2.8,8,64,40,Premier League,2021-2022
+Ciaran Clark,ie IRL,DF,Newcastle Utd,31,1989,13,12,1014,11.3,0,1,1,0,0,0,2,1,1.1,1.1,0.3,1.4,2,17,6,Premier League,2021-2022
+Carney Chukwuemeka,eng ENG,"MF,FW",Aston Villa,17,2003,12,2,301,3.3,0,1,1,0,0,0,0,0,0.6,0.6,1.0,1.6,9,7,14,Premier League,2021-2022
+Andreas Christensen,dk DEN,DF,Chelsea,25,1996,19,17,1496,16.6,0,0,0,0,0,0,2,0,0.6,0.6,0.2,0.8,14,81,5,Premier League,2021-2022
+Hamza Choudhury,bd BAN,"DF,MF",Leicester City,23,1997,6,4,285,3.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,5,1,Premier League,2021-2022
+Oghenekaro Etebo,ng NGA,MF,Watford,25,1995,9,4,401,4.5,0,0,0,0,0,0,3,0,0.1,0.1,0.1,0.2,3,16,1,Premier League,2021-2022
+Mohamed Elneny,eg EGY,MF,Arsenal,29,1992,14,8,806,9.0,0,2,2,0,0,0,1,0,0.2,0.2,0.4,0.6,5,43,2,Premier League,2021-2022
+Harvey Elliott,eng ENG,MF,Liverpool,18,2003,6,4,346,3.8,0,0,0,0,0,0,0,0,0.8,0.8,0.6,1.4,10,36,38,Premier League,2021-2022
+Albert Sambi Lokonga,be BEL,MF,Arsenal,21,1999,19,12,1134,12.6,0,0,0,0,0,0,5,0,0.6,0.6,1.0,1.6,28,84,16,Premier League,2021-2022
+Mohammed Salisu,gh GHA,DF,Southampton,22,1999,34,33,2972,33.0,0,0,0,0,0,0,10,1,2.0,2.0,0.8,2.7,31,136,7,Premier League,2021-2022
+José Sá,pt POR,GK,Wolves,28,1993,37,37,3285,36.5,0,1,1,0,0,0,3,0,0.0,0.0,0.9,0.9,0,2,0,Premier League,2021-2022
+Lukas Rupp,de GER,MF,Norwich City,30,1991,19,7,769,8.5,0,0,0,0,0,0,0,0,0.7,0.7,1.4,2.0,17,35,23,Premier League,2021-2022
+John Ruddy,eng ENG,GK,Wolves,34,1986,2,1,135,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+William Smallbone,ie IRL,"MF,FW",Southampton,21,2000,4,2,133,1.5,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,4,2,7,Premier League,2021-2022
+Oliver Skipp,eng ENG,MF,Tottenham,20,2000,18,14,1350,15.0,0,0,0,0,0,0,6,0,0.2,0.2,0.7,1.0,27,76,18,Premier League,2021-2022
+Ellis Simms,eng ENG,FW,Everton,20,2001,1,1,61,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,2,Premier League,2021-2022
+Fábio Silva,pt POR,FW,Wolves,19,2002,22,6,572,6.4,0,0,0,0,0,0,0,0,1.8,1.8,0.2,1.9,14,14,41,Premier League,2021-2022
+Francisco Sierralta,cl CHI,DF,Watford,24,1997,5,5,427,4.7,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,1,2,0,Premier League,2021-2022
+Shola Shoretire,eng ENG,MF,Manchester Utd,17,2004,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2021-2022
+Luke Shaw,eng ENG,DF,Manchester Utd,26,1995,20,19,1601,17.8,0,3,3,0,0,0,8,0,0.1,0.1,3.6,3.7,48,82,69,Premier League,2021-2022
+Jamie Shackleton,eng ENG,"DF,MF",Leeds United,21,1999,14,7,709,7.9,0,0,0,0,0,0,4,0,0.2,0.2,0.0,0.2,20,36,20,Premier League,2021-2022
+Ryan Sessegnon,eng ENG,"DF,MF",Tottenham,21,2000,15,13,1047,11.6,0,2,2,0,0,0,2,0,0.3,0.3,2.7,3.0,30,22,80,Premier League,2021-2022
+Nélson Semedo,pt POR,"MF,DF",Wolves,27,1993,25,25,2131,23.7,0,1,1,0,0,0,1,0,1.6,1.6,1.3,2.9,79,78,146,Premier League,2021-2022
+Ken Sema,se SWE,"MF,FW",Watford,27,1993,18,7,852,9.5,0,0,0,0,0,0,1,0,0.1,0.1,1.3,1.4,19,8,36,Premier League,2021-2022
+Kasper Schmeichel,dk DEN,GK,Leicester City,34,1986,37,37,3330,37.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,1,2,0,Premier League,2021-2022
+Dane Scarlett,eng ENG,MF,Tottenham,17,2004,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Malang Sarr,fr FRA,DF,Chelsea,22,1999,8,6,546,6.1,0,0,0,0,0,0,2,0,0.0,0.0,0.4,0.4,9,23,15,Premier League,2021-2022
+Jeremy Sarmiento,ec ECU,"FW,MF",Brighton,19,2002,5,1,48,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,1,3,Premier League,2021-2022
+Samir Santos,br BRA,DF,Watford,26,1994,19,19,1673,18.6,0,0,0,0,0,0,4,0,0.5,0.5,0.1,0.6,1,24,2,Premier League,2021-2022
+CJ Egan-Riley,eng ENG,DF,Manchester City,18,2003,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Ederson,br BRA,GK,Manchester City,27,1993,37,37,3330,37.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0,3,0,Premier League,2021-2022
+Paul Dummett,wls WAL,DF,Newcastle Utd,29,1991,3,2,198,2.2,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,5,2,Premier League,2021-2022
+Martin Dúbravka,sk SVK,GK,Newcastle Utd,32,1989,26,26,2340,26.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Cody Drameh,eng ENG,"DF,MF",Leeds United,19,2001,3,1,128,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,3,6,3,Premier League,2021-2022
+Lewis Dobbin,eng ENG,"FW,MF",Everton,18,2003,3,0,32,0.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,1,1,2,Premier League,2021-2022
+Moussa Djenepo,ml MLI,MF,Southampton,23,1998,12,5,457,5.1,0,0,0,0,0,0,3,0,1.5,1.5,0.3,1.8,20,18,30,Premier League,2021-2022
+Issa Diop,fr FRA,DF,West Ham,24,1997,13,10,963,10.7,0,1,1,0,0,0,0,0,0.1,0.1,0.4,0.5,4,14,1,Premier League,2021-2022
+Lucas Digne,fr FRA,DF,Everton,28,1993,13,13,1170,13.0,0,0,0,0,0,0,4,0,0.3,0.3,1.4,1.8,25,49,47,Premier League,2021-2022
+Lucas Digne,fr FRA,DF,Aston Villa,28,1993,16,16,1269,14.1,0,4,4,0,0,0,2,0,0.5,0.5,2.2,2.7,34,48,121,Premier League,2021-2022
+Eric Dier,eng ENG,DF,Tottenham,27,1994,35,35,3071,34.1,0,0,0,0,0,0,1,0,1.2,1.2,1.1,2.3,13,103,6,Premier League,2021-2022
+Zack Steffen,us USA,GK,Manchester City,26,1995,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Jed Steer,eng ENG,GK,Aston Villa,28,1992,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Jason Steele,eng ENG,GK,Brighton,30,1990,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Tony Springett,ie IRL,"MF,FW",Norwich City,18,2002,3,1,141,1.6,0,0,0,0,0,0,1,0,0.2,0.2,0.5,0.7,8,2,11,Premier League,2021-2022
+Boubakary Soumaré,fr FRA,MF,Leicester City,22,1999,19,12,1102,12.2,0,1,1,0,0,0,0,0,0.4,0.4,0.4,0.7,10,45,16,Premier League,2021-2022
+Trézéguet,eg EGY,FW,Aston Villa,26,1994,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,4,Premier League,2021-2022
+Bertrand Traoré,bf BFA,"MF,FW",Aston Villa,25,1995,9,1,220,2.4,0,0,0,0,0,0,0,0,0.3,0.3,0.0,0.3,12,12,13,Premier League,2021-2022
+Cenk Tosun,tr TUR,MF,Everton,30,1991,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Takehiro Tomiyasu,jp JPN,DF,Arsenal,22,1998,21,20,1679,18.7,0,1,1,0,0,0,2,0,0.6,0.6,1.0,1.6,32,96,41,Premier League,2021-2022
+Dominic Thompson,eng ENG,DF,Brentford,21,2000,2,2,146,1.6,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,0,0,3,Premier League,2021-2022
+Luke Thomas,eng ENG,DF,Leicester City,20,2001,22,21,1912,21.2,0,1,1,0,0,0,2,0,0.1,0.1,1.3,1.5,28,95,59,Premier League,2021-2022
+Alex Telles,br BRA,DF,Manchester Utd,28,1992,21,18,1660,18.4,0,4,4,0,0,0,1,0,0.4,0.4,1.9,2.3,36,66,102,Premier League,2021-2022
+Nathan Tella,ng NGA,"MF,FW",Southampton,22,1999,14,10,804,8.9,0,1,1,0,0,0,2,0,0.6,0.6,0.6,1.2,22,17,44,Premier League,2021-2022
+Charlie Taylor,eng ENG,DF,Burnley,27,1993,31,30,2731,30.3,0,3,3,0,0,0,3,0,0.2,0.2,3.8,4.0,58,91,77,Premier League,2021-2022
+Matt Targett,eng ENG,DF,Newcastle Utd,25,1995,16,16,1440,16.0,0,0,0,0,0,0,1,0,0.3,0.3,1.9,2.2,11,53,40,Premier League,2021-2022
+Japhet Tanganga,eng ENG,DF,Tottenham,22,1999,11,10,735,8.2,0,0,0,0,0,0,4,1,0.4,0.4,0.2,0.7,13,20,21,Premier League,2021-2022
+Jakob Sørensen,dk DEN,"MF,DF",Norwich City,23,1998,10,6,604,6.7,0,0,0,0,0,0,0,0,0.5,0.5,0.0,0.5,4,20,4,Premier League,2021-2022
+Crysencio Summerville,nl NED,"MF,FW",Leeds United,19,2001,6,0,130,1.4,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.3,5,7,16,Premier League,2021-2022
+Finley Stevens,wls WAL,DF,Brentford,18,2003,1,0,15,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,0,2,2,Premier League,2021-2022
+Jack Stephens,eng ENG,DF,Southampton,27,1994,11,9,811,9.0,0,0,0,0,0,0,3,0,0.0,0.0,0.3,0.3,7,28,3,Premier League,2021-2022
+Dale Stephens,eng ENG,MF,Burnley,32,1989,3,1,124,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.1,0,5,1,Premier League,2021-2022
+Daniel Bachmann,at AUT,GK,Watford,27,1994,12,12,1080,12.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Neco Williams,wls WAL,DF,Liverpool,20,2001,1,0,8,0.1,0,1,1,0,0,0,0,0,0.0,0.0,0.7,0.7,1,0,2,Premier League,2021-2022
+Brandon Williams,eng ENG,DF,Norwich City,20,2000,26,23,2120,23.6,0,1,1,0,0,0,8,0,0.2,0.2,1.9,2.2,57,90,58,Premier League,2021-2022
+Ben White,eng ENG,DF,Arsenal,23,1997,32,32,2880,32.0,0,0,0,0,0,0,3,0,1.0,1.0,1.3,2.3,38,124,4,Premier League,2021-2022
+Ashley Westwood,eng ENG,MF,Burnley,31,1990,27,26,2287,25.4,0,3,3,0,0,0,7,0,0.6,0.6,4.1,4.7,12,130,27,Premier League,2021-2022
+Harrison Ashby,sct SCO,DF,West Ham,19,2001,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Kepa Arrizabalaga,es ESP,GK,Chelsea,26,1994,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Alphonse Areola,fr FRA,GK,West Ham,28,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Cameron Archer,eng ENG,"FW,MF",Aston Villa,20,2001,3,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Premier League,2021-2022
+Jannik Vestergaard,dk DEN,DF,Leicester City,28,1992,10,6,567,6.3,0,0,0,0,0,0,2,0,0.1,0.1,0.0,0.1,2,19,0,Premier League,2021-2022
+Yan Valery,tn TUN,DF,Southampton,22,1999,5,3,370,4.1,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.2,3,10,4,Premier League,2021-2022
+Christos Tzolis,gr GRE,"FW,MF",Norwich City,19,2002,14,3,336,3.7,0,0,0,0,0,0,0,0,0.4,0.4,0.7,1.1,8,13,31,Premier League,2021-2022
+Luke Cundle,eng ENG,MF,Wolves,19,2002,4,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.2,0.2,3,9,3,Premier League,2021-2022
+Charlie Cresswell,eng ENG,DF,Leeds United,18,2002,5,1,141,1.6,0,0,0,0,0,0,1,0,0.1,0.1,0.0,0.1,1,4,0,Premier League,2021-2022
+Oleksandr Zinchenko,ua UKR,DF,Manchester City,24,1996,15,10,1047,11.6,0,4,4,0,0,0,0,0,0.5,0.5,2.7,3.2,32,113,88,Premier League,2021-2022
+Christoph Zimmermann,de GER,DF,Norwich City,28,1993,3,2,157,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,4,0,Premier League,2021-2022
+Tariq Lamptey,gh GHA,"DF,FW",Brighton,20,2000,30,16,1561,17.3,0,2,2,0,0,0,4,0,0.8,0.8,2.6,3.4,81,36,153,Premier League,2021-2022
+Adam Lallana,eng ENG,MF,Brighton,33,1988,24,18,1561,17.3,0,1,1,0,0,0,4,0,1.1,1.1,0.9,2.0,17,76,47,Premier League,2021-2022
+Tim Krul,nl NED,GK,Norwich City,33,1988,29,29,2610,29.0,0,0,0,0,0,0,1,0,0.0,0.0,0.6,0.6,0,1,0,Premier League,2021-2022
+Alex Král,cz CZE,MF,West Ham,23,1998,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Emil Krafth,se SWE,DF,Newcastle Utd,26,1994,20,18,1634,18.2,0,1,1,0,0,0,5,0,0.3,0.3,1.0,1.3,29,50,24,Premier League,2021-2022
+Cheikhou Kouyaté,sn SEN,MF,Crystal Palace,31,1989,27,23,1974,21.9,0,1,1,0,0,0,3,0,0.5,0.5,0.8,1.3,7,54,9,Premier League,2021-2022
+Ibrahima Konaté,fr FRA,DF,Liverpool,22,1999,11,11,990,11.0,0,0,0,0,0,0,2,0,0.2,0.2,0.0,0.2,7,51,2,Premier League,2021-2022
+Sead Kolašinac,ba BIH,DF,Arsenal,28,1993,2,1,91,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Robin Koch,de GER,"MF,DF",Leeds United,25,1996,20,17,1574,17.5,0,0,0,0,0,0,3,0,0.8,0.8,0.4,1.2,3,52,14,Premier League,2021-2022
+Joel Ward,eng ENG,DF,Crystal Palace,31,1989,28,27,2487,27.6,0,0,0,0,0,0,8,0,0.3,0.3,0.5,0.8,27,119,37,Premier League,2021-2022
+Danny Ward,wls WAL,GK,Leicester City,28,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Premier League,2021-2022
+Aaron Wan-Bissaka,eng ENG,DF,Manchester Utd,23,1997,20,20,1793,19.9,0,0,0,0,0,0,2,0,0.3,0.3,0.9,1.2,55,61,90,Premier League,2021-2022
+Kyle Walker,eng ENG,DF,Manchester City,31,1990,20,20,1755,19.5,0,2,2,0,0,0,1,0,0.3,0.3,1.3,1.5,43,146,65,Premier League,2021-2022
+Theo Walcott,eng ENG,"MF,FW",Southampton,32,1989,9,5,379,4.2,0,0,0,0,0,0,0,0,0.6,0.6,0.0,0.7,3,5,19,Premier League,2021-2022
+Folarin Balogun,us USA,FW,Arsenal,20,2001,2,1,70,0.8,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.2,0,0,4,Premier League,2021-2022
+Eric Bailly,ci CIV,DF,Manchester Utd,27,1994,4,3,217,2.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,1,5,0,Premier League,2021-2022

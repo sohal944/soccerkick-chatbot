@@ -1,0 +1,506 @@
+Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,League,Season
+Robert Lewandowski,pl POL,FW,Bayern Munich,31,1988,29,28,2458,27.3,41,7,48,33,8,9,4,0,31.3,24.2,4.7,28.8,51,67,185,Bundesliga,2020-2021
+André Silva,pt POR,FW,Eint Frankfurt,24,1995,32,32,2760,30.7,28,7,35,21,7,7,1,0,25.6,20.1,4.7,24.8,46,67,255,Bundesliga,2020-2021
+Erling Haaland,no NOR,FW,Dortmund,20,2000,28,27,2407,26.7,27,6,33,25,2,4,2,0,23.5,20.3,3.5,23.8,47,39,157,Bundesliga,2020-2021
+Andrej Kramarić,hr CRO,"FW,MF",Hoffenheim,29,1991,28,26,2379,26.4,20,5,25,15,5,5,2,0,14.8,10.8,4.2,15.1,88,106,235,Bundesliga,2020-2021
+Wout Weghorst,nl NED,FW,Wolfsburg,27,1992,34,33,2941,32.7,20,8,28,18,2,3,3,0,17.0,14.8,5.2,20.0,22,59,184,Bundesliga,2020-2021
+Sasa Kalajdzic,at AUT,FW,Stuttgart,23,1997,33,23,2136,23.7,16,5,21,16,0,0,1,0,10.4,10.4,3.7,14.0,18,46,166,Bundesliga,2020-2021
+Lars Stindl,de GER,"MF,FW",Gladbach,31,1988,30,23,1961,21.8,14,8,22,8,6,7,6,0,10.1,4.6,4.8,9.4,22,116,111,Bundesliga,2020-2021
+Max Kruse,de GER,"FW,MF",Union Berlin,32,1988,22,19,1629,18.1,11,5,16,6,5,6,0,0,6.8,2.0,4.2,6.2,38,74,116,Bundesliga,2020-2021
+Silas Katompa,cd COD,"DF,FW",Stuttgart,21,1998,25,24,1919,21.3,11,4,15,8,3,3,6,0,7.3,5.0,4.4,9.4,74,33,165,Bundesliga,2020-2021
+Thomas Müller,de GER,MF,Bayern Munich,30,1989,32,31,2674,29.7,11,19,30,10,1,1,0,0,8.2,7.4,10.0,17.4,51,151,325,Bundesliga,2020-2021
+Lucas Alario,ar ARG,FW,Leverkusen,27,1992,25,12,1245,13.8,11,2,13,9,2,2,2,0,7.2,5.7,0.9,6.6,7,21,75,Bundesliga,2020-2021
+Serge Gnabry,de GER,"FW,MF",Bayern Munich,25,1995,27,20,1644,18.3,10,2,12,10,0,0,4,0,8.0,8.0,6.0,14.1,82,93,216,Bundesliga,2020-2021
+Patrik Schick,cz CZE,FW,Leverkusen,24,1996,29,20,1866,20.7,9,1,10,9,0,0,4,0,9.2,9.2,2.5,11.7,19,19,132,Bundesliga,2020-2021
+Ihlas Bebou,tg TOG,"FW,MF",Hoffenheim,26,1994,32,23,2200,24.4,9,7,16,9,0,0,3,0,9.9,9.9,5.0,14.8,70,52,225,Bundesliga,2020-2021
+Vincenzo Grifo,it ITA,"MF,FW",Freiburg,27,1993,31,27,2313,25.7,9,10,19,5,4,4,2,0,8.1,4.9,7.1,12.0,68,135,153,Bundesliga,2020-2021
+Leon Bailey,jm JAM,"FW,MF",Leverkusen,22,1997,30,25,2141,23.8,9,8,17,9,0,0,6,0,6.2,6.2,6.0,12.2,112,63,254,Bundesliga,2020-2021
+Nils Petersen,de GER,FW,Freiburg,31,1988,32,12,1301,14.5,8,0,8,7,1,1,0,0,6.3,5.5,0.5,6.0,4,16,60,Bundesliga,2020-2021
+André Hahn,de GER,"FW,MF",Augsburg,29,1990,29,24,2037,22.6,8,3,11,8,0,0,4,0,5.0,5.0,2.1,7.1,22,29,82,Bundesliga,2020-2021
+Marco Reus,de GER,"MF,FW",Dortmund,31,1989,32,27,2279,25.3,8,6,14,8,0,2,1,0,10.2,7.5,7.0,14.5,61,107,208,Bundesliga,2020-2021
+Jadon Sancho,eng ENG,"FW,MF",Dortmund,20,2000,26,24,2062,22.9,8,11,19,7,1,1,0,0,6.6,5.8,7.7,13.5,114,178,276,Bundesliga,2020-2021
+Marcus Thuram,fr FRA,"FW,MF",Gladbach,22,1997,29,20,1731,19.2,8,3,11,8,0,0,3,1,8.1,8.1,2.4,10.5,77,44,162,Bundesliga,2020-2021
+Marcel Sabitzer,at AUT,MF,RB Leipzig,26,1994,27,24,2026,22.5,8,3,11,4,4,4,8,0,7.6,4.4,2.7,7.1,24,171,78,Bundesliga,2020-2021
+Roland Sallai,hu HUN,"MF,FW",Freiburg,23,1997,28,22,1661,18.5,8,3,11,7,1,1,5,0,6.4,5.6,1.4,7.0,54,65,118,Bundesliga,2020-2021
+Jhon Córdoba,co COL,FW,Hertha BSC,27,1993,21,17,1537,17.1,7,1,8,7,0,0,3,0,6.9,6.9,1.6,8.5,22,16,97,Bundesliga,2020-2021
+Matheus Cunha,br BRA,"FW,MF",Hertha BSC,21,1999,27,25,2149,23.9,7,4,11,5,2,3,9,0,8.4,6.1,4.5,10.6,91,85,137,Bundesliga,2020-2021
+Josip Brekalo,hr CRO,FW,Wolfsburg,22,1998,29,22,1814,20.2,7,3,10,7,0,0,1,0,3.6,3.6,3.8,7.4,69,82,155,Bundesliga,2020-2021
+Ondrej Duda,sk SVK,"FW,MF",Köln,25,1994,32,32,2537,28.2,7,5,12,4,3,4,8,1,6.4,3.3,3.9,7.2,32,126,132,Bundesliga,2020-2021
+Krzysztof Piątek,pl POL,FW,Hertha BSC,25,1995,32,18,1630,18.1,7,1,8,7,0,1,4,0,6.4,5.6,1.1,6.6,18,21,105,Bundesliga,2020-2021
+Emil Forsberg,se SWE,"FW,MF",RB Leipzig,28,1991,29,20,1539,17.1,7,4,11,5,2,3,0,0,6.1,3.7,4.8,8.5,36,71,112,Bundesliga,2020-2021
+Jean-Philippe Mateta,fr FRA,FW,Mainz 05,23,1997,15,12,997,11.1,7,1,8,6,1,1,2,0,8.6,7.8,1.4,9.2,14,10,74,Bundesliga,2020-2021
+Alassane Pléa,fr FRA,FW,Gladbach,27,1993,29,19,1803,20.0,6,1,7,6,0,0,2,0,5.7,5.7,4.6,10.4,55,75,178,Bundesliga,2020-2021
+Christoph Baumgartner,at AUT,"MF,FW",Hoffenheim,20,1999,31,28,2369,26.3,6,3,9,6,0,0,6,0,5.9,5.9,3.5,9.4,68,110,133,Bundesliga,2020-2021
+Leroy Sané,de GER,"FW,MF",Bayern Munich,24,1996,32,18,1805,20.1,6,9,15,6,0,0,2,0,5.4,5.4,6.8,12.1,73,84,230,Bundesliga,2020-2021
+Joel Pohjanpalo,fi FIN,FW,Union Berlin,25,1994,19,10,851,9.5,6,0,6,6,0,0,0,0,6.6,6.6,1.2,7.8,6,26,39,Bundesliga,2020-2021
+Jonas Hofmann,de GER,"FW,MF",Gladbach,28,1992,24,21,1817,20.2,6,11,17,3,3,3,1,0,4.9,2.5,5.3,7.9,46,73,106,Bundesliga,2020-2021
+Matthew Hoppe,us USA,FW,Schalke 04,19,2001,22,15,1305,14.5,6,1,7,6,0,0,3,0,3.8,3.8,0.8,4.6,17,14,69,Bundesliga,2020-2021
+Florian Neuhaus,de GER,MF,Gladbach,23,1997,33,30,2622,29.1,6,5,11,6,0,0,9,0,2.7,2.7,2.9,5.6,63,201,57,Bundesliga,2020-2021
+Christopher Nkunku,fr FRA,"FW,MF",RB Leipzig,22,1997,28,19,1892,21.0,6,6,12,6,0,0,2,0,6.9,6.9,7.1,13.9,65,76,207,Bundesliga,2020-2021
+Jamal Musiala,de GER,"FW,MF",Bayern Munich,17,2003,26,7,881,9.8,6,1,7,6,0,0,0,0,2.9,2.9,0.7,3.6,29,39,66,Bundesliga,2020-2021
+Niclas Füllkrug,de GER,FW,Werder Bremen,27,1993,19,10,877,9.7,6,0,6,4,2,2,1,0,5.0,3.5,0.2,3.7,9,22,68,Bundesliga,2020-2021
+Maximilian Philipp,de GER,MF,Wolfsburg,26,1994,24,13,1111,12.3,6,2,8,6,0,0,3,0,3.5,3.5,1.1,4.5,8,28,71,Bundesliga,2020-2021
+Nicolás González,ar ARG,"FW,MF",Stuttgart,22,1998,15,10,934,10.4,6,2,8,3,3,4,5,0,7.4,4.3,2.0,6.3,32,27,65,Bundesliga,2020-2021
+Ruben Vargas,ch SUI,"MF,FW",Augsburg,21,1998,30,18,1612,17.9,6,3,9,6,0,0,2,1,4.1,4.1,2.8,7.0,48,61,124,Bundesliga,2020-2021
+Ridle Baku,de GER,"FW,DF",Wolfsburg,22,1998,32,31,2678,29.8,6,7,13,6,0,0,1,0,3.4,3.4,4.1,7.6,69,104,243,Bundesliga,2020-2021
+Daniel Caligiuri,it ITA,"MF,FW",Augsburg,32,1988,33,31,2665,29.6,6,4,10,4,2,3,5,0,4.8,2.4,4.6,7.0,64,114,136,Bundesliga,2020-2021
+Robin Quaison,se SWE,"FW,MF",Mainz 05,26,1993,28,18,1476,16.4,6,2,8,5,1,1,1,0,6.2,5.4,2.6,8.0,14,40,68,Bundesliga,2020-2021
+Ermedin Demirović,ba BIH,FW,Freiburg,22,1998,30,19,1498,16.6,5,6,11,5,0,0,7,0,4.9,4.9,4.3,9.3,16,39,88,Bundesliga,2020-2021
+Florian Niederlechner,de GER,FW,Augsburg,29,1990,28,21,1737,19.3,5,4,9,5,0,0,3,1,6.0,6.0,2.2,8.3,18,31,87,Bundesliga,2020-2021
+Dani Olmo,es ESP,MF,RB Leipzig,22,1998,32,26,2194,24.4,5,9,14,4,1,1,1,0,6.6,5.8,5.1,10.9,50,175,174,Bundesliga,2020-2021
+Elvis Rexhbeçaj,xk KVX,"MF,FW",Köln,22,1997,30,20,1833,20.4,5,2,7,5,0,0,4,0,2.3,2.3,2.6,4.8,27,67,73,Bundesliga,2020-2021
+Josh Sargent,us USA,"FW,MF",Werder Bremen,20,2000,32,30,2506,27.8,5,2,7,5,0,0,7,0,5.5,5.5,3.8,9.3,28,45,114,Bundesliga,2020-2021
+Ellyes Skhiri,tn TUN,MF,Köln,25,1995,32,32,2785,30.9,5,2,7,5,0,0,5,0,4.5,4.5,1.0,5.5,19,109,28,Bundesliga,2020-2021
+Ritsu Doan,jp JPN,"MF,FW",Arminia,22,1998,34,33,2768,30.8,5,2,7,5,0,0,1,0,5.2,5.1,3.6,8.7,88,86,169,Bundesliga,2020-2021
+Renato Steffen,ch SUI,"FW,MF",Wolfsburg,28,1991,21,19,1566,17.4,5,4,9,5,0,0,3,0,4.1,4.1,2.3,6.4,39,69,113,Bundesliga,2020-2021
+Breel Embolo,ch SUI,"FW,MF",Gladbach,23,1997,31,16,1440,16.0,5,2,7,5,0,0,4,0,7.7,7.7,1.3,9.0,37,31,124,Bundesliga,2020-2021
+Alexander Sørloth,no NOR,FW,RB Leipzig,24,1995,29,13,1443,16.0,5,3,8,5,0,1,2,0,6.4,5.6,2.7,8.3,43,34,143,Bundesliga,2020-2021
+Taiwo Awoniyi,ng NGA,FW,Union Berlin,22,1997,21,16,1359,15.1,5,2,7,5,0,0,0,0,6.1,6.1,1.3,7.4,19,16,108,Bundesliga,2020-2021
+Kingsley Coman,fr FRA,"FW,MF",Bayern Munich,24,1996,29,23,1752,19.5,5,10,15,5,0,0,1,0,4.2,4.2,6.4,10.6,103,76,268,Bundesliga,2020-2021
+Raphaël Guerreiro,pt POR,DF,Dortmund,26,1993,27,25,2218,24.6,5,10,15,5,0,0,1,0,3.8,3.8,7.4,11.2,86,243,169,Bundesliga,2020-2021
+Mats Hummels,de GER,DF,Dortmund,31,1988,33,32,2813,31.3,5,0,5,5,0,0,6,0,4.6,4.6,0.8,5.4,17,149,7,Bundesliga,2020-2021
+Yussuf Poulsen,dk DEN,FW,RB Leipzig,26,1994,27,14,1354,15.0,5,4,9,5,0,0,1,0,4.6,4.6,1.8,6.4,24,37,119,Bundesliga,2020-2021
+Marvin Friedrich,de GER,DF,Union Berlin,24,1995,34,34,3060,34.0,5,2,7,5,0,0,1,0,1.6,1.6,2.5,4.1,30,123,13,Bundesliga,2020-2021
+Leon Goretzka,de GER,MF,Bayern Munich,25,1995,24,18,1705,18.9,5,5,10,5,0,0,2,0,3.7,3.7,2.8,6.5,45,137,42,Bundesliga,2020-2021
+Fabian Klos,de GER,FW,Arminia,32,1987,34,32,2709,30.1,5,2,7,4,1,2,4,0,7.9,6.3,4.8,11.1,24,79,141,Bundesliga,2020-2021
+Kevin Möhwald,de GER,MF,Werder Bremen,27,1993,27,17,1555,17.3,5,1,6,5,0,0,4,1,1.7,1.7,0.8,2.4,12,76,24,Bundesliga,2020-2021
+Daichi Kamada,jp JPN,MF,Eint Frankfurt,23,1996,32,28,2356,26.2,5,12,17,5,0,0,3,0,5.6,5.6,7.5,13.1,63,124,210,Bundesliga,2020-2021
+Dodi Lukebakio,be BEL,"FW,MF",Hertha BSC,22,1997,29,21,1855,20.6,5,5,10,3,2,2,4,1,6.9,5.3,2.8,8.1,49,39,124,Bundesliga,2020-2021
+Florian Wirtz,de GER,MF,Leverkusen,17,2003,29,25,2224,24.7,5,6,11,5,0,0,1,0,4.0,4.0,3.4,7.4,54,114,154,Bundesliga,2020-2021
+Robert Andrich,de GER,MF,Union Berlin,25,1994,29,29,2526,28.1,5,2,7,5,0,0,5,1,2.6,2.6,2.0,4.5,25,128,31,Bundesliga,2020-2021
+Moussa Diaby,fr FRA,"FW,MF",Leverkusen,21,1999,32,28,2388,26.5,4,11,15,4,0,0,5,0,4.6,4.6,6.7,11.3,142,62,270,Bundesliga,2020-2021
+Kerem Demirbay,de GER,MF,Leverkusen,27,1993,29,20,1744,19.4,4,3,7,4,0,0,2,0,3.5,3.5,3.7,7.1,41,130,74,Bundesliga,2020-2021
+Gonzalo Castro,de GER,MF,Stuttgart,33,1987,26,23,1729,19.2,4,2,6,4,0,0,9,0,3.3,3.3,2.8,6.2,55,119,108,Bundesliga,2020-2021
+Ramy Bensebaini,dz ALG,DF,Gladbach,25,1995,25,20,1811,20.1,4,0,4,3,1,1,7,0,2.3,1.6,1.2,2.7,27,83,64,Bundesliga,2020-2021
+Leonardo Bittencourt,de GER,"MF,FW",Werder Bremen,26,1993,27,19,1514,16.8,4,1,5,3,1,1,3,0,4.3,3.6,1.0,4.6,40,42,106,Bundesliga,2020-2021
+Willi Orban,hu HUN,DF,RB Leipzig,27,1992,29,25,2363,26.3,4,1,5,4,0,0,4,0,3.8,3.8,1.6,5.4,33,166,5,Bundesliga,2020-2021
+Filip Kostić,rs SRB,DF,Eint Frankfurt,27,1992,30,29,2534,28.2,4,14,18,4,0,0,4,0,4.4,4.4,12.8,17.2,124,108,288,Bundesliga,2020-2021
+Luka Jović,rs SRB,FW,Eint Frankfurt,22,1997,18,8,894,9.9,4,1,5,4,0,0,2,0,2.9,2.9,0.7,3.6,15,37,62,Bundesliga,2020-2021
+Philipp Lienhart,at AUT,DF,Freiburg,24,1996,34,34,2993,33.3,4,0,4,4,0,0,4,0,1.9,1.9,0.2,2.0,16,76,7,Bundesliga,2020-2021
+Lucas Höler,de GER,"FW,MF",Freiburg,26,1994,33,22,2089,23.2,4,4,8,4,0,0,5,0,8.5,8.5,2.8,11.3,57,46,148,Bundesliga,2020-2021
+Angeliño,es ESP,"DF,FW",RB Leipzig,23,1997,26,24,2161,24.0,4,4,8,4,0,0,2,0,4.2,4.2,5.5,9.7,47,93,242,Bundesliga,2020-2021
+Jeong Woo-yeong,kr KOR,"FW,MF",Freiburg,20,1999,26,7,823,9.1,4,0,4,4,0,0,0,0,1.3,1.3,1.1,2.4,28,46,78,Bundesliga,2020-2021
+Joshua Kimmich,de GER,MF,Bayern Munich,25,1995,27,25,2194,24.4,4,10,14,4,0,0,4,0,2.3,2.3,6.7,9.1,54,288,66,Bundesliga,2020-2021
+Moanes Dabbur,il ISR,"FW,MF",Hoffenheim,28,1992,22,11,999,11.1,4,0,4,4,0,1,2,0,5.3,4.5,0.6,5.1,20,35,80,Bundesliga,2020-2021
+Karim Onisiwo,at AUT,"FW,MF",Mainz 05,28,1992,31,19,1843,20.5,4,0,4,4,0,0,2,0,6.2,6.2,1.8,8.0,54,36,153,Bundesliga,2020-2021
+Gio Reyna,us USA,"MF,FW",Dortmund,17,2002,32,23,1976,22.0,4,5,9,4,0,0,1,0,4.1,4.1,5.2,9.2,65,64,215,Bundesliga,2020-2021
+Bas Dost,nl NED,FW,Eint Frankfurt,31,1989,12,9,817,9.1,4,2,6,3,1,1,3,0,4.0,3.2,2.6,5.8,3,30,40,Bundesliga,2020-2021
+Daniel Didavi,de GER,"MF,FW",Stuttgart,30,1990,23,10,970,10.8,4,3,7,4,0,0,2,0,2.8,2.8,2.7,5.6,21,62,83,Bundesliga,2020-2021
+Maximilian Arnold,de GER,MF,Wolfsburg,26,1994,30,30,2585,28.7,3,6,9,3,0,0,7,1,2.4,2.4,4.2,6.6,30,180,33,Bundesliga,2020-2021
+Marcus Ingvartsen,dk DEN,"MF,FW",Union Berlin,24,1996,30,24,1963,21.8,3,5,8,3,0,1,4,0,4.0,3.2,2.1,5.3,29,53,107,Bundesliga,2020-2021
+Nordi Mukiele,fr FRA,DF,RB Leipzig,22,1997,28,21,1677,18.6,3,1,4,3,0,0,5,0,2.6,2.6,1.5,4.1,39,73,117,Bundesliga,2020-2021
+Philipp Förster,de GER,MF,Stuttgart,25,1995,25,17,1509,16.8,3,1,4,3,0,1,4,0,3.5,2.7,2.3,5.0,69,93,117,Bundesliga,2020-2021
+Theodor Gebre Selassie,cz CZE,DF,Werder Bremen,33,1986,34,34,3032,33.7,3,1,4,3,0,0,3,0,1.5,1.5,1.1,2.7,37,84,123,Bundesliga,2020-2021
+Obite N'Dicka,ci CIV,DF,Eint Frankfurt,20,1999,23,23,2044,22.7,3,1,4,3,0,0,10,0,1.4,1.4,0.4,1.8,43,95,29,Bundesliga,2020-2021
+Jonas Hector,de GER,"MF,FW",Köln,30,1990,19,15,1290,14.3,3,1,4,3,0,0,2,0,3.1,3.1,1.6,4.7,8,60,57,Bundesliga,2020-2021
+Amadou Haidara,ml MLI,"MF,FW",RB Leipzig,22,1998,31,21,1905,21.2,3,1,4,3,0,0,4,0,3.9,3.9,3.0,6.8,53,99,121,Bundesliga,2020-2021
+Moussa Niakhate,sn SEN,DF,Mainz 05,24,1996,32,32,2866,31.8,3,1,4,2,1,1,10,1,2.3,1.5,2.1,3.7,47,117,18,Bundesliga,2020-2021
+Christian Günter,de GER,"DF,MF",Freiburg,27,1993,34,34,3060,34.0,3,3,6,3,0,0,2,0,1.0,1.0,5.9,6.9,67,115,188,Bundesliga,2020-2021
+Peter Pekarík,sk SVK,DF,Hertha BSC,33,1986,23,22,1692,18.8,3,1,4,3,0,0,4,0,1.8,1.8,0.8,2.6,42,61,74,Bundesliga,2020-2021
+Eric Maxim Choupo-Moting,cm CMR,"FW,MF",Bayern Munich,31,1989,22,8,820,9.1,3,0,3,3,0,0,2,0,4.7,4.7,1.5,6.1,9,19,63,Bundesliga,2020-2021
+Amin Younes,de GER,MF,Eint Frankfurt,26,1993,26,16,1391,15.5,3,3,6,3,0,0,5,0,2.8,2.8,1.6,4.5,61,98,119,Bundesliga,2020-2021
+Justin Kluivert,nl NED,"FW,MF",RB Leipzig,21,1999,19,8,813,9.0,3,1,4,3,0,0,2,0,3.6,3.6,1.0,4.6,42,11,108,Bundesliga,2020-2021
+Hannes Wolf,at AUT,"MF,FW",Gladbach,21,1999,32,14,1378,15.3,3,2,5,3,0,0,2,0,1.8,1.8,2.5,4.3,34,56,102,Bundesliga,2020-2021
+Sebastian Andersson,se SWE,FW,Köln,29,1991,16,14,1126,12.5,3,0,3,2,1,1,1,0,6.2,5.4,0.3,5.7,6,20,55,Bundesliga,2020-2021
+Youssoufa Moukoko,de GER,"FW,MF",Dortmund,15,2004,14,2,422,4.7,3,0,3,3,0,0,0,0,2.2,2.2,0.8,3.0,6,7,43,Bundesliga,2020-2021
+Milot Rashica,xk KVX,"FW,MF",Werder Bremen,24,1996,24,14,1462,16.2,3,2,5,2,1,1,0,0,4.4,3.6,1.6,5.2,52,31,134,Bundesliga,2020-2021
+Wataru Endo,jp JPN,MF,Stuttgart,27,1993,33,33,2955,32.8,3,3,6,3,0,0,5,0,2.6,2.6,1.8,4.4,35,187,39,Bundesliga,2020-2021
+Julian Brandt,de GER,"FW,MF",Dortmund,24,1996,31,17,1495,16.6,3,2,5,3,0,0,0,0,2.2,2.2,2.3,4.6,39,102,142,Bundesliga,2020-2021
+Mark Uth,de GER,"FW,MF",Schalke 04,28,1991,20,18,1494,16.6,3,1,4,3,0,0,5,0,3.2,3.2,1.9,5.1,34,53,69,Bundesliga,2020-2021
+Grischa Prömel,de GER,MF,Union Berlin,25,1995,24,21,1816,20.2,3,1,4,3,0,0,7,0,1.8,1.8,1.0,2.7,18,66,33,Bundesliga,2020-2021
+Davie Selke,de GER,FW,Werder Bremen,25,1995,23,7,813,9.0,3,1,4,2,1,1,4,0,3.7,2.9,0.4,3.3,10,15,46,Bundesliga,2020-2021
+Marco Richter,de GER,"FW,MF",Augsburg,22,1997,29,16,1416,15.7,3,1,4,3,0,0,4,1,5.1,5.1,1.7,6.8,32,38,107,Bundesliga,2020-2021
+Nico Elvedi,ch SUI,DF,Gladbach,23,1996,29,29,2536,28.2,3,1,4,3,0,0,1,0,1.7,1.7,0.1,1.8,10,69,3,Bundesliga,2020-2021
+Cedric Teuchert,de GER,"FW,MF",Union Berlin,23,1997,24,5,754,8.4,3,1,4,3,0,0,2,0,3.7,3.7,0.7,4.4,23,17,32,Bundesliga,2020-2021
+Kevin Stöger,at AUT,"MF,FW",Mainz 05,26,1993,19,4,538,6.0,3,0,3,3,0,0,3,0,1.8,1.8,0.7,2.5,22,38,36,Bundesliga,2020-2021
+Sheraldo Becker,sr SUR,"FW,MF",Union Berlin,25,1995,18,15,1106,12.3,3,3,6,3,0,0,2,0,1.5,1.5,3.1,4.6,61,22,87,Bundesliga,2020-2021
+Ömer Toprak,tr TUR,DF,Werder Bremen,31,1989,26,24,1940,21.6,2,0,2,2,0,0,1,0,0.7,0.7,0.0,0.8,12,52,1,Bundesliga,2020-2021
+Jean-Paul Boëtius,nl NED,"MF,FW",Mainz 05,26,1994,31,23,2065,22.9,2,4,6,2,0,0,5,0,2.6,2.6,6.1,8.7,33,109,96,Bundesliga,2020-2021
+Bartosz Białek,pl POL,"FW,MF",Wolfsburg,18,2001,19,1,270,3.0,2,0,2,2,0,0,1,0,1.9,1.9,0.2,2.1,3,12,15,Bundesliga,2020-2021
+Julian Baumgartlinger,at AUT,MF,Leverkusen,32,1988,17,12,1072,11.9,2,0,2,2,0,0,1,0,1.0,1.0,0.2,1.2,3,51,8,Bundesliga,2020-2021
+Leandro Barreiro Martins,lu LUX,MF,Mainz 05,20,2000,29,27,2303,25.6,2,2,4,2,0,0,5,0,4.5,4.5,2.7,7.1,11,76,42,Bundesliga,2020-2021
+Aymen Barkok,ma MAR,"MF,DF",Eint Frankfurt,22,1998,26,9,977,10.9,2,3,5,2,0,0,5,0,1.9,1.9,3.2,5.0,30,46,76,Bundesliga,2020-2021
+Andreas Voglsammer,de GER,"FW,MF",Arminia,28,1992,18,11,1000,11.1,2,2,4,2,0,0,1,0,3.9,3.9,1.9,5.8,20,23,71,Bundesliga,2020-2021
+Sargis Adamyan,am ARM,"FW,MF",Hoffenheim,27,1993,18,3,479,5.3,2,3,5,2,0,0,2,0,2.1,2.1,2.3,4.5,20,17,58,Bundesliga,2020-2021
+Marius Wolf,de GER,"MF,DF",Köln,25,1995,31,29,2551,28.3,2,2,4,2,0,0,3,0,3.2,3.2,2.4,5.5,72,120,132,Bundesliga,2020-2021
+Nadiem Amiri,de GER,MF,Leverkusen,23,1996,29,20,1890,21.0,2,6,8,2,0,0,5,0,2.2,2.2,3.1,5.3,45,113,82,Bundesliga,2020-2021
+David Alaba,at AUT,"DF,MF",Bayern Munich,28,1992,32,30,2675,29.7,2,4,6,2,0,0,4,0,1.2,1.2,2.1,3.3,56,242,70,Bundesliga,2020-2021
+Stefan Lainer,at AUT,DF,Gladbach,27,1992,33,31,2768,30.8,2,2,4,2,0,0,2,0,1.8,1.8,3.1,5.0,79,136,171,Bundesliga,2020-2021
+Marc-Oliver Kempf,de GER,DF,Stuttgart,25,1995,32,32,2727,30.3,2,1,3,2,0,0,5,0,1.1,1.1,0.5,1.6,51,199,13,Bundesliga,2020-2021
+Valentino Lazaro,at AUT,"DF,FW",Gladbach,24,1996,22,13,1240,13.8,2,0,2,2,0,0,3,0,2.3,2.3,1.2,3.4,33,30,71,Bundesliga,2020-2021
+Manuel Akanji,ch SUI,DF,Dortmund,25,1995,28,26,2350,26.1,2,0,2,2,0,0,4,0,1.7,1.7,0.3,2.0,26,159,7,Bundesliga,2020-2021
+Jessic Ngankam,de GER,FW,Hertha BSC,20,2000,15,2,296,3.3,2,0,2,2,0,0,1,0,0.4,0.4,0.1,0.5,3,1,12,Bundesliga,2020-2021
+Mattéo Guendouzi,fr FRA,MF,Hertha BSC,21,1999,24,19,1818,20.2,2,1,3,2,0,0,5,0,1.0,1.0,1.6,2.6,40,125,61,Bundesliga,2020-2021
+Robert Glatzel,de GER,FW,Mainz 05,26,1994,13,3,359,4.0,2,1,3,2,0,0,0,0,2.8,2.8,0.5,3.3,9,12,38,Bundesliga,2020-2021
+Florian Grillitsch,at AUT,"MF,DF",Hoffenheim,24,1995,26,22,1879,20.9,2,1,3,2,0,0,6,1,2.5,2.5,1.6,4.2,29,160,43,Bundesliga,2020-2021
+Martin Hinteregger,at AUT,DF,Eint Frankfurt,27,1992,29,29,2527,28.1,2,1,3,2,0,0,4,0,2.4,2.4,1.2,3.5,23,152,18,Bundesliga,2020-2021
+Amine Harit,ma MAR,"MF,FW",Schalke 04,23,1997,28,25,2101,23.3,2,5,7,2,0,0,4,0,1.5,1.5,5.1,6.7,83,93,152,Bundesliga,2020-2021
+Marcel Halstenberg,de GER,DF,RB Leipzig,28,1991,24,19,1651,18.3,2,2,4,1,1,1,2,0,1.9,1.1,1.7,2.9,44,143,59,Bundesliga,2020-2021
+Klaas-Jan Huntelaar,nl NED,FW,Schalke 04,36,1983,9,7,588,6.5,2,1,3,2,0,1,2,0,3.5,2.7,0.3,3.0,1,14,21,Bundesliga,2020-2021
+Matthias Ginter,de GER,DF,Gladbach,26,1994,34,34,3060,34.0,2,1,3,2,0,0,2,0,1.4,1.4,1.8,3.2,47,178,21,Bundesliga,2020-2021
+Yannick Gerhardt,de GER,"MF,FW",Wolfsburg,26,1994,29,21,1936,21.5,2,4,6,2,0,0,3,0,3.9,3.9,3.4,7.3,51,74,107,Bundesliga,2020-2021
+Manuel Gulde,de GER,DF,Freiburg,29,1991,27,22,1954,21.7,2,0,2,2,0,0,3,0,0.8,0.8,0.0,0.8,9,54,7,Bundesliga,2020-2021
+Tanguy Coulibaly,fr FRA,"DF,FW",Stuttgart,19,2001,31,17,1506,16.7,2,1,3,2,0,0,2,0,2.8,2.8,2.6,5.4,46,29,149,Bundesliga,2020-2021
+John Brooks,us USA,DF,Wolfsburg,27,1993,32,31,2774,30.8,2,0,2,2,0,0,5,0,1.6,1.6,0.4,2.1,28,144,6,Bundesliga,2020-2021
+Jonathan Burkardt,de GER,"FW,MF",Mainz 05,20,2000,29,16,1373,15.3,2,0,2,2,0,0,0,0,3.7,3.7,1.9,5.6,39,33,97,Bundesliga,2020-2021
+Jan Thielmann,de GER,"FW,MF",Köln,18,2002,24,9,1029,11.4,2,3,5,2,0,0,0,0,1.4,1.4,0.8,2.2,18,28,70,Bundesliga,2020-2021
+Ryan Sessegnon,eng ENG,"DF,FW",Hoffenheim,20,2000,23,17,1574,17.5,2,3,5,2,0,0,4,0,0.8,0.8,1.7,2.5,45,68,103,Bundesliga,2020-2021
+Jonathan Schmid,fr FRA,"MF,DF",Freiburg,30,1990,31,27,2393,26.6,2,2,4,2,0,0,4,0,1.1,1.1,2.4,3.5,49,130,122,Bundesliga,2020-2021
+Sergio Córdova,ve VEN,"FW,MF",Arminia,22,1997,23,13,1090,12.1,2,1,3,2,0,0,0,0,3.5,3.5,0.9,4.4,17,21,77,Bundesliga,2020-2021
+Xaver Schlager,at AUT,MF,Wolfsburg,22,1997,32,30,2626,29.2,2,4,6,2,0,0,7,0,3.1,3.1,3.9,7.0,47,141,62,Bundesliga,2020-2021
+Daniel Brosinski,de GER,"DF,FW",Mainz 05,32,1988,21,16,1430,15.9,2,1,3,0,2,2,0,0,2.0,0.4,2.9,3.3,21,64,66,Bundesliga,2020-2021
+Benito Raman,be BEL,"FW,MF",Schalke 04,25,1994,25,13,1246,13.8,2,0,2,2,0,0,2,0,2.3,2.2,1.2,3.5,14,30,75,Bundesliga,2020-2021
+Dominick Drexler,de GER,"MF,FW",Köln,30,1990,27,11,1233,13.7,2,1,3,2,0,0,1,0,2.1,2.1,2.7,4.8,33,56,98,Bundesliga,2020-2021
+Maximilian Eggestein,de GER,MF,Werder Bremen,23,1996,33,33,2942,32.7,2,5,7,2,0,0,5,0,1.0,1.0,3.3,4.3,45,192,68,Bundesliga,2020-2021
+Douglas Costa,br BRA,"FW,MF",Bayern Munich,29,1990,11,3,320,3.6,1,1,2,1,0,0,0,0,0.2,0.2,0.8,0.9,15,17,40,Bundesliga,2020-2021
+Jude Bellingham,eng ENG,MF,Dortmund,17,2003,29,19,1697,18.9,1,3,4,1,0,0,6,1,2.5,2.5,3.2,5.8,28,93,80,Bundesliga,2020-2021
+Dedryck Boyata,be BEL,DF,Hertha BSC,29,1990,19,17,1545,17.2,1,0,1,1,0,0,3,0,0.6,0.6,0.8,1.4,2,44,3,Bundesliga,2020-2021
+Edmond Tapsoba,bf BFA,DF,Leverkusen,21,1999,31,29,2652,29.5,1,0,1,1,0,0,5,0,1.0,1.0,0.5,1.5,25,167,8,Bundesliga,2020-2021
+Lars Bender,de GER,DF,Leverkusen,31,1989,14,12,936,10.4,1,2,3,0,1,1,2,0,1.7,0.9,0.6,1.5,15,55,31,Bundesliga,2020-2021
+Almamy Touré,ml MLI,DF,Eint Frankfurt,24,1996,17,8,704,7.8,1,1,2,1,0,0,2,0,1.9,1.9,2.0,3.9,17,27,70,Bundesliga,2020-2021
+Lucas Tousart,fr FRA,MF,Hertha BSC,23,1997,26,25,2090,23.2,1,0,1,1,0,0,7,0,1.5,1.5,1.6,3.0,24,84,23,Bundesliga,2020-2021
+László Bénes,sk SVK,MF,Augsburg,22,1997,12,9,660,7.3,1,1,2,1,0,0,3,0,0.5,0.5,0.9,1.3,7,19,20,Bundesliga,2020-2021
+Santiago Ascacíbar,ar ARG,MF,Hertha BSC,23,1997,13,8,762,8.5,1,0,1,1,0,0,2,0,0.3,0.3,0.3,0.6,7,31,8,Bundesliga,2020-2021
+Mitchell Weiser,de GER,DF,Leverkusen,26,1994,5,2,226,2.5,1,0,1,1,0,0,0,0,0.1,0.1,0.0,0.1,4,18,9,Bundesliga,2020-2021
+Ragnar Ache,de GER,"FW,DF",Eint Frankfurt,22,1998,7,0,100,1.1,1,0,1,1,0,0,1,0,0.1,0.1,0.0,0.1,3,3,12,Bundesliga,2020-2021
+David Abraham,ar ARG,DF,Eint Frankfurt,34,1986,14,14,1222,13.6,1,0,1,1,0,0,5,1,0.6,0.6,0.4,1.0,12,55,21,Bundesliga,2020-2021
+Deyovaisio Zeefuik,nl NED,"DF,FW",Hertha BSC,22,1998,22,10,905,10.1,1,0,1,1,0,0,4,1,0.2,0.2,1.1,1.2,23,31,51,Bundesliga,2020-2021
+Denis Zakaria,ch SUI,"MF,DF",Gladbach,23,1996,25,15,1419,15.8,1,1,2,1,0,0,5,0,1.5,1.5,1.1,2.5,29,57,27,Bundesliga,2020-2021
+Michel Vlap,nl NED,"MF,FW",Arminia,23,1997,7,5,371,4.1,1,1,2,1,0,0,0,0,0.5,0.5,0.6,1.1,3,8,20,Bundesliga,2020-2021
+Christopher Trimmel,at AUT,"DF,FW",Union Berlin,33,1987,31,30,2572,28.6,1,9,10,1,0,0,9,0,0.3,0.3,5.9,6.3,47,85,78,Bundesliga,2020-2021
+Dayot Upamecano,fr FRA,DF,RB Leipzig,21,1998,29,27,2330,25.9,1,0,1,1,0,0,6,0,1.3,1.3,0.6,1.9,24,156,11,Bundesliga,2020-2021
+Corentin Tolisso,fr FRA,MF,Bayern Munich,25,1994,16,7,781,8.7,1,0,1,1,0,0,1,1,2.2,2.2,0.4,2.6,12,68,27,Bundesliga,2020-2021
+Stefan Bell,de GER,DF,Mainz 05,28,1991,16,16,1266,14.1,1,1,2,1,0,0,6,0,0.5,0.5,0.8,1.3,1,25,3,Bundesliga,2020-2021
+Malick Thiaw,de GER,DF,Schalke 04,18,2001,19,15,1452,16.1,1,0,1,1,0,0,5,1,0.7,0.7,0.1,0.8,4,28,10,Bundesliga,2020-2021
+Ádám Szalai,hu HUN,FW,Mainz 05,32,1987,18,8,733,8.1,1,0,1,1,0,0,1,0,2.4,2.4,0.6,3.0,5,20,52,Bundesliga,2020-2021
+Robert Skov,dk DEN,"FW,MF",Hoffenheim,24,1996,23,12,1164,12.9,1,0,1,1,0,0,0,1,1.9,1.9,2.5,4.4,25,42,98,Bundesliga,2020-2021
+Marius Bülter,de GER,"FW,MF",Union Berlin,27,1993,26,8,977,10.9,1,0,1,1,0,0,1,0,1.5,1.5,0.9,2.4,24,17,71,Bundesliga,2020-2021
+Jóan Símun Edmundsson,fo FRO,"FW,MF",Arminia,29,1991,5,0,58,0.6,1,0,1,1,0,0,0,0,0.4,0.4,0.0,0.4,2,0,6,Bundesliga,2020-2021
+Jonathan Tah,de GER,DF,Leverkusen,24,1996,27,24,2219,24.7,1,0,1,1,0,0,3,0,0.8,0.8,0.0,0.9,13,125,12,Bundesliga,2020-2021
+Niklas Süle,de GER,DF,Bayern Munich,24,1995,20,16,1505,16.7,1,0,1,1,0,0,1,0,1.0,1.0,0.3,1.3,36,129,29,Bundesliga,2020-2021
+Ermin Bičakčić,ba BIH,DF,Hoffenheim,30,1990,2,2,128,1.4,1,0,1,1,0,0,1,0,0.4,0.4,0.0,0.4,0,4,0,Bundesliga,2020-2021
+Sebastiaan Bornauw,be BEL,DF,Köln,21,1999,24,23,2083,23.1,1,1,2,1,0,0,3,0,1.5,1.5,0.0,1.5,4,43,4,Bundesliga,2020-2021
+Jérôme Boateng,de GER,DF,Bayern Munich,31,1988,29,29,2368,26.3,1,1,2,1,0,0,6,0,0.4,0.4,0.5,0.9,8,184,7,Bundesliga,2020-2021
+Nassim Boujellab,ma MAR,"MF,FW",Schalke 04,21,1999,12,6,605,6.7,1,0,1,1,0,0,2,0,1.6,1.6,0.2,1.8,9,22,29,Bundesliga,2020-2021
+Cebio Soukou,bj BEN,"FW,MF",Arminia,27,1992,14,5,458,5.1,1,0,1,1,0,0,2,0,0.7,0.7,0.2,0.9,5,8,29,Bundesliga,2020-2021
+Timothy Chandler,us USA,DF,Eint Frankfurt,30,1990,15,3,432,4.8,1,0,1,1,0,0,2,0,0.8,0.8,0.2,1.0,14,19,45,Bundesliga,2020-2021
+Emre Can,de GER,"DF,MF",Dortmund,26,1994,28,23,2133,23.7,1,4,5,1,0,0,5,0,1.0,1.0,2.9,3.9,53,133,32,Bundesliga,2020-2021
+Nemanja Radonjić,rs SRB,"FW,MF",Hertha BSC,24,1996,12,5,611,6.8,1,2,3,1,0,0,1,0,1.9,1.9,1.0,2.9,40,31,77,Bundesliga,2020-2021
+Reinier,br BRA,"MF,FW",Dortmund,18,2002,14,1,257,2.9,1,1,2,1,0,0,0,0,0.5,0.5,0.3,0.7,7,5,11,Bundesliga,2020-2021
+Erik Durm,de GER,DF,Eint Frankfurt,28,1992,21,19,1480,16.4,1,2,3,1,0,0,1,0,1.4,1.4,1.9,3.3,25,47,90,Bundesliga,2020-2021
+Aleksandar Dragović,at AUT,DF,Leverkusen,29,1991,18,11,1136,12.6,1,0,1,1,0,0,3,0,0.2,0.2,0.6,0.8,15,99,16,Bundesliga,2020-2021
+Keita Endo,jp JPN,"MF,FW",Union Berlin,22,1997,16,4,456,5.1,1,0,1,1,0,0,0,0,1.4,1.4,1.9,3.3,16,7,33,Bundesliga,2020-2021
+Sebastian Rudy,de GER,"MF,FW",Hoffenheim,30,1990,25,21,1678,18.6,1,3,4,1,0,0,4,0,0.8,0.8,2.3,3.1,19,111,67,Bundesliga,2020-2021
+Georginio Rutter,fr FRA,FW,Hoffenheim,18,2002,9,2,241,2.7,1,0,1,1,0,0,0,0,0.7,0.7,0.1,0.8,4,6,29,Bundesliga,2020-2021
+Victor Sá,br BRA,FW,Wolfsburg,26,1994,21,3,469,5.2,1,1,2,1,0,0,0,0,0.5,0.5,1.1,1.6,20,15,66,Bundesliga,2020-2021
+Sebastian Rode,de GER,MF,Eint Frankfurt,29,1990,27,19,1625,18.1,1,0,1,1,0,0,10,0,0.1,0.1,1.1,1.2,36,112,34,Bundesliga,2020-2021
+Alphonso Davies,ca CAN,DF,Bayern Munich,19,2000,23,22,1763,19.6,1,2,3,1,0,0,2,1,0.2,0.2,1.9,2.1,80,123,131,Bundesliga,2020-2021
+Thomas Delaney,dk DEN,MF,Dortmund,28,1991,20,14,1286,14.3,1,1,2,1,0,0,6,0,0.6,0.6,0.2,0.7,5,58,19,Bundesliga,2020-2021
+Vladimír Darida,cz CZE,MF,Hertha BSC,29,1990,27,24,1903,21.1,1,6,7,1,0,0,5,1,1.7,1.7,5.2,6.9,35,101,105,Bundesliga,2020-2021
+Sven Schipplock,de GER,"FW,MF",Arminia,31,1988,32,5,744,8.3,1,0,1,1,0,0,4,0,1.5,1.5,0.6,2.1,16,17,37,Bundesliga,2020-2021
+Nico Schlotterbeck,de GER,DF,Union Berlin,20,1999,16,15,1285,14.3,1,0,1,1,0,0,4,1,2.3,2.3,0.6,2.9,23,74,5,Bundesliga,2020-2021
+Baptiste Santamaria,fr FRA,MF,Freiburg,25,1995,30,28,2209,24.5,1,2,3,1,0,0,5,0,2.2,2.2,1.4,3.7,30,96,58,Bundesliga,2020-2021
+Eren Dinkçi,de GER,"MF,FW",Werder Bremen,18,2001,8,1,108,1.2,1,0,1,1,0,0,0,1,0.5,0.5,0.2,0.7,2,4,5,Bundesliga,2020-2021
+Rafael Czichos,de GER,DF,Köln,30,1990,28,26,2259,25.1,1,0,1,1,0,0,7,0,1.8,1.8,0.1,1.9,21,103,6,Bundesliga,2020-2021
+Mahmoud Dahoud,de GER,MF,Dortmund,24,1996,21,15,1258,14.0,1,1,2,1,0,0,2,0,0.6,0.6,1.4,2.0,21,93,30,Bundesliga,2020-2021
+Suat Serdar,de GER,MF,Schalke 04,23,1997,25,24,1953,21.7,1,3,4,1,0,0,3,0,2.1,2.1,1.3,3.4,44,67,52,Bundesliga,2020-2021
+Demarai Gray,jm JAM,FW,Leverkusen,24,1996,10,5,442,4.9,1,2,3,1,0,0,0,0,1.4,1.4,0.9,2.3,27,12,44,Bundesliga,2020-2021
+Manuel Prietl,at AUT,MF,Arminia,28,1991,28,28,2517,28.0,1,1,2,1,0,0,3,0,0.8,0.8,1.8,2.6,14,67,18,Bundesliga,2020-2021
+Jeffrey Gouweleeuw,nl NED,DF,Augsburg,29,1991,32,32,2835,31.5,1,0,1,1,0,0,9,0,0.3,0.3,0.6,0.9,27,131,8,Bundesliga,2020-2021
+Florian Flick,de GER,MF,Schalke 04,20,2000,4,4,360,4.0,1,0,1,1,0,0,1,0,0.5,0.5,0.0,0.5,1,6,1,Bundesliga,2020-2021
+Christian Gebauer,at AUT,"MF,FW",Arminia,26,1993,23,5,687,7.6,1,1,2,1,0,0,0,0,1.9,1.9,1.0,3.0,8,14,41,Bundesliga,2020-2021
+Gonçalo Paciência,pt POR,FW,Schalke 04,25,1994,15,9,749,8.3,1,1,2,1,0,0,2,0,1.6,1.6,1.1,2.7,12,11,44,Bundesliga,2020-2021
+Levin Öztunalı,de GER,"DF,FW",Mainz 05,24,1996,17,7,758,8.4,1,2,3,1,0,0,0,0,0.6,0.6,0.9,1.5,25,19,38,Bundesliga,2020-2021
+Michael Gregoritsch,at AUT,"FW,MF",Augsburg,26,1994,24,9,835,9.3,1,2,3,1,0,0,1,0,1.5,1.5,1.5,3.0,12,26,48,Bundesliga,2020-2021
+Ohis Felix Uduokhai,de GER,DF,Augsburg,22,1997,29,29,2610,29.0,1,0,1,1,0,0,5,0,1.7,1.7,0.3,2.0,21,94,13,Bundesliga,2020-2021
+Dennis Geiger,de GER,MF,Hoffenheim,22,1998,9,9,658,7.3,1,1,2,1,0,0,4,1,0.3,0.3,1.5,1.8,10,46,18,Bundesliga,2020-2021
+Amos Pieper,de GER,DF,Arminia,22,1998,30,30,2682,29.8,1,1,2,1,0,0,6,0,1.2,1.2,0.5,1.7,21,86,6,Bundesliga,2020-2021
+Felix Passlack,de GER,DF,Dortmund,22,1998,7,3,362,4.0,1,0,1,1,0,0,0,0,0.6,0.6,0.2,0.9,15,14,22,Bundesliga,2020-2021
+Robert Gumny,pl POL,DF,Augsburg,22,1998,24,14,1377,15.3,1,0,1,1,0,0,4,0,0.5,0.5,0.6,1.1,24,27,62,Bundesliga,2020-2021
+Blendi Idrizi,xk KVX,MF,Schalke 04,22,1998,3,3,238,2.6,1,0,1,1,0,0,1,0,0.2,0.2,0.3,0.5,6,5,2,Bundesliga,2020-2021
+Iago,br BRA,DF,Augsburg,23,1997,18,18,1560,17.3,1,1,2,1,0,0,2,0,1.1,1.1,1.1,2.1,39,37,67,Bundesliga,2020-2021
+Alexander Hack,de GER,DF,Mainz 05,26,1993,21,14,1370,15.2,1,0,1,1,0,0,2,0,0.5,0.5,0.3,0.8,7,51,2,Bundesliga,2020-2021
+Thorgan Hazard,be BEL,"MF,FW",Dortmund,27,1993,16,8,654,7.3,1,3,4,1,0,0,0,0,0.8,0.8,3.5,4.3,20,31,56,Bundesliga,2020-2021
+Shkodran Mustafi,de GER,DF,Schalke 04,28,1992,13,11,1037,11.5,1,0,1,1,0,0,1,0,0.6,0.6,0.0,0.6,7,22,2,Bundesliga,2020-2021
+Phillipp Mwene,at AUT,"DF,MF",Mainz 05,26,1994,20,19,1674,18.6,1,2,3,1,0,0,3,0,0.5,0.5,1.6,2.1,24,39,72,Bundesliga,2020-2021
+Masaya Okugawa,jp JPN,MF,Arminia,24,1996,13,11,914,10.2,1,0,1,1,0,0,0,0,1.1,1.1,0.6,1.7,9,17,39,Bundesliga,2020-2021
+Luca Netz,de GER,"DF,FW",Hertha BSC,17,2003,11,2,309,3.4,1,0,1,1,0,0,0,0,0.7,0.7,0.1,0.8,12,9,24,Bundesliga,2020-2021
+Nicolas Höfler,de GER,MF,Freiburg,30,1990,31,30,2729,30.3,1,3,4,1,0,0,11,0,1.5,1.5,1.3,2.8,26,122,14,Bundesliga,2020-2021
+Thomas Meunier,be BEL,DF,Dortmund,28,1991,21,17,1472,16.4,1,1,2,1,0,0,3,0,1.0,1.0,1.5,2.4,77,92,128,Bundesliga,2020-2021
+Ajdin Hrustic,au AUS,"MF,DF",Eint Frankfurt,24,1996,11,1,272,3.0,1,0,1,1,0,0,2,0,0.3,0.3,0.1,0.5,9,28,9,Bundesliga,2020-2021
+Petar Musa,hr CRO,FW,Union Berlin,22,1998,14,8,715,7.9,1,3,4,1,0,0,2,0,3.2,3.2,1.0,4.2,5,10,46,Bundesliga,2020-2021
+Orel Mangala,be BEL,MF,Stuttgart,22,1998,24,24,2109,23.4,1,3,4,1,0,0,4,0,1.2,1.2,1.5,2.7,43,116,76,Bundesliga,2020-2021
+Stefan Ilsanker,at AUT,"MF,DF",Eint Frankfurt,31,1989,27,17,1578,17.5,1,0,1,1,0,0,4,0,1.3,1.3,0.2,1.5,14,77,13,Bundesliga,2020-2021
+Florian Kainz,at AUT,"MF,FW",Köln,27,1992,8,6,447,5.0,1,0,1,1,0,0,0,0,0.5,0.5,1.5,2.0,10,27,27,Bundesliga,2020-2021
+Ismail Jakobs,sn SEN,"MF,FW",Köln,20,1999,23,18,1726,19.2,1,1,2,1,0,0,6,0,2.4,2.4,1.9,4.3,34,34,134,Bundesliga,2020-2021
+Rani Khedira,de GER,MF,Augsburg,26,1994,27,23,1818,20.2,1,0,1,1,0,0,5,0,1.1,1.1,0.2,1.3,9,56,15,Bundesliga,2020-2021
+Philipp Klement,de GER,"MF,FW",Stuttgart,27,1992,18,2,421,4.7,1,2,3,1,0,0,0,0,0.3,0.3,1.6,1.9,13,42,26,Bundesliga,2020-2021
+Maxence Lacroix,fr FRA,DF,Wolfsburg,20,2000,30,29,2590,28.8,1,1,2,1,0,0,5,0,1.4,1.4,0.3,1.7,21,126,6,Bundesliga,2020-2021
+Omar Mascarell,gq EQG,MF,Schalke 04,27,1993,24,21,1762,19.6,1,1,2,1,0,0,6,0,0.4,0.4,0.6,1.0,10,69,5,Bundesliga,2020-2021
+Reinhold Yabo,de GER,"MF,FW",Arminia,28,1992,13,8,647,7.2,1,0,1,1,0,0,1,0,0.5,0.5,0.1,0.7,10,18,31,Bundesliga,2020-2021
+Sead Kolašinac,ba BIH,"DF,MF",Schalke 04,27,1993,17,16,1426,15.8,1,1,2,1,0,0,5,0,0.3,0.3,1.4,1.7,33,51,61,Bundesliga,2020-2021
+Dominik Kohr,de GER,MF,Mainz 05,26,1994,17,14,1268,14.1,1,1,2,1,0,0,3,0,0.9,0.9,0.7,1.6,17,62,25,Bundesliga,2020-2021
+Robin Knoche,de GER,DF,Union Berlin,28,1992,34,34,3042,33.8,1,0,1,1,0,0,4,0,1.3,1.3,0.2,1.5,16,102,2,Bundesliga,2020-2021
+Ibrahima Konaté,fr FRA,DF,RB Leipzig,21,1999,14,8,695,7.7,1,0,1,1,0,0,2,0,0.7,0.7,0.0,0.7,6,29,1,Bundesliga,2020-2021
+Tyler Adams,us USA,"MF,DF",RB Leipzig,21,1999,27,21,1850,20.6,1,1,2,1,0,0,3,0,1.3,1.3,0.9,2.2,27,113,70,Bundesliga,2020-2021
+Mateo Klimowicz,de GER,"MF,FW",Stuttgart,20,2000,25,12,1198,13.3,1,1,2,1,0,0,1,0,3.0,3.0,1.0,4.0,35,36,74,Bundesliga,2020-2021
+Lukas Klostermann,de GER,DF,RB Leipzig,24,1996,23,15,1446,16.1,1,0,1,1,0,0,2,0,0.8,0.8,0.8,1.6,13,106,23,Bundesliga,2020-2021
+Ansgar Knauff,de GER,"MF,FW",Dortmund,18,2002,4,0,71,0.8,1,1,2,1,0,0,0,0,0.1,0.1,1.1,1.2,9,2,7,Bundesliga,2020-2021
+Oscar Wendt,se SWE,DF,Gladbach,34,1985,22,15,1254,13.9,1,1,2,1,0,0,3,0,1.0,1.0,0.9,1.9,6,47,52,Bundesliga,2020-2021
+Kevin Akpoguma,ng NGA,DF,Hoffenheim,25,1995,16,14,1184,13.2,1,0,1,1,0,0,1,0,0.1,0.1,0.4,0.5,10,56,14,Bundesliga,2020-2021
+Felix Agu,de GER,DF,Werder Bremen,20,1999,15,8,701,7.8,1,0,1,1,0,0,0,0,0.6,0.6,0.5,1.1,7,9,33,Bundesliga,2020-2021
+Naouirou Ahamada,fr FRA,MF,Stuttgart,18,2002,6,3,252,2.8,0,0,0,0,0,0,2,1,0.2,0.2,0.0,0.3,8,11,3,Bundesliga,2020-2021
+Omar Alderete,py PAR,DF,Hertha BSC,23,1996,17,14,1299,14.4,0,0,0,0,0,0,2,0,0.3,0.3,0.1,0.4,8,55,3,Bundesliga,2020-2021
+Waldemar Anton,de GER,DF,Stuttgart,24,1996,31,30,2711,30.1,0,1,1,0,0,0,3,0,1.3,1.3,0.9,2.2,24,116,12,Bundesliga,2020-2021
+Charles Aránguiz,cl CHI,MF,Leverkusen,31,1989,21,20,1669,18.5,0,0,0,0,0,0,4,0,0.6,0.6,0.6,1.1,11,119,18,Bundesliga,2020-2021
+Santiago Arias,co COL,DF,Leverkusen,28,1992,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,2,5,4,Bundesliga,2020-2021
+Wendell,br BRA,DF,Leverkusen,27,1993,22,15,1457,16.2,0,0,0,0,0,0,3,0,0.5,0.5,0.1,0.6,47,93,66,Bundesliga,2020-2021
+William,br BRA,"MF,FW",Wolfsburg,25,1995,2,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+William,br BRA,"DF,FW",Schalke 04,25,1995,8,7,474,5.3,0,0,0,0,0,0,2,0,0.2,0.2,0.0,0.3,10,13,19,Bundesliga,2020-2021
+Marten Winkler,de GER,FW,Hertha BSC,17,2002,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Bundesliga,2020-2021
+Axel Witsel,be BEL,MF,Dortmund,31,1989,15,13,1130,12.6,0,0,0,0,0,0,4,0,0.6,0.6,0.4,1.0,10,72,23,Bundesliga,2020-2021
+Nick Woltemade,de GER,"MF,FW",Werder Bremen,18,2002,6,1,147,1.6,0,1,1,0,0,0,1,0,0.3,0.3,0.1,0.5,4,6,10,Bundesliga,2020-2021
+Joscha Wosz,de GER,DF,RB Leipzig,18,2002,2,0,34,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2020-2021
+Dan-Axel Zagadou,fr FRA,DF,Dortmund,21,1999,9,3,276,3.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.1,1,7,1,Bundesliga,2020-2021
+Lukas Klünter,de GER,DF,Hertha BSC,24,1996,11,11,990,11.0,0,0,0,0,0,0,0,0,0.0,0.0,0.3,0.3,14,36,15,Bundesliga,2020-2021
+Gregor Kobel,ch SUI,GK,Stuttgart,22,1997,33,33,2970,33.0,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,0,0,0,Bundesliga,2020-2021
+Dominik Kohr,de GER,"MF,DF",Eint Frankfurt,26,1994,7,2,260,2.9,0,0,0,0,0,0,1,0,1.0,1.0,0.0,1.0,6,24,12,Bundesliga,2020-2021
+Christoph Kramer,de GER,MF,Gladbach,29,1991,28,23,2033,22.6,0,2,2,0,0,0,5,0,0.3,0.3,1.0,1.3,20,113,17,Bundesliga,2020-2021
+Kevin Kampl,si SVN,MF,RB Leipzig,29,1990,27,24,1932,21.5,0,1,1,0,0,0,6,0,1.1,1.1,1.6,2.7,25,117,24,Bundesliga,2020-2021
+Jimmy Kaparos,de GER,MF,Schalke 04,18,2001,1,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Atakan Karazor,,"DF,MF",Stuttgart,23,1996,19,10,1037,11.5,0,0,0,0,0,0,3,0,0.1,0.1,0.1,0.2,4,33,6,Bundesliga,2020-2021
+Loris Karius,de GER,GK,Union Berlin,27,1993,4,3,292,3.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Noah Katterbach,de GER,"DF,MF",Köln,19,2001,21,12,1111,12.3,0,0,0,0,0,0,1,0,0.3,0.3,1.1,1.4,27,60,47,Bundesliga,2020-2021
+Yannik Keitel,de GER,MF,Freiburg,20,2000,12,4,498,5.5,0,0,0,0,0,0,1,0,0.3,0.3,0.1,0.4,1,25,10,Bundesliga,2020-2021
+Sami Khedira,de GER,MF,Hertha BSC,33,1987,9,4,395,4.4,0,1,1,0,0,0,1,0,0.0,0.0,1.1,1.2,3,15,7,Bundesliga,2020-2021
+Luca Kilian,de GER,DF,Mainz 05,20,1999,6,4,381,4.2,0,0,0,0,0,0,1,0,0.1,0.1,0.0,0.1,2,7,0,Bundesliga,2020-2021
+Davy Klaassen,nl NED,MF,Werder Bremen,27,1993,3,3,222,2.5,0,0,0,0,0,0,1,0,0.1,0.1,0.1,0.2,1,10,2,Bundesliga,2020-2021
+Felix Klaus,de GER,"DF,MF",Wolfsburg,27,1992,6,1,137,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,3,5,Bundesliga,2020-2021
+Klauss,br BRA,"MF,FW",Hoffenheim,23,1997,4,0,51,0.6,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,1,3,3,Bundesliga,2020-2021
+Lukas Kübler,de GER,"DF,MF",Freiburg,27,1992,19,11,884,9.8,0,1,1,0,0,0,2,0,0.1,0.1,0.5,0.5,7,37,24,Bundesliga,2020-2021
+Pierre Kunde,cm CMR,MF,Mainz 05,25,1995,11,6,513,5.7,0,0,0,0,0,0,1,0,0.2,0.2,0.7,0.9,6,23,7,Bundesliga,2020-2021
+Fabian Kunze,de GER,MF,Arminia,22,1998,26,12,1270,14.1,0,0,0,0,0,0,6,0,0.3,0.3,0.5,0.9,13,57,17,Bundesliga,2020-2021
+Ahmed Kutucu,tr TUR,"FW,MF",Schalke 04,20,2000,7,0,108,1.2,0,0,0,0,0,0,1,0,0.1,0.1,0.0,0.1,2,1,10,Bundesliga,2020-2021
+Konrad Laimer,at AUT,"DF,MF",RB Leipzig,23,1997,3,1,84,0.9,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.2,0,3,5,Bundesliga,2020-2021
+Michael Langer,at AUT,GK,Schalke 04,35,1985,3,2,239,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Danny Latza,de GER,MF,Mainz 05,30,1989,29,21,1800,20.0,0,2,2,0,0,0,8,0,2.1,2.1,2.2,4.3,10,67,42,Bundesliga,2020-2021
+Mathew Leckie,au AUS,"FW,DF",Hertha BSC,29,1991,17,5,506,5.6,0,1,1,0,0,0,0,0,0.1,0.1,0.5,0.6,10,15,35,Bundesliga,2020-2021
+Christopher Lenz,de GER,"DF,FW",Union Berlin,25,1994,27,27,2248,25.0,0,3,3,0,0,0,3,0,1.0,1.0,2.8,3.8,46,94,109,Bundesliga,2020-2021
+Dimitris Limnios,gr GRE,"MF,FW",Köln,22,1998,12,2,378,4.2,0,0,0,0,0,0,0,0,0.4,0.4,0.6,0.9,10,10,27,Bundesliga,2020-2021
+Niklas Lomb,de GER,GK,Leverkusen,27,1993,2,1,135,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Eduard Löwen,de GER,"MF,DF",Hertha BSC,23,1997,7,1,85,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,5,4,Bundesliga,2020-2021
+Jan Luca Schuler,de GER,FW,Schalke 04,21,1999,2,0,40,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Anderson Lucoqui,ao ANG,DF,Arminia,23,1997,21,18,1604,17.8,0,0,0,0,0,0,5,0,0.2,0.2,0.2,0.4,18,45,23,Bundesliga,2020-2021
+Kilian Ludewig,de GER,"DF,FW",Schalke 04,20,2000,6,6,520,5.8,0,0,0,0,0,0,1,0,0.0,0.0,0.3,0.3,9,11,24,Bundesliga,2020-2021
+Andreas Luthe,de GER,GK,Union Berlin,33,1987,31,31,2768,30.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Tim Maciejewski,de GER,FW,Union Berlin,19,2001,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,2,Bundesliga,2020-2021
+Luca Mack,de GER,MF,Stuttgart,20,2000,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Mikail Maden,no NOR,FW,Schalke 04,18,2002,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Arne Maier,de GER,MF,Arminia,21,1999,16,13,1034,11.5,0,0,0,0,0,0,0,0,0.6,0.6,1.2,1.8,17,29,22,Bundesliga,2020-2021
+Arne Maier,de GER,MF,Hertha BSC,21,1999,2,0,30,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,0,3,0,Bundesliga,2020-2021
+Yunus Mallı,tr TUR,MF,Wolfsburg,28,1992,1,1,58,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,0,2,1,Bundesliga,2020-2021
+Omar Marmoush,eg EGY,FW,Wolfsburg,21,1999,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Bundesliga,2020-2021
+Aarón Martín,es ESP,"DF,FW",Mainz 05,23,1997,5,3,262,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.3,0.3,5,9,18,Bundesliga,2020-2021
+Javi Martínez,es ESP,"DF,MF",Bayern Munich,31,1988,19,4,466,5.2,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.3,7,36,5,Bundesliga,2020-2021
+Josep Martinez,es ESP,GK,RB Leipzig,22,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Roberto Massimo,de GER,"DF,FW",Stuttgart,19,2000,18,7,757,8.4,0,0,0,0,0,0,2,0,1.3,1.3,1.0,2.3,23,17,79,Bundesliga,2020-2021
+Rabbi Matondo,wls WAL,"FW,MF",Schalke 04,19,2000,3,3,220,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.2,0.2,4,4,11,Bundesliga,2020-2021
+Henning Matriciani,de GER,DF,Schalke 04,20,2000,1,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,0,Bundesliga,2020-2021
+Konstantinos Mavropanos,gr GRE,DF,Stuttgart,22,1997,21,19,1463,16.3,0,0,0,0,0,0,5,0,1.6,1.6,0.3,1.8,10,82,2,Bundesliga,2020-2021
+Kevin Mbabu,ch SUI,DF,Wolfsburg,25,1995,22,19,1642,18.2,0,1,1,0,0,0,7,0,0.6,0.6,1.0,1.6,59,117,80,Bundesliga,2020-2021
+Jean-Manuel Mbom,de GER,"MF,DF",Werder Bremen,20,2000,21,15,1160,12.9,0,1,1,0,0,0,7,0,0.3,0.3,0.4,0.8,14,21,44,Bundesliga,2020-2021
+Nathan de Medina,be BEL,DF,Arminia,22,1997,16,7,639,7.1,0,1,1,0,0,0,5,1,0.0,0.0,0.5,0.5,4,13,8,Bundesliga,2020-2021
+Joshua Mees,de GER,FW,Union Berlin,24,1996,1,0,5,0.1,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,0,0,2,Bundesliga,2020-2021
+Admir Mehmedi,ch SUI,"MF,FW",Wolfsburg,29,1991,18,8,820,9.1,0,2,2,0,0,0,0,0,0.6,0.6,2.4,3.0,17,71,60,Bundesliga,2020-2021
+Hamza Mendyl,ma MAR,"FW,DF",Schalke 04,22,1997,3,1,95,1.1,0,0,0,0,0,0,1,0,0.1,0.1,0.0,0.1,4,4,8,Bundesliga,2020-2021
+Levent Mercan,de GER,FW,Schalke 04,19,2000,1,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Jorge Meré,es ESP,DF,Köln,23,1997,16,14,1300,14.4,0,0,0,0,0,0,2,0,0.0,0.0,0.2,0.3,2,28,2,Bundesliga,2020-2021
+Abass Issah,gh GHA,"DF,FW",Mainz 05,21,1998,2,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,1,1,Bundesliga,2020-2021
+Tony Jantschke,de GER,DF,Gladbach,30,1990,8,3,269,3.0,0,0,0,0,0,0,1,0,0.2,0.2,0.0,0.2,0,16,1,Bundesliga,2020-2021
+Rune Jarstein,no NOR,GK,Hertha BSC,35,1984,8,8,720,8.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Tin Jedvaj,hr CRO,DF,Leverkusen,24,1995,3,2,152,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,9,0,Bundesliga,2020-2021
+Fredrik Jensen,fi FIN,"FW,MF",Augsburg,22,1997,13,1,377,4.2,0,1,1,0,0,0,0,0,0.3,0.3,1.2,1.5,4,11,26,Bundesliga,2020-2021
+Marco John,de GER,DF,Hoffenheim,18,2002,14,12,997,11.1,0,0,0,0,0,0,1,0,0.1,0.1,2.0,2.1,21,47,63,Bundesliga,2020-2021
+Ozan Kabak,tr TUR,DF,Schalke 04,20,2000,14,14,1243,13.8,0,0,0,0,0,0,6,1,1.0,1.0,0.3,1.3,9,54,1,Bundesliga,2020-2021
+Pavel Kadeřábek,cz CZE,"DF,FW",Hoffenheim,28,1992,20,17,1588,17.6,0,4,4,0,0,0,3,0,1.1,1.1,2.8,4.0,38,86,149,Bundesliga,2020-2021
+Marcin Kamiński,pl POL,DF,Stuttgart,28,1992,5,2,219,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.3,0.3,5,36,5,Bundesliga,2020-2021
+Max Meyer,de GER,MF,Köln,24,1995,10,3,351,3.9,0,0,0,0,0,0,0,0,0.8,0.8,0.5,1.3,6,34,9,Bundesliga,2020-2021
+Jonas Michelbrink,de GER,MF,Hertha BSC,19,2001,2,0,39,0.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,2,2,2,Bundesliga,2020-2021
+Maximilian Mittelstädt,de GER,"DF,FW",Hertha BSC,23,1997,27,22,1797,20.0,0,2,2,0,0,0,3,0,0.5,0.5,2.0,2.5,49,89,74,Bundesliga,2020-2021
+Anthony Modeste,fr FRA,FW,Köln,32,1988,8,1,221,2.5,0,0,0,0,0,1,1,0,1.8,1.0,0.0,1.0,1,0,10,Bundesliga,2020-2021
+Niklas Moisander,fi FIN,DF,Werder Bremen,34,1985,18,12,1222,13.6,0,0,0,0,0,0,3,0,0.0,0.0,0.1,0.1,14,57,0,Bundesliga,2020-2021
+Alkhaly Momo Cissé,gn GUI,"FW,DF",Stuttgart,17,2002,5,0,38,0.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,1,2,3,Bundesliga,2020-2021
+Jan Morávek,cz CZE,MF,Augsburg,30,1989,5,3,267,3.0,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,4,14,5,Bundesliga,2020-2021
+Mateu Morey,es ESP,DF,Dortmund,20,2000,13,10,829,9.2,0,2,2,0,0,0,1,0,0.1,0.1,1.0,1.2,23,43,53,Bundesliga,2020-2021
+Florian Müller,de GER,GK,Freiburg,22,1997,31,31,2790,31.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Sebastian Müller,de GER,"MF,DF",Arminia,19,2001,2,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Bundesliga,2020-2021
+Marwin Hitz,ch SUI,GK,Dortmund,32,1987,16,16,1395,15.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Marco Höger,de GER,"DF,MF",Köln,30,1989,3,1,53,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,4,3,Bundesliga,2020-2021
+Jannes Horn,de GER,DF,Köln,23,1997,29,20,1768,19.6,0,1,1,0,0,0,6,0,0.2,0.2,1.6,1.8,34,62,37,Bundesliga,2020-2021
+Timo Horn,de GER,GK,Köln,27,1993,34,34,3009,33.4,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,0,2,0,Bundesliga,2020-2021
+Lukáš Hrádecký,fi FIN,GK,Leverkusen,30,1989,29,29,2565,28.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2020-2021
+Florian Hübner,de GER,DF,Union Berlin,29,1991,6,6,525,5.8,0,0,0,0,0,0,3,0,0.1,0.1,0.0,0.2,2,17,2,Bundesliga,2020-2021
+Vedad Ibišević,ba BIH,FW,Schalke 04,35,1984,4,1,156,1.7,0,0,0,0,0,0,1,0,1.1,1.1,0.1,1.2,1,1,9,Bundesliga,2020-2021
+Janik Haberer,de GER,"MF,FW",Freiburg,26,1994,14,5,486,5.4,0,0,0,0,0,0,0,0,0.9,0.9,0.1,1.0,8,19,23,Bundesliga,2020-2021
+Marcel Hartel,de GER,MF,Arminia,24,1996,22,20,1681,18.7,0,0,0,0,0,0,1,0,1.2,1.2,1.3,2.5,18,69,39,Bundesliga,2020-2021
+Makoto Hasebe,jp JPN,"DF,MF",Eint Frankfurt,36,1984,29,26,2288,25.4,0,0,0,0,0,0,5,0,0.1,0.1,0.3,0.4,28,167,13,Bundesliga,2020-2021
+Hwang Hee-chan,kr KOR,"FW,MF",RB Leipzig,24,1996,18,3,460,5.1,0,1,1,0,0,0,2,0,1.8,1.8,0.5,2.3,14,7,40,Bundesliga,2020-2021
+Dominique Heintz,de GER,DF,Freiburg,26,1993,21,14,1369,15.2,0,0,0,0,0,0,3,0,0.2,0.2,0.3,0.5,11,78,4,Bundesliga,2020-2021
+Benjamin Henrichs,de GER,"DF,MF",RB Leipzig,23,1997,13,5,540,6.0,0,1,1,0,0,0,3,0,0.2,0.2,0.6,0.8,12,33,32,Bundesliga,2020-2021
+Lucas Hernández,fr FRA,DF,Bayern Munich,24,1996,23,18,1597,17.7,0,2,2,0,0,0,4,0,0.7,0.7,1.8,2.5,42,86,81,Bundesliga,2020-2021
+Patrick Herrmann,de GER,"FW,MF",Gladbach,29,1991,27,9,876,9.7,0,3,3,0,0,0,3,0,2.3,2.3,2.5,4.9,23,24,80,Bundesliga,2020-2021
+Matija Nastasić,rs SRB,DF,Schalke 04,27,1993,15,14,1221,13.6,0,0,0,0,0,0,2,0,0.4,0.4,0.1,0.5,1,20,0,Bundesliga,2020-2021
+Paul Nebel,de GER,"MF,FW",Mainz 05,17,2002,4,0,51,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,2,1,Bundesliga,2020-2021
+Manuel Neuer,de GER,GK,Bayern Munich,34,1986,33,33,2970,33.0,0,0,0,0,0,0,1,0,0.0,0.0,0.3,0.3,0,5,0,Bundesliga,2020-2021
+Tanguy Nianzou,fr FRA,"DF,FW",Bayern Munich,18,2002,6,0,118,1.3,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,3,13,0,Bundesliga,2020-2021
+Joakim Nilsson,se SWE,DF,Arminia,26,1994,25,24,2162,24.0,0,0,0,0,0,0,1,0,0.9,0.9,0.2,1.0,5,47,5,Bundesliga,2020-2021
+Håvard Nordtveit,no NOR,DF,Hoffenheim,30,1990,12,6,700,7.8,0,0,0,0,0,0,1,0,0.2,0.2,0.6,0.7,2,31,1,Bundesliga,2020-2021
+Alexander Nübel,de GER,GK,Bayern Munich,23,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Kasim Nuhu,gh GHA,DF,Hoffenheim,25,1995,12,11,987,11.0,0,0,0,0,0,0,0,0,0.5,0.5,0.0,0.6,17,62,7,Bundesliga,2020-2021
+Bastian Oczipka,de GER,"DF,FW",Schalke 04,31,1989,27,20,1922,21.4,0,2,2,0,0,0,1,0,0.3,0.3,1.7,1.9,40,71,60,Bundesliga,2020-2021
+Stefan Ortega,de GER,GK,Arminia,27,1992,34,34,3060,34.0,0,1,1,0,0,0,1,0,0.0,0.0,0.6,0.6,0,2,0,Bundesliga,2020-2021
+Yuya Osako,jp JPN,"MF,FW",Werder Bremen,30,1990,24,7,762,8.5,0,1,1,0,0,0,3,0,0.5,0.5,1.7,2.2,14,30,42,Bundesliga,2020-2021
+Paulo Otávio,br BRA,DF,Wolfsburg,25,1994,23,19,1737,19.3,0,2,2,0,0,0,7,1,0.5,0.5,1.8,2.4,69,58,83,Bundesliga,2020-2021
+Reece Oxford,eng ENG,DF,Augsburg,21,1998,24,13,1358,15.1,0,0,0,0,0,0,2,0,1.2,1.2,0.0,1.2,6,63,1,Bundesliga,2020-2021
+Salih Özcan,tr TUR,MF,Köln,22,1998,28,15,1371,15.2,0,1,1,0,0,0,3,0,0.5,0.5,1.3,1.8,16,49,50,Bundesliga,2020-2021
+Exequiel Palacios,ar ARG,MF,Leverkusen,21,1998,9,7,572,6.4,0,0,0,0,0,0,1,0,0.1,0.1,0.7,0.8,4,34,5,Bundesliga,2020-2021
+Merveille Papela,de GER,DF,Mainz 05,19,2001,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Sebastian Griesbeck,de GER,MF,Union Berlin,29,1990,24,8,890,9.9,0,0,0,0,0,0,3,0,0.5,0.5,0.0,0.5,3,20,24,Bundesliga,2020-2021
+Lennart Grill,de GER,GK,Leverkusen,21,1999,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Christian Groß,de GER,"MF,DF",Werder Bremen,31,1989,23,17,1468,16.3,0,1,1,0,0,0,8,1,0.3,0.3,0.6,1.0,14,55,9,Bundesliga,2020-2021
+Ilia Gruev,bg BUL,FW,Werder Bremen,20,2000,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Carlos Gruezo,ec ECU,MF,Augsburg,25,1995,28,23,2084,23.2,0,0,0,0,0,0,4,0,0.4,0.4,0.5,0.9,5,79,8,Bundesliga,2020-2021
+Josuha Guilavogui,fr FRA,"MF,DF",Wolfsburg,29,1990,20,7,747,8.3,0,1,1,0,0,0,3,0,0.4,0.4,0.7,1.0,2,39,7,Bundesliga,2020-2021
+Péter Gulácsi,hu HUN,GK,RB Leipzig,30,1990,33,33,2970,33.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,3,0,Bundesliga,2020-2021
+Paulinho,br BRA,FW,Leverkusen,20,2000,1,1,65,0.7,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.2,1,2,6,Bundesliga,2020-2021
+Benjamin Pavard,fr FRA,DF,Bayern Munich,24,1996,24,22,1943,21.6,0,0,0,0,0,0,3,0,0.4,0.4,1.3,1.7,49,162,167,Bundesliga,2020-2021
+Jiří Pavlenka,cz CZE,GK,Werder Bremen,28,1992,34,34,3060,34.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Vasileios Pavlidis,gr GRE,FW,Schalke 04,17,2002,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Mads Pedersen,dk DEN,DF,Augsburg,23,1996,15,9,887,9.9,0,0,0,0,0,0,1,0,0.0,0.0,1.3,1.3,26,12,20,Bundesliga,2020-2021
+Philipp Pentke,de GER,GK,Hoffenheim,35,1985,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Pavao Pervan,at AUT,GK,Wolfsburg,32,1987,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Lukas Petkov,bg BUL,MF,Augsburg,19,2000,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Łukasz Piszczek,pl POL,DF,Dortmund,35,1985,11,5,455,5.1,0,0,0,0,0,0,0,0,0.0,0.0,0.2,0.2,10,20,10,Bundesliga,2020-2021
+Marvin Plattenhardt,de GER,DF,Hertha BSC,28,1992,16,12,1071,11.9,0,2,2,0,0,0,1,0,0.1,0.1,1.2,1.3,28,56,46,Bundesliga,2020-2021
+Emrehan Gedikli,de GER,FW,Leverkusen,17,2003,1,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2020-2021
+Christian Gentner,de GER,MF,Union Berlin,34,1985,22,13,1033,11.5,0,0,0,0,0,0,0,0,0.4,0.4,0.8,1.3,8,45,24,Bundesliga,2020-2021
+Hamadi Al Ghaddioui,ma MAR,FW,Stuttgart,29,1990,6,0,46,0.5,0,0,0,0,0,0,0,0,0.3,0.3,0.0,0.3,1,1,2,Bundesliga,2020-2021
+Niko Gießelmann,de GER,DF,Union Berlin,28,1991,13,4,430,4.8,0,0,0,0,0,0,3,0,0.1,0.1,0.2,0.4,5,23,24,Bundesliga,2020-2021
+Rafał Gikiewicz,pl POL,GK,Augsburg,32,1987,34,34,3060,34.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2020-2021
+Daniel Ginczek,de GER,"FW,MF",Wolfsburg,29,1991,11,1,215,2.4,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.3,2,9,14,Bundesliga,2020-2021
+Akaki Gogia,de GER,"FW,MF",Union Berlin,28,1992,7,0,140,1.6,0,1,1,0,0,0,1,0,0.1,0.1,0.5,0.6,5,7,17,Bundesliga,2020-2021
+Edimilson Fernandes,ch SUI,"MF,FW",Mainz 05,24,1996,14,9,841,9.3,0,1,1,0,0,0,1,0,0.5,0.5,1.3,1.8,6,23,19,Bundesliga,2020-2021
+Alfreð Finnbogason,is ISL,FW,Augsburg,31,1989,17,4,544,6.0,0,1,1,0,0,2,0,0,3.1,1.5,0.9,2.5,5,18,47,Bundesliga,2020-2021
+Mark Flekken,nl NED,GK,Freiburg,27,1993,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Timothy Fosu-Mensah,nl NED,DF,Leverkusen,22,1998,6,5,409,4.5,0,0,0,0,0,0,2,0,0.2,0.2,0.1,0.2,8,35,17,Bundesliga,2020-2021
+Raphael Framberger,de GER,DF,Augsburg,24,1995,21,19,1540,17.1,0,1,1,0,0,0,6,1,0.0,0.0,2.0,2.1,48,36,63,Bundesliga,2020-2021
+Marco Friedl,at AUT,DF,Werder Bremen,22,1998,32,31,2785,30.9,0,0,0,0,0,0,6,0,0.4,0.4,0.8,1.2,25,125,15,Bundesliga,2020-2021
+Jeremie Frimpong,nl NED,"DF,FW",Leverkusen,19,2000,10,4,436,4.8,0,0,0,0,0,0,1,0,0.2,0.2,0.9,1.1,30,29,47,Bundesliga,2020-2021
+Mijat Gaćinović,rs SRB,"DF,MF",Hoffenheim,25,1995,23,7,822,9.1,0,2,2,0,0,0,5,0,2.0,2.0,2.0,4.0,16,29,46,Bundesliga,2020-2021
+Joel Pohjanpalo,fi FIN,MF,Leverkusen,25,1994,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Bundesliga,2020-2021
+Marin Pongračić,hr CRO,DF,Wolfsburg,22,1997,10,7,575,6.4,0,0,0,0,0,0,2,1,0.1,0.1,0.0,0.1,2,20,0,Bundesliga,2020-2021
+Stefan Posch,at AUT,DF,Hoffenheim,23,1997,26,25,2119,23.5,0,0,0,0,0,0,11,1,0.7,0.7,0.7,1.4,35,133,26,Bundesliga,2020-2021
+Daishawn Redan,nl NED,"FW,MF",Hertha BSC,19,2001,7,0,102,1.1,0,0,0,0,0,0,0,0,0.7,0.7,0.0,0.7,5,4,10,Bundesliga,2020-2021
+Rocco Reitz,de GER,MF,Gladbach,18,2002,2,1,60,0.7,0,0,0,0,0,0,1,0,0.0,0.0,0.1,0.1,0,6,0,Bundesliga,2020-2021
+Ji Dong-won,kr KOR,FW,Mainz 05,29,1991,6,0,62,0.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,1,2,4,Bundesliga,2020-2021
+Johannes Eggestein,de GER,"FW,MF",Werder Bremen,22,1998,2,0,33,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,1,2,Bundesliga,2020-2021
+Lilian Egloff,de GER,MF,Stuttgart,17,2002,2,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,2,Bundesliga,2020-2021
+Kingsley Ehizibue,nl NED,DF,Köln,25,1995,21,15,1133,12.6,0,1,1,0,0,0,5,0,0.6,0.6,0.6,1.2,25,30,44,Bundesliga,2020-2021
+Patrick Erras,de GER,"FW,MF",Werder Bremen,25,1995,4,0,26,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,7,Bundesliga,2020-2021
+Ralf Fährmann,de GER,GK,Schalke 04,31,1988,22,22,1876,20.8,0,0,0,0,0,0,2,0,0.1,0.1,0.1,0.2,0,0,0,Bundesliga,2020-2021
+Chris Richards,us USA,DF,Hoffenheim,20,2000,11,11,944,10.5,0,1,1,0,0,0,1,0,0.1,0.1,0.3,0.4,4,45,2,Bundesliga,2020-2021
+Chris Richards,us USA,DF,Bayern Munich,20,2000,3,1,89,1.0,0,1,1,0,0,0,0,0,0.0,0.0,0.5,0.5,1,5,10,Bundesliga,2020-2021
+Marc Roca,es ESP,MF,Bayern Munich,23,1996,6,2,177,2.0,0,0,0,0,0,0,1,0,0.2,0.2,0.0,0.2,1,20,1,Bundesliga,2020-2021
+Jérôme Roussillon,fr FRA,DF,Wolfsburg,27,1993,20,14,1229,13.7,0,2,2,0,0,0,0,0,0.8,0.8,1.7,2.5,35,43,69,Bundesliga,2020-2021
+Sebastian Rudy,de GER,DF,Schalke 04,30,1990,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,0,11,7,Bundesliga,2020-2021
+Julian Ryerson,no NOR,"DF,MF",Union Berlin,22,1997,24,10,1069,11.9,0,2,2,0,0,0,2,0,0.2,0.2,0.9,1.1,15,32,38,Bundesliga,2020-2021
+Frederik Rønnow,dk DEN,GK,Schalke 04,27,1992,11,10,945,10.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Leon Dajaku,de GER,FW,Union Berlin,19,2001,2,0,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,2,Bundesliga,2020-2021
+Tiago Dantas,pt POR,MF,Bayern Munich,19,2000,2,1,69,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,1,3,3,Bundesliga,2020-2021
+Márton Dárdai,hu HUN,"DF,MF",Hertha BSC,18,2002,12,9,821,9.1,0,1,1,0,0,0,0,0,0.1,0.1,0.3,0.4,10,41,1,Bundesliga,2020-2021
+Emmanuel Dennis,ng NGA,FW,Köln,22,1997,9,6,474,5.3,0,1,1,0,0,0,0,0,0.6,0.6,0.2,0.8,11,4,44,Bundesliga,2020-2021
+Mike van der Hoorn,nl NED,DF,Arminia,27,1992,22,15,1356,15.1,0,0,0,0,0,0,3,0,0.4,0.4,0.2,0.6,4,36,3,Bundesliga,2020-2021
+Javairô Dilrosun,nl NED,"FW,MF",Hertha BSC,22,1998,12,5,529,5.9,0,1,1,0,0,0,0,0,0.4,0.4,0.3,0.7,16,18,40,Bundesliga,2020-2021
+Jonas Dirkner,de GER,MF,Hertha BSC,18,2002,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Lazar Samardzic,rs SRB,MF,RB Leipzig,18,2002,7,2,200,2.2,0,1,1,0,0,0,0,0,0.0,0.0,0.6,0.6,3,2,8,Bundesliga,2020-2021
+Diadie Samassékou,ml MLI,MF,Hoffenheim,24,1996,31,31,2563,28.5,0,2,2,0,0,0,3,0,0.6,0.6,1.8,2.3,11,112,32,Bundesliga,2020-2021
+Salif Sané,sn SEN,DF,Schalke 04,29,1990,14,11,1071,11.9,0,0,0,0,0,0,5,0,0.4,0.4,1.1,1.5,11,29,6,Bundesliga,2020-2021
+Mohamed Sankoh,nl NED,MF,Stuttgart,16,2003,1,0,17,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Bundesliga,2020-2021
+Bouna Sarr,sn SEN,DF,Bayern Munich,28,1992,8,5,452,5.0,0,1,1,0,0,0,1,0,0.1,0.1,0.1,0.2,18,32,29,Bundesliga,2020-2021
+Keven Schlotterbeck,de GER,DF,Freiburg,23,1997,24,18,1654,18.4,0,0,0,0,0,0,3,0,0.5,0.5,0.1,0.5,2,56,6,Bundesliga,2020-2021
+Romano Schmid,at AUT,"MF,FW",Werder Bremen,20,2000,22,13,1177,13.1,0,3,3,0,0,0,2,0,0.7,0.7,1.3,2.0,19,57,63,Bundesliga,2020-2021
+Tahith Chong,nl NED,"MF,FW",Werder Bremen,20,1999,13,4,386,4.3,0,1,1,0,0,0,1,0,0.3,0.3,0.6,1.0,12,12,26,Bundesliga,2020-2021
+Darko Churlinov,mk MKD,"DF,MF",Stuttgart,20,2000,14,0,216,2.4,0,1,1,0,0,0,0,0,0.1,0.1,0.7,0.8,10,6,23,Bundesliga,2020-2021
+Tim Civeja,al ALB,MF,Augsburg,18,2002,3,0,34,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,2,0,Bundesliga,2020-2021
+Danny da Costa,de GER,"DF,FW",Mainz 05,27,1993,16,15,1208,13.4,0,1,1,0,0,0,2,0,0.1,0.1,2.3,2.5,23,48,41,Bundesliga,2020-2021
+Danny da Costa,de GER,DF,Eint Frankfurt,27,1993,6,1,110,1.2,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.2,4,5,7,Bundesliga,2020-2021
+Mickaël Cuisance,fr FRA,FW,Bayern Munich,20,1999,1,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,1,Bundesliga,2020-2021
+Finn Dahmen,de GER,GK,Mainz 05,22,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Benno Schmitz,de GER,DF,Köln,25,1994,12,4,416,4.6,0,1,1,0,0,0,0,0,0.2,0.2,0.3,0.5,7,26,18,Bundesliga,2020-2021
+Alessandro Schöpf,at AUT,"FW,MF",Schalke 04,26,1994,19,10,942,10.5,0,0,0,0,0,0,0,0,0.5,0.5,0.2,0.7,19,22,63,Bundesliga,2020-2021
+Nico Schulz,de GER,DF,Dortmund,27,1993,13,6,610,6.8,0,0,0,0,0,0,1,0,0.1,0.1,0.4,0.5,23,30,36,Bundesliga,2020-2021
+Alexander Schwolow,de GER,GK,Hertha BSC,28,1992,26,26,2340,26.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2020-2021
+Christopher Scott,de GER,"MF,FW",Bayern Munich,18,2002,2,0,34,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,1,3,Bundesliga,2020-2021
+Nils Seufert,de GER,"MF,FW",Arminia,23,1997,13,2,343,3.8,0,1,1,0,0,0,1,0,0.0,0.0,0.3,0.4,1,19,8,Bundesliga,2020-2021
+Tim Siersleben,de GER,DF,Wolfsburg,20,2000,1,0,34,0.4,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,0,1,0,Bundesliga,2020-2021
+Daley Sinkgraven,nl NED,DF,Leverkusen,25,1995,22,19,1570,17.4,0,0,0,0,0,0,4,0,0.3,0.3,0.6,0.9,56,78,66,Bundesliga,2020-2021
+Tobias Sippel,de GER,GK,Gladbach,32,1988,4,3,344,3.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Cédric Brunner,ch SUI,DF,Arminia,26,1994,31,30,2655,29.5,0,1,1,0,0,0,6,0,0.5,0.5,1.3,1.8,28,87,41,Bundesliga,2020-2021
+Jacob Bruun Larsen,dk DEN,"MF,FW",Hoffenheim,21,1998,2,1,89,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,11,Bundesliga,2020-2021
+Nishan Burkart,ch SUI,MF,Freiburg,20,2000,1,0,15,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,3,Bundesliga,2020-2021
+Roman Bürki,ch SUI,GK,Dortmund,29,1990,19,18,1665,18.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2020-2021
+Kerim Calhanoglu,de GER,DF,Schalke 04,17,2002,4,4,296,3.3,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,2,9,13,Bundesliga,2020-2021
+Koen Casteels,be BEL,GK,Wolfsburg,28,1992,32,32,2880,32.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Sava Cestic,rs SRB,DF,Köln,19,2001,11,11,899,10.0,0,0,0,0,0,0,3,0,0.2,0.2,0.1,0.3,3,19,0,Bundesliga,2020-2021
+Kwon Chang-hoon,kr KOR,"MF,FW",Freiburg,26,1994,12,1,216,2.4,0,0,0,0,0,0,2,0,0.2,0.2,0.1,0.3,3,6,24,Bundesliga,2020-2021
+Steven Skrzybski,de GER,"FW,DF",Schalke 04,27,1992,13,3,419,4.7,0,0,0,0,0,1,2,0,1.1,0.3,0.1,0.4,6,10,23,Bundesliga,2020-2021
+Yann Sommer,ch SUI,GK,Gladbach,31,1988,31,31,2712,30.1,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0,2,0,Bundesliga,2020-2021
+Borna Sosa,hr CRO,"DF,FW",Stuttgart,22,1998,26,25,2042,22.7,0,9,9,0,0,0,2,0,0.6,0.6,5.6,6.2,88,88,200,Bundesliga,2020-2021
+Djibril Sow,ch SUI,MF,Eint Frankfurt,23,1997,28,25,2175,24.2,0,2,2,0,0,0,6,0,0.5,0.5,1.2,1.7,41,119,45,Bundesliga,2020-2021
+Jerry St. Juste,nl NED,DF,Mainz 05,23,1996,32,32,2880,32.0,0,1,1,0,0,0,4,0,1.9,1.9,0.3,2.2,36,99,13,Bundesliga,2020-2021
+Benjamin Stambouli,fr FRA,"DF,MF",Schalke 04,29,1990,24,22,1956,21.7,0,2,2,0,0,0,5,0,0.1,0.1,0.4,0.5,16,102,9,Bundesliga,2020-2021
+Josip Stanišić,hr CRO,DF,Bayern Munich,20,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.2,0,4,5,Bundesliga,2020-2021
+Niklas Stark,de GER,"DF,MF",Hertha BSC,25,1995,33,31,2793,31.0,0,0,0,0,0,0,2,0,1.1,1.1,0.8,1.9,23,113,15,Bundesliga,2020-2021
+Pascal Stenzel,de GER,DF,Stuttgart,24,1996,23,14,1276,14.2,0,1,1,0,0,0,3,1,0.2,0.2,0.3,0.5,10,73,13,Bundesliga,2020-2021
+Tobias Strobl,de GER,MF,Augsburg,30,1990,29,21,1846,20.5,0,0,0,0,0,0,4,0,0.9,0.9,0.8,1.7,9,81,34,Bundesliga,2020-2021
+Marek Suchý,cz CZE,DF,Augsburg,32,1988,5,3,305,3.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,7,0,Bundesliga,2020-2021
+Melayro Bogarde,nl NED,"DF,MF",Hoffenheim,18,2002,9,2,277,3.1,0,1,1,0,0,0,1,0,0.2,0.2,0.2,0.4,5,18,9,Bundesliga,2020-2021
+Elias Bördner,de GER,GK,Eint Frankfurt,18,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Dennis Borkowski,de GER,"MF,FW",RB Leipzig,18,2002,2,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,4,Bundesliga,2020-2021
+Can Bozdogan,de GER,"MF,FW",Schalke 04,19,2001,14,5,651,7.2,0,2,2,0,0,0,0,0,0.5,0.5,0.7,1.2,9,16,18,Bundesliga,2020-2021
+Fabian Bredlow,de GER,GK,Stuttgart,25,1995,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Joshua Brenet,cw CUW,DF,Hoffenheim,26,1994,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,0,Bundesliga,2020-2021
+Frederik Sørensen,dk DEN,DF,Köln,28,1992,3,1,99,1.1,0,0,0,0,0,0,2,0,0.0,0.0,0.1,0.1,1,6,2,Bundesliga,2020-2021
+Niklas Tauer,de GER,"MF,DF",Mainz 05,19,2001,5,0,69,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,1,3,1,Bundesliga,2020-2021
+Lino Tempelmann,de GER,MF,Freiburg,21,1999,10,2,270,3.0,0,0,0,0,0,0,2,0,0.2,0.2,0.0,0.2,3,8,4,Bundesliga,2020-2021
+Erik Thommy,de GER,"MF,DF",Stuttgart,25,1994,8,3,313,3.5,0,2,2,0,0,0,0,0,0.5,0.5,1.0,1.6,25,13,30,Bundesliga,2020-2021
+Steffen Tigges,de GER,"FW,DF",Dortmund,22,1998,6,0,56,0.6,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.2,0,3,2,Bundesliga,2020-2021
+Guus Til,nl NED,FW,Freiburg,22,1997,7,1,125,1.4,0,0,0,0,0,0,1,0,0.7,0.7,0.0,0.7,3,0,15,Bundesliga,2020-2021
+Timo Becker,de GER,DF,Schalke 04,23,1997,20,18,1640,18.2,0,0,0,0,0,0,1,0,0.3,0.3,0.4,0.7,21,44,48,Bundesliga,2020-2021
+Brian Behrendt,de GER,DF,Arminia,28,1991,3,0,79,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,2,2,Bundesliga,2020-2021
+Maximilian Beier,de GER,"FW,DF",Hoffenheim,17,2002,3,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Ishak Belfodil,dz ALG,"FW,MF",Hoffenheim,28,1992,14,7,596,6.6,0,1,1,0,0,0,0,0,1.5,1.5,0.9,2.4,9,8,54,Bundesliga,2020-2021
+Karim Bellarabi,de GER,"FW,MF",Leverkusen,30,1990,22,7,798,8.9,0,0,0,0,0,0,2,0,1.8,1.8,2.6,4.4,42,25,109,Bundesliga,2020-2021
+Sven Bender,de GER,DF,Leverkusen,31,1989,18,14,1170,13.0,0,0,0,0,0,0,1,0,0.2,0.2,0.2,0.4,1,42,2,Bundesliga,2020-2021
+László Bénes,sk SVK,MF,Gladbach,22,1997,7,1,150,1.7,0,1,1,0,0,0,0,0,0.1,0.1,0.2,0.3,2,7,6,Bundesliga,2020-2021
+Nabil Bentaleb,dz ALG,MF,Schalke 04,25,1994,9,6,548,6.1,0,0,0,0,0,1,2,0,0.8,0.0,0.0,0.0,6,29,5,Bundesliga,2020-2021
+Jordan Beyer,de GER,DF,Gladbach,20,2000,4,2,188,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,5,2,Bundesliga,2020-2021
+Tolu Arokodare,ng NGA,"FW,MF",Köln,19,2000,10,0,112,1.2,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.5,1,4,11,Bundesliga,2020-2021
+Ludwig Augustinsson,se SWE,"DF,FW",Werder Bremen,26,1994,23,21,1957,21.7,0,4,4,0,0,0,4,0,0.9,0.9,2.7,3.6,38,60,108,Bundesliga,2020-2021
+Mehmet Aydin,de GER,DF,Schalke 04,18,2002,6,6,500,5.6,0,0,0,0,0,0,0,0,0.0,0.0,0.5,0.5,6,7,10,Bundesliga,2020-2021
+Ridle Baku,de GER,DF,Mainz 05,22,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,11,7,Bundesliga,2020-2021
+Philipp Bargfrede,de GER,MF,Werder Bremen,31,1989,1,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,2,1,Bundesliga,2020-2021
+Jacob Barrett Laursen,dk DEN,DF,Arminia,25,1994,16,13,1108,12.3,0,1,1,0,0,0,1,0,0.1,0.1,1.1,1.2,13,30,20,Bundesliga,2020-2021
+Oliver Baumann,de GER,GK,Hoffenheim,30,1990,31,31,2790,31.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,2,1,Bundesliga,2020-2021
+Noah Joel Sarenren Bazee,ng NGA,"FW,MF",Augsburg,23,1996,5,0,36,0.4,0,1,1,0,0,0,1,0,0.0,0.0,0.7,0.7,1,0,4,Bundesliga,2020-2021
+Jordan Torunarigha,de GER,DF,Hertha BSC,22,1997,14,11,969,10.8,0,0,0,0,0,0,5,0,0.2,0.2,0.4,0.6,10,44,9,Bundesliga,2020-2021
+Ibrahima Traoré,gn GUI,"FW,DF",Gladbach,32,1988,7,1,98,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.2,0.2,2,2,8,Bundesliga,2020-2021
+Kevin Trapp,de GER,GK,Eint Frankfurt,30,1990,33,33,2970,33.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Tuta,br BRA,DF,Eint Frankfurt,21,1999,19,16,1459,16.2,0,0,0,0,0,0,5,0,0.2,0.2,0.2,0.4,24,87,15,Bundesliga,2020-2021
+Miloš Veljković,rs SRB,DF,Werder Bremen,24,1995,23,19,1723,19.1,0,0,0,0,0,0,1,0,0.3,0.3,0.0,0.3,3,56,3,Bundesliga,2020-2021
+Kevin Vogt,de GER,DF,Hoffenheim,28,1991,24,20,1841,20.5,0,1,1,0,0,0,6,0,0.0,0.0,0.4,0.4,12,128,3,Bundesliga,2020-2021
+Amir Abrashi,al ALB,"MF,DF",Freiburg,30,1990,5,0,60,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,1,Bundesliga,2020-2021
+Robin Zentner,de GER,GK,Mainz 05,25,1994,31,31,2790,31.0,0,0,0,0,0,0,2,0,0.1,0.1,0.1,0.2,0,0,0,Bundesliga,2020-2021
+Ron-Robert Zieler,de GER,GK,Köln,31,1989,1,0,51,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2020-2021
+Joshua Zirkzee,nl NED,FW,Bayern Munich,19,2001,3,1,92,1.0,0,0,0,0,0,0,0,0,0.2,0.2,0.1,0.3,0,0,3,Bundesliga,2020-2021
+Steven Zuber,ch SUI,"DF,MF",Eint Frankfurt,28,1991,20,6,585,6.5,0,3,3,0,0,0,1,0,0.5,0.5,2.2,2.8,23,21,51,Bundesliga,2020-2021

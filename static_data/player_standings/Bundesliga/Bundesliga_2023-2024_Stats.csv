@@ -1,0 +1,508 @@
+Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,League,Season
+Harry Kane,eng ENG,FW,Bayern Munich,30,1993,32,32,2839,31.5,36,8,44,31,5,5,2,0,30.6,26.7,6.4,33.0,36,102,164,Bundesliga,2023-2024
+Serhou Guirassy,gn GUI,FW,Stuttgart,27,1996,28,25,2208,24.5,28,3,31,24,4,4,0,0,20.8,17.6,6.6,24.2,32,56,183,Bundesliga,2023-2024
+Loïs Openda,be BEL,FW,RB Leipzig,23,2000,34,33,2697,30.0,24,7,31,22,2,3,4,0,22.1,19.7,5.8,25.5,77,45,226,Bundesliga,2023-2024
+Deniz Undav,de GER,"FW,MF",Stuttgart,27,1996,30,23,2089,23.2,18,10,28,18,0,1,5,0,15.0,14.3,6.5,20.8,45,120,182,Bundesliga,2023-2024
+Maximilian Beier,de GER,"FW,MF",Hoffenheim,20,2002,33,29,2420,26.9,16,1,17,16,0,0,0,0,11.4,11.4,2.4,13.8,61,30,224,Bundesliga,2023-2024
+Andrej Kramarić,hr CRO,"MF,FW",Hoffenheim,32,1991,30,25,2199,24.4,15,6,21,10,5,5,4,0,11.1,7.1,7.3,14.5,71,119,175,Bundesliga,2023-2024
+Ermedin Demirović,ba BIH,"FW,MF",Augsburg,25,1998,33,33,2873,31.9,15,9,24,12,3,4,7,0,13.5,10.3,3.9,14.2,28,60,167,Bundesliga,2023-2024
+Victor Boniface,ng NGA,FW,Leverkusen,22,2000,23,18,1546,17.2,14,8,22,10,4,4,2,0,15.4,12.3,3.7,16.0,50,34,158,Bundesliga,2023-2024
+Benjamin Šeško,si SVN,FW,RB Leipzig,20,2003,31,17,1526,17.0,14,2,16,14,0,0,0,0,7.7,7.7,1.1,8.8,21,22,98,Bundesliga,2023-2024
+Donyell Malen,nl NED,"FW,MF",Dortmund,24,1999,27,21,1781,19.8,13,1,14,13,0,0,5,0,9.5,9.5,3.0,12.5,73,57,163,Bundesliga,2023-2024
+Omar Marmoush,eg EGY,"FW,MF",Eint Frankfurt,24,1999,29,27,2301,25.6,12,6,18,10,2,2,7,0,11.6,10.1,4.4,14.5,88,60,165,Bundesliga,2023-2024
+Tim Kleindienst,de GER,FW,Heidenheim,27,1995,33,33,2869,31.9,12,3,15,10,2,2,6,0,13.9,12.3,3.3,15.6,40,73,178,Bundesliga,2023-2024
+Marvin Ducksch,de GER,FW,Werder Bremen,29,1994,33,32,2696,30.0,12,9,21,7,5,6,9,0,12.8,7.9,7.8,15.7,17,88,150,Bundesliga,2023-2024
+Niclas Füllkrug,de GER,FW,Dortmund,30,1993,29,27,2212,24.6,12,8,20,9,3,3,1,0,12.4,10.0,3.1,13.2,17,49,119,Bundesliga,2023-2024
+Florian Wirtz,de GER,MF,Leverkusen,20,2003,32,26,2372,26.4,11,11,22,10,1,1,3,0,8.9,8.2,7.5,15.7,138,224,306,Bundesliga,2023-2024
+Jonas Wind,dk DEN,FW,Wolfsburg,24,1999,34,31,2651,29.5,11,7,18,11,0,1,3,0,9.4,8.5,5.1,13.6,17,88,115,Bundesliga,2023-2024
+Eren Dinkçi,de GER,"FW,MF",Heidenheim,21,2001,33,33,2650,29.4,10,5,15,10,0,0,8,0,4.3,4.3,3.7,8.0,85,89,143,Bundesliga,2023-2024
+Álex Grimaldo,es ESP,DF,Leverkusen,27,1995,33,31,2784,30.9,10,13,23,10,0,0,1,0,5.7,5.7,9.1,14.8,77,162,261,Bundesliga,2023-2024
+Robin Hack,de GER,"FW,MF",Gladbach,24,1998,29,14,1348,15.0,10,2,12,10,0,0,2,0,3.9,3.9,2.3,6.3,50,46,103,Bundesliga,2023-2024
+Jamal Musiala,de GER,"MF,FW",Bayern Munich,20,2003,24,20,1755,19.5,10,5,15,10,0,0,2,0,7.9,7.9,6.0,13.9,103,100,163,Bundesliga,2023-2024
+Jeremie Frimpong,nl NED,DF,Leverkusen,22,2000,31,27,2251,25.0,9,7,16,9,0,0,6,0,8.2,8.2,5.9,14.0,153,49,348,Bundesliga,2023-2024
+Chris Führich,de GER,"FW,MF",Stuttgart,25,1998,34,33,2567,28.5,8,7,15,8,0,1,2,0,6.6,5.8,8.0,13.8,153,145,259,Bundesliga,2023-2024
+Vincenzo Grifo,it ITA,"MF,FW",Freiburg,30,1993,32,29,2325,25.8,8,8,16,2,6,6,3,0,7.7,3.0,8.2,11.2,54,115,148,Bundesliga,2023-2024
+Phillip Tietz,de GER,FW,Augsburg,26,1997,34,31,2382,26.5,8,4,12,8,0,0,1,0,8.2,8.2,2.6,10.8,19,51,115,Bundesliga,2023-2024
+Jonathan Burkardt,de GER,"FW,MF",Mainz 05,23,2000,21,18,1538,17.1,8,2,10,7,1,1,2,0,6.1,5.3,2.1,7.4,36,28,101,Bundesliga,2023-2024
+Xavi Simons,nl NED,MF,RB Leipzig,20,2003,32,32,2653,29.5,8,11,19,7,1,2,11,1,8.3,6.7,9.8,16.4,151,187,216,Bundesliga,2023-2024
+Leroy Sané,de GER,FW,Bayern Munich,27,1996,27,25,2137,23.7,8,11,19,8,0,0,4,0,10.9,10.9,10.8,21.8,121,113,274,Bundesliga,2023-2024
+Jan-Niklas Beste,de GER,"FW,MF",Heidenheim,24,1999,31,31,2603,28.9,8,11,19,8,0,1,4,0,4.3,3.5,5.7,9.2,80,57,136,Bundesliga,2023-2024
+Tim Skarke,de GER,"FW,DF",Darmstadt 98,26,1996,30,29,2404,26.7,8,0,8,8,0,0,7,0,3.6,3.6,2.1,5.7,61,80,190,Bundesliga,2023-2024
+Alassane Pléa,fr FRA,"FW,MF",Gladbach,30,1993,27,24,1913,21.3,7,4,11,6,1,1,1,0,7.0,6.2,4.0,10.2,56,115,157,Bundesliga,2023-2024
+Ansgar Knauff,de GER,"MF,DF",Eint Frankfurt,21,2002,31,24,2109,23.4,7,2,9,7,0,0,7,1,5.7,5.7,2.3,8.0,77,57,164,Bundesliga,2023-2024
+Patrik Schick,cz CZE,FW,Leverkusen,27,1996,20,12,1063,11.8,7,0,7,6,1,1,1,0,6.0,5.3,1.0,6.2,7,17,88,Bundesliga,2023-2024
+Wout Weghorst,nl NED,FW,Hoffenheim,30,1992,28,24,1977,22.0,7,3,10,6,1,1,4,0,7.2,6.4,3.5,9.9,14,57,132,Bundesliga,2023-2024
+Ritsu Doan,jp JPN,"DF,MF",Freiburg,25,1998,30,26,2246,25.0,7,2,9,7,0,0,2,0,5.0,5.0,3.1,8.1,49,78,139,Bundesliga,2023-2024
+Mathys Tel,fr FRA,"FW,MF",Bayern Munich,18,2005,30,6,1050,11.7,7,5,12,7,0,0,2,0,3.7,3.7,2.3,6.0,45,27,122,Bundesliga,2023-2024
+Lucas Höler,de GER,"FW,MF",Freiburg,29,1994,33,26,2305,25.6,7,2,9,6,1,2,7,0,8.6,7.0,2.1,9.1,24,49,153,Bundesliga,2023-2024
+Ihlas Bebou,tg TOG,"FW,DF",Hoffenheim,29,1994,32,16,1636,18.2,7,5,12,7,0,0,3,0,4.9,4.9,2.6,7.5,42,38,145,Bundesliga,2023-2024
+Kevin Stöger,at AUT,MF,Bochum,29,1993,32,32,2668,29.6,7,10,17,3,4,4,8,0,6.2,3.1,9.9,12.9,81,283,139,Bundesliga,2023-2024
+Michael Gregoritsch,at AUT,FW,Freiburg,29,1994,32,19,1682,18.7,7,4,11,7,0,0,2,0,9.2,9.2,1.0,10.2,12,48,89,Bundesliga,2023-2024
+Julian Brandt,de GER,"MF,FW",Dortmund,27,1996,32,26,2223,24.7,7,11,18,7,0,0,2,0,4.4,4.4,9.5,13.8,74,116,158,Bundesliga,2023-2024
+Davie Selke,de GER,FW,Köln,28,1995,19,16,1265,14.1,6,0,6,6,0,0,3,0,4.8,4.8,0.4,5.2,9,17,46,Bundesliga,2023-2024
+Lee Jae-sung,kr KOR,"MF,FW",Mainz 05,30,1992,29,24,2113,23.5,6,3,9,6,0,0,6,0,4.9,4.9,3.4,8.3,25,82,121,Bundesliga,2023-2024
+Takuma Asano,jp JPN,"FW,MF",Bochum,28,1994,29,26,1986,22.1,6,1,7,6,0,0,2,0,7.9,7.9,1.3,9.2,56,32,167,Bundesliga,2023-2024
+Marco Reus,de GER,"MF,FW",Dortmund,34,1989,26,18,1601,17.8,6,8,14,6,0,0,2,0,6.5,6.5,5.1,11.7,31,64,89,Bundesliga,2023-2024
+Rocco Reitz,de GER,MF,Gladbach,21,2002,34,24,2136,23.7,6,3,9,6,0,0,2,0,3.7,3.7,2.4,6.0,41,110,58,Bundesliga,2023-2024
+Robin Gosens,de GER,"DF,MF",Union Berlin,29,1994,30,27,2283,25.4,6,3,9,6,0,0,9,1,2.1,2.1,3.0,5.1,21,97,113,Bundesliga,2023-2024
+Leon Goretzka,de GER,MF,Bayern Munich,28,1995,30,25,2241,24.9,6,7,13,6,0,0,3,0,5.0,5.0,5.3,10.2,66,176,71,Bundesliga,2023-2024
+Justin Njinmah,de GER,FW,Werder Bremen,22,2000,24,10,1016,11.3,6,2,8,6,0,0,1,0,4.9,4.9,2.4,7.3,36,13,95,Bundesliga,2023-2024
+Christoph Baumgartner,at AUT,"MF,FW",RB Leipzig,23,1999,32,11,1158,12.9,5,1,6,5,0,0,3,0,3.7,3.7,1.6,5.2,36,47,86,Bundesliga,2023-2024
+Nathan N'Goumou,cm CMR,"FW,MF",Gladbach,23,2000,32,14,1385,15.4,5,2,7,5,0,0,1,0,3.8,3.8,1.7,5.5,52,47,150,Bundesliga,2023-2024
+Silas Katompa,cd COD,"FW,MF",Stuttgart,24,1998,27,8,900,10.0,5,2,7,5,0,1,0,0,5.7,4.9,2.3,7.2,49,25,130,Bundesliga,2023-2024
+Florian Kainz,at AUT,"MF,FW",Köln,30,1992,33,29,2197,24.4,5,4,9,0,5,5,4,0,5.0,1.0,3.3,4.3,40,124,100,Bundesliga,2023-2024
+Jonas Hofmann,de GER,MF,Leverkusen,31,1992,32,26,2204,24.5,5,7,12,5,0,0,3,0,5.9,5.9,8.1,14.1,63,119,221,Bundesliga,2023-2024
+Keven Schlotterbeck,de GER,DF,Bochum,26,1997,27,24,2185,24.3,5,1,6,5,0,0,9,0,2.0,2.0,0.6,2.7,9,93,15,Bundesliga,2023-2024
+Junior Dina Ebimbe,fr FRA,"MF,DF",Eint Frankfurt,22,2000,31,25,1956,21.7,5,3,8,5,0,0,5,0,5.0,5.0,2.9,7.9,57,79,157,Bundesliga,2023-2024
+Lovro Majer,hr CRO,"MF,FW",Wolfsburg,25,1998,32,25,2106,23.4,5,5,10,3,2,2,5,0,5.4,3.8,3.2,7.0,61,124,140,Bundesliga,2023-2024
+Yussuf Poulsen,dk DEN,FW,RB Leipzig,29,1994,28,12,1217,13.5,5,2,7,5,0,0,0,0,5.7,5.7,1.0,6.8,11,16,78,Bundesliga,2023-2024
+Benedict Hollerbach,de GER,"FW,MF",Union Berlin,22,2001,28,15,1282,14.2,5,0,5,5,0,0,2,0,3.4,3.4,1.3,4.7,49,39,126,Bundesliga,2023-2024
+Thomas Müller,de GER,"MF,FW",Bayern Munich,33,1989,31,20,1654,18.4,5,9,14,5,0,0,0,0,5.7,5.7,8.4,14.1,38,82,188,Bundesliga,2023-2024
+Nathan Tella,ng NGA,"DF,MF",Leverkusen,24,1999,24,8,819,9.1,5,2,7,5,0,0,2,0,3.5,3.5,3.2,6.7,35,28,114,Bundesliga,2023-2024
+Jordan Pefok,us USA,FW,Gladbach,27,1996,25,18,1420,15.8,5,3,8,5,0,0,2,0,6.5,6.5,2.5,8.9,5,22,73,Bundesliga,2023-2024
+Youssoufa Moukoko,de GER,FW,Dortmund,18,2004,20,4,625,6.9,5,0,5,5,0,0,1,0,3.9,3.9,0.3,4.2,16,15,27,Bundesliga,2023-2024
+Enzo Millot,fr FRA,"MF,FW",Stuttgart,21,2002,31,27,2241,24.9,5,4,9,4,1,1,5,0,5.3,4.5,3.9,8.4,46,127,167,Bundesliga,2023-2024
+Václav Černý,cz CZE,"FW,MF",Wolfsburg,25,1997,22,12,921,10.2,4,1,5,4,0,0,2,0,2.3,2.3,0.9,3.2,26,37,83,Bundesliga,2023-2024
+Julian Ryerson,no NOR,DF,Dortmund,25,1997,21,20,1767,19.6,4,1,5,4,0,0,3,0,1.8,1.8,2.7,4.5,41,64,118,Bundesliga,2023-2024
+Marcel Sabitzer,at AUT,MF,Dortmund,29,1994,25,23,1961,21.8,4,3,7,3,1,1,3,1,3.6,2.8,1.8,4.6,39,111,69,Bundesliga,2023-2024
+Tomáš Čvančara,cz CZE,FW,Gladbach,22,2000,21,7,896,10.0,4,1,5,3,1,2,4,0,5.9,4.3,0.7,5.0,12,13,47,Bundesliga,2023-2024
+Jonathan Tah,de GER,DF,Leverkusen,27,1996,31,30,2631,29.2,4,1,5,4,0,0,6,0,2.1,2.1,0.3,2.3,17,133,4,Bundesliga,2023-2024
+Ozan Kabak,tr TUR,DF,Hoffenheim,23,2000,28,28,2282,25.4,4,0,4,4,0,0,11,1,2.2,2.2,1.1,3.3,21,110,11,Bundesliga,2023-2024
+Leandro Barreiro Martins,lu LUX,MF,Mainz 05,23,2000,31,29,2606,29.0,4,1,5,4,0,0,8,0,4.5,4.5,1.1,5.6,22,93,46,Bundesliga,2023-2024
+Faride Alidou,de GER,"FW,MF",Köln,22,2001,26,14,1282,14.2,4,0,4,4,0,0,4,0,3.0,3.0,0.6,3.6,51,33,95,Bundesliga,2023-2024
+Kevin Behrens,de GER,FW,Union Berlin,32,1991,18,14,1262,14.0,4,0,4,4,0,0,3,0,6.0,6.0,0.9,6.9,11,45,93,Bundesliga,2023-2024
+Hugo Ekitike,fr FRA,FW,Eint Frankfurt,21,2002,14,7,716,8.0,4,2,6,4,0,0,3,0,2.4,2.4,1.7,4.1,16,9,60,Bundesliga,2023-2024
+Exequiel Palacios,ar ARG,MF,Leverkusen,24,1998,24,21,1831,20.3,4,4,8,2,2,2,6,0,3.3,1.8,3.8,5.5,24,162,45,Bundesliga,2023-2024
+Philipp Hofmann,de GER,FW,Bochum,30,1993,29,18,1571,17.5,4,2,6,4,0,0,1,0,4.8,4.8,1.7,6.5,7,36,86,Bundesliga,2023-2024
+Florian Neuhaus,de GER,MF,Gladbach,26,1997,25,15,1224,13.6,4,2,6,3,1,1,4,0,4.3,3.5,1.8,5.4,30,74,43,Bundesliga,2023-2024
+Romano Schmid,at AUT,"MF,FW",Werder Bremen,23,2000,33,30,2601,28.9,4,6,10,4,0,0,5,0,5.2,5.2,6.3,11.5,75,144,165,Bundesliga,2023-2024
+Amine Adli,ma MAR,"MF,FW",Leverkusen,23,2000,23,8,898,10.0,4,6,10,4,0,0,5,0,3.3,3.3,2.3,5.6,32,39,131,Bundesliga,2023-2024
+Rafael Borré,co COL,FW,Werder Bremen,27,1995,19,11,991,11.0,4,0,4,4,0,0,0,0,2.4,2.4,1.8,4.2,16,28,73,Bundesliga,2023-2024
+Oscar Vilhelmsson,se SWE,"FW,MF",Darmstadt 98,19,2003,26,16,1374,15.3,4,1,5,4,0,0,2,0,4.1,4.1,0.7,4.7,16,7,72,Bundesliga,2023-2024
+Dani Olmo,es ESP,MF,RB Leipzig,25,1998,21,17,1449,16.1,4,5,9,4,0,0,0,0,3.3,3.3,5.4,8.8,60,68,111,Bundesliga,2023-2024
+Grischa Prömel,de GER,MF,Hoffenheim,28,1995,28,27,2139,23.8,4,5,9,4,0,0,10,1,3.8,3.8,2.8,6.6,35,96,60,Bundesliga,2023-2024
+Brajan Gruda,de GER,"MF,FW",Mainz 05,19,2004,28,19,1641,18.2,4,3,7,4,0,0,5,0,3.5,3.5,4.1,7.6,100,71,167,Bundesliga,2023-2024
+Jamie Leweling,de GER,"FW,MF",Stuttgart,22,2001,34,17,1523,16.9,4,4,8,4,0,0,3,0,6.1,6.1,3.2,9.3,65,35,172,Bundesliga,2023-2024
+Maxence Lacroix,fr FRA,DF,Wolfsburg,23,2000,28,27,2362,26.2,4,1,5,4,0,0,5,3,0.8,0.8,0.8,1.7,5,79,5,Bundesliga,2023-2024
+Ruben Vargas,ch SUI,"MF,FW",Augsburg,24,1998,31,25,1962,21.8,4,5,9,4,0,0,3,0,3.9,3.9,2.4,6.3,57,77,145,Bundesliga,2023-2024
+Robert Andrich,de GER,"MF,DF",Leverkusen,28,1994,28,18,1690,18.8,4,2,6,4,0,0,4,0,1.7,1.7,1.8,3.5,20,97,14,Bundesliga,2023-2024
+Serge Gnabry,de GER,"FW,MF",Bayern Munich,28,1995,10,5,432,4.8,3,1,4,3,0,0,0,0,2.4,2.4,1.2,3.7,23,23,49,Bundesliga,2023-2024
+Josip Stanišić,hr CRO,DF,Leverkusen,23,2000,20,13,1261,14.0,3,1,4,3,0,0,3,0,0.8,0.8,1.7,2.4,49,92,63,Bundesliga,2023-2024
+Karim Adeyemi,de GER,"FW,MF",Dortmund,21,2002,21,10,913,10.1,3,1,4,3,0,0,6,1,3.5,3.5,2.0,5.5,52,26,96,Bundesliga,2023-2024
+Gonçalo Paciência,pt POR,"FW,MF",Bochum,28,1994,19,6,650,7.2,3,1,4,3,0,0,3,0,3.0,3.0,1.3,4.3,9,21,50,Bundesliga,2023-2024
+Arne Engels,be BEL,"MF,DF",Augsburg,19,2003,32,13,1405,15.6,3,2,5,3,0,0,1,1,1.8,1.8,1.2,3.0,23,52,62,Bundesliga,2023-2024
+Nikola Dovedan,at AUT,"MF,FW",Heidenheim,29,1994,21,5,656,7.3,3,1,4,3,0,0,0,1,1.9,1.9,0.6,2.6,12,22,25,Bundesliga,2023-2024
+Granit Xhaka,ch SUI,MF,Leverkusen,30,1992,33,32,2821,31.3,3,0,3,3,0,0,5,0,1.8,1.8,2.7,4.5,60,392,53,Bundesliga,2023-2024
+Ko Itakura,jp JPN,"DF,MF",Gladbach,26,1997,20,18,1596,17.7,3,0,3,3,0,0,9,0,1.3,1.3,0.2,1.5,14,36,7,Bundesliga,2023-2024
+Kevin Sessa,de GER,"MF,FW",Heidenheim,23,2000,30,7,1011,11.2,3,0,3,3,0,0,1,0,2.9,2.9,1.3,4.2,29,51,48,Bundesliga,2023-2024
+Jens Stage,dk DEN,MF,Werder Bremen,26,1996,30,26,2327,25.9,3,1,4,3,0,0,5,1,4.4,4.4,1.9,6.3,24,85,60,Bundesliga,2023-2024
+Luca Waldschmidt,de GER,"MF,FW",Köln,27,1996,22,14,1146,12.7,3,0,3,3,0,1,0,0,2.9,2.1,1.2,3.3,30,46,61,Bundesliga,2023-2024
+Marvin Pieringer,de GER,"MF,FW",Heidenheim,23,1999,31,18,1513,16.8,3,3,6,3,0,0,5,0,2.3,2.3,2.1,4.4,28,41,72,Bundesliga,2023-2024
+Mats Hummels,de GER,DF,Dortmund,34,1988,25,20,1581,17.6,3,0,3,3,0,0,4,1,3.2,3.2,0.9,4.1,11,82,1,Bundesliga,2023-2024
+Mario Götze,de GER,MF,Eint Frankfurt,31,1992,30,23,2068,23.0,3,2,5,3,0,0,5,1,2.9,2.9,3.0,5.9,22,115,118,Bundesliga,2023-2024
+Marvin Mehlem,de GER,MF,Darmstadt 98,25,1997,20,19,1482,16.5,3,2,5,3,0,0,3,0,3.8,3.8,1.1,4.9,27,46,73,Bundesliga,2023-2024
+Niels Nkounkou,fr FRA,"DF,MF",Eint Frankfurt,22,2000,29,13,1309,14.5,3,2,5,3,0,0,5,1,1.3,1.3,2.2,3.5,55,61,62,Bundesliga,2023-2024
+Franck Honorat,fr FRA,"DF,FW",Gladbach,26,1996,32,28,2345,26.1,3,9,12,3,0,0,1,0,1.6,1.6,9.3,10.8,97,93,242,Bundesliga,2023-2024
+Kevin Volland,de GER,"FW,MF",Union Berlin,31,1992,26,17,1345,14.9,3,4,7,1,2,3,3,2,5.3,2.9,2.6,5.6,14,48,96,Bundesliga,2023-2024
+Yorbe Vertessen,be BEL,"FW,MF",Union Berlin,22,2001,13,7,593,6.6,3,2,5,3,0,0,1,0,2.7,2.7,1.3,4.0,10,13,39,Bundesliga,2023-2024
+Kevin Paredes,us USA,"FW,MF",Wolfsburg,20,2003,28,15,1432,15.9,3,0,3,3,0,0,4,0,3.0,3.0,1.4,4.3,34,50,112,Bundesliga,2023-2024
+Robert Skov,dk DEN,"DF,FW",Hoffenheim,27,1996,25,14,1260,14.0,3,4,7,3,0,0,2,0,1.8,1.8,1.9,3.7,28,71,92,Bundesliga,2023-2024
+Kingsley Coman,fr FRA,FW,Bayern Munich,27,1996,17,15,1113,12.4,3,3,6,3,0,0,1,0,2.8,2.8,3.8,6.6,75,72,210,Bundesliga,2023-2024
+Tobias Kempe,de GER,MF,Darmstadt 98,34,1989,24,15,1350,15.0,3,2,5,0,3,3,1,0,3.6,1.2,2.1,3.3,15,44,46,Bundesliga,2023-2024
+Steffen Tigges,de GER,FW,Köln,25,1998,25,6,727,8.1,3,0,3,3,0,0,0,0,2.6,2.6,1.6,4.1,9,10,48,Bundesliga,2023-2024
+Raphaël Guerreiro,pt POR,"DF,MF",Bayern Munich,29,1993,20,13,1191,13.2,3,0,3,3,0,0,2,0,2.4,2.4,2.0,4.4,36,86,90,Bundesliga,2023-2024
+Pavel Kadeřábek,cz CZE,"DF,FW",Hoffenheim,31,1992,29,28,2412,26.8,3,4,7,3,0,0,7,0,2.5,2.5,4.7,7.2,38,88,153,Bundesliga,2023-2024
+Mitchell Weiser,de GER,"DF,MF",Werder Bremen,29,1994,30,30,2636,29.3,3,7,10,3,0,0,5,0,3.8,3.8,4.2,7.9,81,111,189,Bundesliga,2023-2024
+Sepp van den Berg,nl NED,DF,Mainz 05,21,2001,33,31,2839,31.5,3,0,3,3,0,0,9,0,2.7,2.7,0.3,3.0,7,95,6,Bundesliga,2023-2024
+Maximilian Wittek,de GER,"DF,FW",Bochum,27,1995,21,13,1070,11.9,3,1,4,3,0,0,4,0,1.3,1.3,1.4,2.6,17,49,64,Bundesliga,2023-2024
+Roland Sallai,hu HUN,"MF,FW",Freiburg,26,1997,27,22,1840,20.4,3,2,5,3,0,1,6,0,7.9,7.1,3.5,10.6,47,41,139,Bundesliga,2023-2024
+Mohamed Simakan,fr FRA,DF,RB Leipzig,23,2000,32,23,2138,23.8,2,3,5,2,0,0,8,0,3.9,3.9,3.3,7.2,34,106,76,Bundesliga,2023-2024
+Adam Hložek,cz CZE,"MF,FW",Leverkusen,21,2002,23,5,459,5.1,2,3,5,2,0,0,1,0,3.1,3.1,0.9,4.0,14,13,33,Bundesliga,2023-2024
+Ellyes Skhiri,tn TUN,MF,Eint Frankfurt,28,1995,27,24,2168,24.1,2,2,4,2,0,0,1,0,2.3,2.3,1.0,3.3,10,110,28,Bundesliga,2023-2024
+Anton Stach,de GER,MF,Hoffenheim,24,1998,31,26,2321,25.8,2,3,5,2,0,0,4,0,1.7,1.7,3.5,5.2,49,143,46,Bundesliga,2023-2024
+Amadou Haidara,ml MLI,MF,RB Leipzig,25,1998,21,19,1526,17.0,2,1,3,2,0,0,5,0,1.1,1.1,1.6,2.7,8,97,11,Bundesliga,2023-2024
+Patrick Osterhage,de GER,MF,Bochum,23,2000,24,21,1861,20.7,2,1,3,2,0,0,5,0,1.4,1.4,0.8,2.2,26,64,65,Bundesliga,2023-2024
+Aleksandar Pavlovic,de GER,MF,Bayern Munich,19,2004,19,14,1227,13.6,2,2,4,2,0,0,6,0,1.2,1.2,1.0,2.2,14,105,14,Bundesliga,2023-2024
+Maximilian Mittelstädt,de GER,DF,Stuttgart,26,1997,31,23,2103,23.4,2,4,6,2,0,0,5,0,0.9,0.9,4.2,5.1,70,123,129,Bundesliga,2023-2024
+Sven Michel,de GER,"FW,MF",Augsburg,33,1990,22,5,583,6.5,2,1,3,1,1,2,2,0,2.4,0.8,0.8,1.7,6,14,44,Bundesliga,2023-2024
+Eric Maxim Choupo-Moting,cm CMR,"MF,FW",Bayern Munich,34,1989,27,7,717,8.0,2,2,4,2,0,0,1,0,4.5,4.5,1.8,6.4,23,21,71,Bundesliga,2023-2024
+Felix Passlack,de GER,DF,Bochum,25,1998,15,13,960,10.7,2,2,4,2,0,0,2,1,0.9,0.9,1.2,2.1,10,27,42,Bundesliga,2023-2024
+Patrick Mainka,de GER,DF,Heidenheim,28,1994,34,34,3060,34.0,2,0,2,2,0,0,1,0,3.2,3.2,0.1,3.2,33,122,6,Bundesliga,2023-2024
+Arne Maier,de GER,MF,Augsburg,24,1999,22,10,1003,11.1,2,4,6,2,0,0,0,0,1.5,1.5,2.3,3.9,17,64,66,Bundesliga,2023-2024
+Ian Maatsen,nl NED,DF,Dortmund,21,2002,16,15,1264,14.0,2,2,4,2,0,0,5,0,0.9,0.9,1.4,2.3,41,80,49,Bundesliga,2023-2024
+Matthijs de Ligt,nl NED,DF,Bayern Munich,23,1999,22,16,1390,15.4,2,0,2,2,0,0,5,0,1.7,1.7,0.1,1.9,16,98,6,Bundesliga,2023-2024
+David Raum,de GER,DF,RB Leipzig,25,1998,31,31,2739,30.4,2,8,10,2,0,0,6,0,0.8,0.8,7.3,8.0,77,131,246,Bundesliga,2023-2024
+Joakim Mæhle,dk DEN,"DF,MF",Wolfsburg,26,1997,30,27,2452,27.2,2,3,5,2,0,0,5,0,1.4,1.4,2.7,4.0,84,119,137,Bundesliga,2023-2024
+Julian Justvan,de GER,"MF,FW",Darmstadt 98,25,1998,14,11,1023,11.4,2,2,4,2,0,0,1,0,0.9,0.9,2.5,3.4,20,56,50,Bundesliga,2023-2024
+Hugo Larsson,se SWE,MF,Eint Frankfurt,19,2004,29,21,1886,21.0,2,1,3,2,0,0,1,0,1.3,1.3,1.4,2.7,26,68,42,Bundesliga,2023-2024
+Brenden Aaronson,us USA,"MF,FW",Union Berlin,22,2000,30,14,1267,14.1,2,2,4,2,0,0,3,1,2.0,2.0,1.9,3.8,37,56,91,Bundesliga,2023-2024
+Merlin Röhl,de GER,"MF,FW",Freiburg,21,2002,24,17,1477,16.4,2,4,6,2,0,0,3,1,2.0,2.0,2.5,4.5,44,38,87,Bundesliga,2023-2024
+Robin Koch,de GER,DF,Eint Frankfurt,27,1996,31,31,2738,30.4,2,0,2,2,0,0,10,0,3.1,3.1,0.2,3.3,14,116,3,Bundesliga,2023-2024
+Christoph Klarer,at AUT,DF,Darmstadt 98,23,2000,30,28,2354,26.2,2,2,4,2,0,0,9,0,1.2,1.2,0.9,2.1,9,64,11,Bundesliga,2023-2024
+Jadon Sancho,eng ENG,"FW,MF",Dortmund,23,2000,14,11,947,10.5,2,2,4,2,0,0,1,0,0.7,0.7,3.0,3.7,61,62,114,Bundesliga,2023-2024
+Ludovic Ajorque,fr FRA,FW,Mainz 05,29,1994,26,15,1360,15.1,2,0,2,2,0,2,4,0,5.3,3.7,1.0,4.7,5,21,88,Bundesliga,2023-2024
+Fredrik Jensen,fi FIN,"MF,FW",Augsburg,25,1997,22,18,1338,14.9,2,4,6,2,0,0,1,0,0.9,0.9,4.3,5.2,22,46,90,Bundesliga,2023-2024
+Nico Schlotterbeck,de GER,DF,Dortmund,23,1999,33,32,2859,31.8,2,1,3,2,0,0,4,0,3.0,3.0,1.9,4.9,55,186,11,Bundesliga,2023-2024
+Kristijan Jakić,hr CRO,MF,Augsburg,26,1997,14,13,1051,11.7,2,1,3,2,0,0,4,0,0.8,0.8,0.3,1.0,11,56,10,Bundesliga,2023-2024
+Jan Schöppner,de GER,MF,Heidenheim,24,1999,26,23,1998,22.2,2,2,4,2,0,0,3,0,1.1,1.1,1.5,2.6,16,72,32,Bundesliga,2023-2024
+Elvis Rexhbeçaj,xk KVX,MF,Augsburg,25,1997,25,24,1985,22.1,2,0,2,1,1,1,4,0,1.7,1.0,0.5,1.5,15,91,51,Bundesliga,2023-2024
+Miloš Veljković,rs SRB,DF,Werder Bremen,27,1995,23,21,1920,21.3,2,1,3,2,0,0,2,0,1.7,1.7,0.8,2.5,16,89,13,Bundesliga,2023-2024
+Anthony Caci,fr FRA,DF,Mainz 05,26,1997,31,29,2486,27.6,2,3,5,2,0,0,8,0,1.5,1.5,2.9,4.4,43,144,75,Bundesliga,2023-2024
+Danilho Doekhi,nl NED,DF,Union Berlin,25,1998,24,24,2160,24.0,2,0,2,2,0,0,2,0,1.2,1.2,0.2,1.3,7,65,6,Bundesliga,2023-2024
+Maximilian Arnold,de GER,MF,Wolfsburg,29,1994,30,27,2506,27.8,2,1,3,2,0,0,9,0,1.0,1.0,3.9,4.9,20,143,19,Bundesliga,2023-2024
+Emil Forsberg,se SWE,"MF,FW",RB Leipzig,31,1991,14,5,464,5.2,2,1,3,2,0,1,0,0,1.4,0.6,0.9,1.5,8,22,38,Bundesliga,2023-2024
+Emre Can,de GER,"MF,DF",Dortmund,29,1994,25,22,1953,21.7,2,2,4,0,2,2,5,0,2.2,0.6,1.5,2.0,35,110,18,Bundesliga,2023-2024
+Josha Vagnoman,de GER,DF,Stuttgart,22,2000,18,12,1183,13.1,2,2,4,2,0,0,2,0,1.3,1.3,1.3,2.6,19,33,67,Bundesliga,2023-2024
+Fares Chaïbi,dz ALG,"MF,FW",Eint Frankfurt,20,2002,28,21,1912,21.2,2,4,6,2,0,0,2,0,3.1,3.1,6.8,9.8,53,86,143,Bundesliga,2023-2024
+Timo Werner,de GER,"FW,MF",RB Leipzig,27,1996,8,2,207,2.3,2,0,2,1,1,1,0,0,2.4,1.6,0.0,1.6,10,6,32,Bundesliga,2023-2024
+Damion Downs,us USA,"FW,MF",Köln,19,2004,10,0,181,2.0,2,0,2,2,0,0,0,0,1.0,1.0,0.0,1.0,1,0,5,Bundesliga,2023-2024
+Moritz Broschinski,de GER,FW,Bochum,22,2000,26,14,1247,13.9,2,3,5,2,0,0,4,0,2.4,2.4,1.8,4.1,18,10,92,Bundesliga,2023-2024
+Patrick Wimmer,at AUT,"FW,MF",Wolfsburg,22,2001,14,8,589,6.5,2,0,2,2,0,0,3,1,1.4,1.4,0.1,1.5,8,15,44,Bundesliga,2023-2024
+John Brooks,us USA,DF,Hoffenheim,30,1993,21,18,1539,17.1,2,0,2,2,0,0,6,1,2.6,2.6,0.1,2.7,5,61,1,Bundesliga,2023-2024
+Ohis Felix Uduokhai,de GER,DF,Augsburg,25,1997,33,33,2921,32.5,2,0,2,2,0,0,5,1,1.4,1.4,0.8,2.2,25,101,6,Bundesliga,2023-2024
+Maximilian Wöber,at AUT,DF,Gladbach,25,1998,25,24,2066,23.0,2,3,5,2,0,0,4,1,1.3,1.3,1.6,2.9,32,128,23,Bundesliga,2023-2024
+Yannick Gerhardt,de GER,"MF,DF",Wolfsburg,29,1994,25,18,1630,18.1,2,1,3,2,0,0,5,0,1.9,1.9,0.9,2.8,17,49,73,Bundesliga,2023-2024
+Olivier Deman,be BEL,DF,Werder Bremen,23,2000,29,14,1365,15.2,2,1,3,2,0,0,5,0,1.1,1.1,0.9,2.0,26,40,53,Bundesliga,2023-2024
+Nick Woltemade,de GER,"FW,MF",Werder Bremen,21,2002,30,12,1189,13.2,2,0,2,2,0,0,1,0,2.4,2.4,1.7,4.1,21,43,80,Bundesliga,2023-2024
+Alphonso Davies,ca CAN,DF,Bayern Munich,22,2000,29,24,2065,22.9,2,5,7,2,0,0,0,0,1.0,1.0,2.9,3.8,121,117,139,Bundesliga,2023-2024
+Jeong Woo-yeong,kr KOR,"MF,FW",Stuttgart,23,1999,26,5,633,7.0,2,3,5,2,0,0,1,0,1.8,1.8,1.6,3.4,23,22,54,Bundesliga,2023-2024
+Christopher Antwi-Adjei,gh GHA,"FW,MF",Bochum,29,1994,25,11,1216,13.5,2,2,4,2,0,0,5,0,2.2,2.2,3.5,5.7,50,28,138,Bundesliga,2023-2024
+Niklas Stark,de GER,DF,Werder Bremen,28,1995,17,12,1088,12.1,2,0,2,2,0,0,4,0,0.2,0.2,0.0,0.2,5,37,1,Bundesliga,2023-2024
+Nico Elvedi,ch SUI,DF,Gladbach,26,1996,30,28,2482,27.6,2,1,3,2,0,0,5,0,1.6,1.6,0.1,1.7,37,109,6,Bundesliga,2023-2024
+Dion Drena Beljo,hr CRO,"FW,MF",Augsburg,21,2002,26,3,581,6.5,2,0,2,2,0,0,2,0,3.0,3.0,0.5,3.5,16,20,35,Bundesliga,2023-2024
+Julian Weigl,de GER,MF,Gladbach,27,1995,31,31,2764,30.7,2,3,5,0,2,2,10,0,2.4,0.9,2.1,2.9,14,105,14,Bundesliga,2023-2024
+Lukas Klostermann,de GER,DF,RB Leipzig,27,1996,25,16,1436,16.0,1,0,1,1,0,0,3,0,0.7,0.7,0.4,1.1,14,90,13,Bundesliga,2023-2024
+Tuta,br BRA,DF,Eint Frankfurt,24,1999,30,30,2600,28.9,1,2,3,1,0,0,3,2,1.4,1.4,2.1,3.5,22,138,46,Bundesliga,2023-2024
+Robin Knoche,de GER,DF,Union Berlin,31,1992,24,20,1917,21.3,1,0,1,1,0,1,1,0,1.2,0.4,0.3,0.7,2,71,2,Bundesliga,2023-2024
+Dominik Kohr,de GER,"DF,MF",Mainz 05,29,1994,31,27,2184,24.3,1,0,1,1,0,0,15,1,1.6,1.6,1.2,2.8,19,99,26,Bundesliga,2023-2024
+Mert Kömür,de GER,"MF,DF",Augsburg,18,2005,4,1,118,1.3,1,0,1,1,0,0,0,0,0.2,0.2,0.0,0.2,7,4,9,Bundesliga,2023-2024
+Matthias Bader,de GER,"DF,MF",Darmstadt 98,26,1997,24,21,1802,20.0,1,2,3,1,0,0,1,0,0.7,0.7,2.3,3.0,38,67,66,Bundesliga,2023-2024
+Joshua Kimmich,de GER,"MF,DF",Bayern Munich,28,1995,28,27,2176,24.2,1,6,7,1,0,0,1,1,1.1,1.1,7.1,8.3,56,229,114,Bundesliga,2023-2024
+Silvan Widmer,ch SUI,DF,Mainz 05,30,1993,20,13,1242,13.8,1,3,4,1,0,0,4,0,1.4,1.4,3.5,4.8,31,54,63,Bundesliga,2023-2024
+Mads Pedersen,dk DEN,DF,Augsburg,26,1996,27,19,1786,19.8,1,1,2,1,0,0,5,1,0.8,0.8,1.5,2.3,56,66,79,Bundesliga,2023-2024
+Yannik Keitel,de GER,"DF,MF",Freiburg,23,2000,15,11,920,10.2,1,0,1,1,0,0,0,0,0.7,0.7,0.4,1.1,4,48,7,Bundesliga,2023-2024
+Matúš Bero,sk SVK,"MF,FW",Bochum,27,1995,24,20,1661,18.5,1,1,2,1,0,0,6,0,2.9,2.9,1.3,4.2,12,48,71,Bundesliga,2023-2024
+Mikkel Kaufmann,dk DEN,FW,Union Berlin,22,2001,18,4,486,5.4,1,0,1,1,0,0,0,0,1.3,1.3,1.0,2.3,6,11,34,Bundesliga,2023-2024
+Tiago Tomás,pt POR,"FW,MF",Wolfsburg,21,2002,26,11,1032,11.5,1,1,2,1,0,0,3,0,2.7,2.7,0.8,3.5,21,17,112,Bundesliga,2023-2024
+Mahmoud Dahoud,de GER,MF,Stuttgart,27,1996,13,1,227,2.5,1,0,1,1,0,0,0,0,0.6,0.6,0.5,1.1,1,19,5,Bundesliga,2023-2024
+Bernardo,br BRA,DF,Bochum,28,1995,33,33,2924,32.5,1,0,1,1,0,0,9,0,1.9,1.9,0.5,2.4,26,127,38,Bundesliga,2023-2024
+Kevin Kampl,si SVN,MF,RB Leipzig,32,1990,26,14,1363,15.1,1,0,1,1,0,0,3,0,0.2,0.2,1.8,2.0,28,88,27,Bundesliga,2023-2024
+Randal Kolo Muani,fr FRA,FW,Eint Frankfurt,24,1998,2,2,153,1.7,1,0,1,1,0,0,0,0,1.3,1.3,0.0,1.3,6,3,9,Bundesliga,2023-2024
+Eric Martel,de GER,MF,Köln,21,2002,30,29,2457,27.3,1,1,2,1,0,0,6,0,2.2,2.2,1.1,3.3,21,75,35,Bundesliga,2023-2024
+Lennard Maloney,us USA,MF,Heidenheim,23,1999,29,27,2284,25.4,1,1,2,1,0,0,1,0,0.8,0.8,1.1,1.8,3,62,17,Bundesliga,2023-2024
+Julián Malatini,ar ARG,DF,Werder Bremen,22,2001,11,6,602,6.7,1,0,1,1,0,0,1,0,1.0,1.0,0.2,1.2,9,27,7,Bundesliga,2023-2024
+Leonardo Bonucci,it ITA,DF,Union Berlin,36,1987,7,6,460,5.1,1,0,1,0,1,1,0,0,0.8,0.0,0.3,0.3,0,21,1,Bundesliga,2023-2024
+Linton Maina,de GER,"FW,MF",Köln,24,1999,31,21,1901,21.1,1,3,4,1,0,0,4,0,1.9,1.9,3.1,5.0,109,61,169,Bundesliga,2023-2024
+Matej Maglica,hr CRO,DF,Darmstadt 98,24,1998,26,21,1698,18.9,1,0,1,1,0,0,7,2,0.6,0.6,0.7,1.2,11,62,5,Bundesliga,2023-2024
+Noah Weißhaupt,de GER,"DF,FW",Freiburg,21,2001,24,6,759,8.4,1,2,3,1,0,0,1,0,0.4,0.4,1.3,1.7,41,26,84,Bundesliga,2023-2024
+Castello Lukeba,fr FRA,DF,RB Leipzig,20,2002,32,24,2191,24.3,1,0,1,1,0,0,3,0,0.8,0.8,0.1,0.9,23,107,9,Bundesliga,2023-2024
+Anthony Losilla,fr FRA,MF,Bochum,37,1986,31,31,2576,28.6,1,2,3,1,0,0,10,0,2.3,2.3,1.5,3.7,11,100,42,Bundesliga,2023-2024
+Philipp Max,de GER,DF,Eint Frankfurt,29,1993,23,17,1350,15.0,1,2,3,1,0,0,2,0,0.2,0.2,2.8,3.0,25,63,56,Bundesliga,2023-2024
+Dan-Axel Zagadou,fr FRA,DF,Stuttgart,24,1999,19,16,1453,16.1,1,0,1,1,0,0,1,0,1.0,1.0,0.3,1.3,2,75,3,Bundesliga,2023-2024
+Marius Bülter,de GER,"DF,FW",Hoffenheim,30,1993,30,15,1351,15.0,1,4,5,1,0,0,3,1,1.4,1.4,3.4,4.9,37,60,107,Bundesliga,2023-2024
+Tom Krauß,de GER,MF,Mainz 05,22,2001,29,13,1346,15.0,1,2,3,1,0,0,5,0,0.8,0.8,0.4,1.2,12,68,29,Bundesliga,2023-2024
+Aymen Barkok,ma MAR,"MF,FW",Mainz 05,25,1998,13,1,321,3.6,1,0,1,1,0,1,2,0,1.7,0.9,0.3,1.2,14,16,33,Bundesliga,2023-2024
+Aurélio Buta,pt POR,"DF,MF",Eint Frankfurt,26,1997,30,20,1744,19.4,1,1,2,1,0,0,5,0,0.5,0.5,0.7,1.2,51,90,104,Bundesliga,2023-2024
+Marco Richter,de GER,"MF,FW",Mainz 05,25,1997,20,7,717,8.0,1,0,1,1,0,0,3,0,1.9,1.9,1.3,3.2,20,30,53,Bundesliga,2023-2024
+Maximilian Philipp,de GER,"FW,MF",Freiburg,29,1994,17,1,323,3.6,1,0,1,1,0,0,2,0,0.5,0.5,0.4,0.9,3,6,28,Bundesliga,2023-2024
+Luca Pfeiffer,de GER,"FW,MF",Darmstadt 98,26,1996,24,20,1619,18.0,1,4,5,1,0,0,3,0,4.6,4.6,1.7,6.3,15,37,81,Bundesliga,2023-2024
+Dayot Upamecano,fr FRA,DF,Bayern Munich,24,1998,25,19,1762,19.6,1,0,1,1,0,0,3,1,1.7,1.7,0.5,2.1,28,137,10,Bundesliga,2023-2024
+Lukas Kübler,de GER,DF,Freiburg,30,1992,26,22,1847,20.5,1,0,1,1,0,0,7,0,0.6,0.6,0.3,0.9,13,70,32,Bundesliga,2023-2024
+Sargis Adamyan,am ARM,"FW,MF",Köln,30,1993,20,8,801,8.9,1,2,3,1,0,0,2,0,4.1,4.1,2.0,6.1,15,18,42,Bundesliga,2023-2024
+Rogério,br BRA,DF,Wolfsburg,25,1998,13,10,906,10.1,1,0,1,1,0,0,0,0,0.3,0.3,0.4,0.7,27,57,42,Bundesliga,2023-2024
+Leonardo Bittencourt,de GER,MF,Werder Bremen,29,1993,29,19,1578,17.5,1,2,3,1,0,0,9,0,2.2,2.2,2.9,5.2,61,85,74,Bundesliga,2023-2024
+Kim Min-jae,kr KOR,DF,Bayern Munich,26,1996,25,22,1970,21.9,1,1,2,1,0,0,3,0,0.8,0.8,0.4,1.2,14,131,3,Bundesliga,2023-2024
+Odilon Kossounou,ci CIV,DF,Leverkusen,22,2001,22,21,1811,20.1,1,0,1,1,0,0,3,0,0.6,0.6,0.7,1.3,48,141,23,Bundesliga,2023-2024
+Manu Koné,fr FRA,MF,Gladbach,22,2001,22,18,1561,17.3,1,0,1,1,0,0,4,1,1.2,1.2,1.2,2.4,42,70,56,Bundesliga,2023-2024
+Philipp Lienhart,at AUT,DF,Freiburg,27,1996,15,14,1265,14.1,1,0,1,1,0,0,3,0,1.1,1.1,1.1,2.2,14,53,3,Bundesliga,2023-2024
+Felix Nmecha,de GER,MF,Dortmund,22,2000,20,10,1021,11.3,1,2,3,1,0,0,3,0,1.7,1.7,0.9,2.6,19,45,28,Bundesliga,2023-2024
+Ridle Baku,de GER,"DF,MF",Wolfsburg,25,1998,33,22,2013,22.4,1,0,1,1,0,0,4,0,1.8,1.8,3.0,4.8,37,85,130,Bundesliga,2023-2024
+Nicolas Höfler,de GER,MF,Freiburg,33,1990,28,26,2330,25.9,1,1,2,1,0,0,10,1,0.7,0.7,0.4,1.1,14,94,15,Bundesliga,2023-2024
+Mattias Svanberg,se SWE,MF,Wolfsburg,24,1999,25,20,1715,19.1,1,3,4,1,0,0,8,0,3.0,3.0,2.3,5.3,28,84,52,Bundesliga,2023-2024
+Piero Hincapié,ec ECU,DF,Leverkusen,21,2002,26,16,1484,16.5,1,2,3,1,0,0,2,0,1.9,1.9,0.5,2.5,34,102,50,Bundesliga,2023-2024
+Aaron Seydel,de GER,FW,Darmstadt 98,27,1996,16,5,619,6.9,1,0,1,1,0,0,1,0,1.0,1.0,0.7,1.7,7,10,35,Bundesliga,2023-2024
+Benjamin Henrichs,de GER,DF,RB Leipzig,26,1997,33,28,2526,28.1,1,5,6,1,0,0,5,0,2.5,2.5,4.4,6.9,53,124,161,Bundesliga,2023-2024
+Adrian Beck,de GER,"MF,FW",Heidenheim,26,1997,23,11,974,10.8,1,1,2,1,0,0,1,0,1.7,1.7,0.8,2.5,17,29,43,Bundesliga,2023-2024
+Niklas Süle,de GER,DF,Dortmund,27,1995,23,14,1514,16.8,1,0,1,1,0,0,0,0,0.4,0.4,0.2,0.6,19,83,9,Bundesliga,2023-2024
+Skelly Alvero,fr FRA,MF,Werder Bremen,21,2002,6,1,123,1.4,1,0,1,1,0,0,1,0,0.3,0.3,0.0,0.4,1,9,6,Bundesliga,2023-2024
+Karim Onisiwo,at AUT,"FW,MF",Mainz 05,31,1992,24,17,1493,16.6,1,3,4,1,0,0,1,0,2.3,2.3,1.3,3.7,26,27,111,Bundesliga,2023-2024
+Andreas Hanche-Olsen,no NOR,DF,Mainz 05,26,1997,15,12,992,11.0,1,0,1,1,0,0,5,0,0.7,0.7,0.0,0.7,1,19,0,Bundesliga,2023-2024
+Marco Friedl,at AUT,DF,Werder Bremen,25,1998,25,25,2197,24.4,1,0,1,1,0,0,6,0,0.2,0.2,0.1,0.3,4,59,2,Bundesliga,2023-2024
+Max Finkgräfe,de GER,"DF,FW",Köln,19,2004,24,18,1756,19.5,1,0,1,1,0,0,4,0,1.0,1.0,1.6,2.6,51,53,59,Bundesliga,2023-2024
+Janik Haberer,de GER,"MF,DF",Union Berlin,29,1994,21,14,1221,13.6,1,1,2,1,0,0,7,0,0.9,0.8,0.6,1.3,10,47,36,Bundesliga,2023-2024
+Christian Günter,de GER,DF,Freiburg,30,1993,15,13,1060,11.8,1,2,3,1,0,0,1,0,0.5,0.5,2.1,2.6,15,23,63,Bundesliga,2023-2024
+Angelo Stiller,de GER,MF,Stuttgart,22,2001,31,30,2694,29.9,1,5,6,1,0,0,5,0,1.6,1.6,5.1,6.7,37,220,71,Bundesliga,2023-2024
+Manuel Gulde,de GER,DF,Freiburg,32,1991,27,23,2047,22.7,1,0,1,1,0,0,5,1,1.1,1.1,0.1,1.2,10,74,3,Bundesliga,2023-2024
+Hrvoje Smolčić,hr CRO,DF,Eint Frankfurt,22,2000,11,3,347,3.9,1,0,1,1,0,0,0,0,1.0,1.0,0.0,1.0,0,14,0,Bundesliga,2023-2024
+Lovro Zvonarek,hr CRO,"FW,MF",Bayern Munich,18,2005,5,1,163,1.8,1,0,1,1,0,0,0,0,0.1,0.1,0.2,0.3,7,7,9,Bundesliga,2023-2024
+Ivan Ordets,ua UKR,DF,Bochum,31,1992,24,21,1880,20.9,1,0,1,1,0,0,4,0,1.3,1.3,0.5,1.8,5,44,7,Bundesliga,2023-2024
+Leonidas Stergiou,ch SUI,DF,Stuttgart,21,2002,15,6,594,6.6,1,0,1,1,0,0,0,0,0.4,0.4,0.4,0.8,6,17,22,Bundesliga,2023-2024
+Florian Grillitsch,at AUT,"DF,MF",Hoffenheim,27,1995,30,25,2295,25.5,1,6,7,1,0,0,8,0,1.2,1.2,1.7,2.9,32,152,22,Bundesliga,2023-2024
+Maximilian Bauer,de GER,DF,Augsburg,23,2000,14,9,810,9.0,1,0,1,1,0,0,3,0,1.4,1.4,0.0,1.4,2,25,1,Bundesliga,2023-2024
+Benedikt Gimber,de GER,DF,Heidenheim,26,1997,24,24,2021,22.5,1,1,2,1,0,0,9,0,1.4,1.4,1.1,2.5,3,25,6,Bundesliga,2023-2024
+Jeffrey Gouweleeuw,nl NED,DF,Augsburg,32,1991,30,29,2593,28.8,1,0,1,1,0,0,7,0,1.3,1.3,1.8,3.2,33,143,17,Bundesliga,2023-2024
+Jamie Gittens,eng ENG,"FW,MF",Dortmund,18,2004,25,14,1058,11.8,1,4,5,1,0,0,1,0,2.2,2.2,2.8,5.0,64,26,105,Bundesliga,2023-2024
+Fabian Nürnberger,bg BUL,"DF,MF",Darmstadt 98,24,1999,21,17,1513,16.8,1,1,2,1,0,0,2,0,0.9,0.9,2.0,3.0,35,70,91,Bundesliga,2023-2024
+Jan Thielmann,de GER,"FW,DF",Köln,21,2002,22,20,1579,17.5,1,0,1,1,0,0,4,1,2.3,2.3,1.1,3.3,46,51,69,Bundesliga,2023-2024
+Lukas Nmecha,de GER,FW,Wolfsburg,24,1998,3,0,42,0.5,1,0,1,1,0,0,0,0,0.1,0.1,0.0,0.2,0,1,5,Bundesliga,2023-2024
+Nadiem Amiri,de GER,MF,Mainz 05,26,1996,15,15,1315,14.6,1,4,5,1,0,1,5,0,2.2,1.4,4.3,5.7,16,88,22,Bundesliga,2023-2024
+Kevin Behrens,de GER,FW,Wolfsburg,32,1991,13,7,616,6.8,1,1,2,1,0,0,1,0,1.6,1.6,0.9,2.5,7,17,41,Bundesliga,2023-2024
+Phillipp Mwene,at AUT,DF,Mainz 05,29,1994,23,23,1996,22.2,1,2,3,1,0,0,4,1,1.4,1.4,2.0,3.4,50,73,93,Bundesliga,2023-2024
+Iago,br BRA,DF,Augsburg,26,1997,23,18,1622,18.0,1,1,2,1,0,0,4,0,1.4,1.4,1.6,3.0,24,54,51,Bundesliga,2023-2024
+Anthony Jung,de GER,DF,Werder Bremen,31,1991,31,30,2579,28.7,1,0,1,1,0,0,4,1,0.6,0.6,0.3,1.0,24,107,21,Bundesliga,2023-2024
+Miloš Pantović,rs SRB,MF,Union Berlin,27,1996,1,0,15,0.2,1,0,1,1,0,0,0,0,0.8,0.8,0.0,0.8,1,0,1,Bundesliga,2023-2024
+Maximilian Eggestein,de GER,MF,Freiburg,26,1996,33,33,2914,32.4,1,2,3,1,0,0,6,0,2.4,2.4,2.8,5.2,42,162,72,Bundesliga,2023-2024
+Chris Bedia,ci CIV,"FW,MF",Union Berlin,27,1996,7,0,145,1.6,1,0,1,1,0,0,0,0,0.2,0.2,0.2,0.4,1,1,6,Bundesliga,2023-2024
+András Schäfer,hu HUN,MF,Union Berlin,24,1999,20,14,1214,13.5,1,2,3,1,0,0,1,1,1.8,1.8,1.5,3.2,37,59,71,Bundesliga,2023-2024
+Mathias Honsak,at AUT,"FW,MF",Darmstadt 98,26,1996,23,10,1021,11.3,1,1,2,1,0,0,1,0,1.8,1.8,0.7,2.5,22,19,62,Bundesliga,2023-2024
+David Datro Fofana,ci CIV,"FW,MF",Union Berlin,20,2002,12,8,682,7.6,1,0,1,1,0,0,0,0,2.8,2.8,0.3,3.1,20,14,66,Bundesliga,2023-2024
+Lukas Daschner,de GER,"MF,FW",Bochum,24,1998,20,3,536,6.0,1,1,2,1,0,0,2,0,2.3,2.3,1.0,3.3,11,17,37,Bundesliga,2023-2024
+Nacho Ferri,es ESP,"FW,MF",Eint Frankfurt,18,2004,8,0,74,0.8,1,0,1,1,0,0,0,0,1.2,1.2,0.0,1.2,0,2,8,Bundesliga,2023-2024
+Joe Scally,us USA,DF,Gladbach,20,2002,31,25,2236,24.8,1,4,5,1,0,0,4,0,0.6,0.6,1.4,1.9,39,75,75,Bundesliga,2023-2024
+Christoph Zimmermann,de GER,DF,Darmstadt 98,30,1993,19,12,1220,13.6,0,0,0,0,0,0,5,0,0.3,0.3,0.1,0.4,7,34,1,Bundesliga,2023-2024
+Leon Opitz,de GER,"FW,DF",Werder Bremen,18,2005,3,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,2,Bundesliga,2023-2024
+Willi Orban,hu HUN,DF,RB Leipzig,30,1992,19,18,1582,17.6,0,0,0,0,0,0,2,0,0.4,0.4,0.4,0.8,7,97,10,Bundesliga,2023-2024
+Waldemar Anton,de GER,DF,Stuttgart,27,1996,33,32,2886,32.1,0,3,3,0,0,0,7,0,1.7,1.7,1.0,2.7,38,172,15,Bundesliga,2023-2024
+Jiří Pavlenka,cz CZE,GK,Werder Bremen,31,1992,7,7,630,7.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Simon Zoller,de GER,"FW,MF",Bochum,32,1991,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Jordan Pefok,us USA,FW,Union Berlin,27,1996,1,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,0,0,1,Bundesliga,2023-2024
+Michael Zetterer,de GER,GK,Werder Bremen,28,1995,27,27,2430,27.0,0,0,0,0,0,0,2,0,0.1,0.1,0.2,0.3,0,3,0,Bundesliga,2023-2024
+Amos Pieper,de GER,DF,Werder Bremen,25,1998,7,7,590,6.6,0,0,0,0,0,0,0,0,0.5,0.5,0.8,1.2,3,24,3,Bundesliga,2023-2024
+Matteo Perez Vinlöf,se SWE,FW,Bayern Munich,17,2005,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Bundesliga,2023-2024
+Robin Zentner,de GER,GK,Mainz 05,28,1994,30,30,2700,30.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2023-2024
+Pavao Pervan,at AUT,GK,Wolfsburg,35,1987,9,9,810,9.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Jens Petter Hauge,no NOR,"MF,FW",Eint Frankfurt,23,1999,10,0,147,1.6,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,7,6,15,Bundesliga,2023-2024
+Kofi Amoako,de GER,MF,Wolfsburg,18,2005,2,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Bryan Zaragoza,es ESP,"FW,MF",Bayern Munich,22,2001,7,1,183,2.0,0,0,0,0,0,0,1,0,0.5,0.5,0.2,0.7,14,9,28,Bundesliga,2023-2024
+Nadiem Amiri,de GER,MF,Leverkusen,26,1996,8,1,86,1.0,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.2,5,6,6,Bundesliga,2023-2024
+Daniel Peretz,il ISR,GK,Bayern Munich,23,2000,1,0,17,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Cedric Zesiger,ch SUI,DF,Wolfsburg,25,1998,23,18,1634,18.2,0,0,0,0,0,0,5,0,1.3,1.3,0.0,1.4,14,81,3,Bundesliga,2023-2024
+Florian Pick,de GER,"MF,FW",Heidenheim,27,1995,22,1,327,3.6,0,1,1,0,0,0,2,0,0.3,0.3,0.8,1.1,12,12,34,Bundesliga,2023-2024
+Willian Pacho,ec ECU,DF,Eint Frankfurt,21,2001,33,33,2970,33.0,0,3,3,0,0,0,7,0,1.2,1.2,1.1,2.3,22,148,4,Bundesliga,2023-2024
+Antonios Papadopoulos,de GER,DF,Dortmund,23,1999,2,1,117,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2023-2024
+Merveille Papela,de GER,"MF,DF",Mainz 05,22,2001,11,3,257,2.9,0,0,0,0,0,0,1,0,0.3,0.3,0.3,0.6,6,12,10,Bundesliga,2023-2024
+Leart Paqarada,xk KVX,DF,Köln,28,1994,17,11,1075,11.9,0,0,0,0,0,0,0,0,0.4,0.4,1.7,2.1,26,45,29,Bundesliga,2023-2024
+Salih Özcan,tr TUR,MF,Dortmund,25,1998,23,13,1184,13.2,0,0,0,0,0,0,3,0,0.2,0.2,1.0,1.2,16,57,24,Bundesliga,2023-2024
+Dženan Pejčinović,de GER,FW,Wolfsburg,18,2005,4,0,37,0.4,0,0,0,0,0,0,1,0,0.1,0.1,0.1,0.3,1,0,2,Bundesliga,2023-2024
+Patric Pfeiffer,de GER,DF,Augsburg,23,1999,11,4,511,5.7,0,1,1,0,0,0,0,0,0.5,0.5,0.8,1.3,1,19,4,Bundesliga,2023-2024
+Bouna Sarr,sn SEN,DF,Bayern Munich,31,1992,2,1,106,1.2,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.2,3,2,4,Bundesliga,2023-2024
+Stefan Schimmer,de GER,"MF,FW",Heidenheim,29,1994,16,0,153,1.7,0,1,1,0,0,0,0,0,0.6,0.6,0.9,1.5,1,2,12,Bundesliga,2023-2024
+Xaver Schlager,at AUT,MF,RB Leipzig,25,1997,29,29,2477,27.5,0,5,5,0,0,0,7,0,1.1,1.1,2.6,3.6,73,230,45,Bundesliga,2023-2024
+Umut Tohumcu,de GER,MF,Hoffenheim,18,2004,20,12,1011,11.2,0,2,2,0,0,0,5,0,0.5,0.5,1.1,1.6,18,46,27,Bundesliga,2023-2024
+Denis Thomalla,de GER,"MF,FW",Heidenheim,30,1992,21,3,446,5.0,0,0,0,0,0,0,0,0,0.3,0.3,0.4,0.7,3,22,19,Bundesliga,2023-2024
+Kenneth Schmidt,de GER,DF,Freiburg,21,2002,5,0,68,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,2,4,3,Bundesliga,2023-2024
+Benno Schmitz,de GER,DF,Köln,28,1994,22,13,1155,12.8,0,1,1,0,0,0,5,0,0.2,0.2,0.3,0.5,27,70,47,Bundesliga,2023-2024
+Fabian Schnellhardt,de GER,MF,Darmstadt 98,29,1994,10,2,235,2.6,0,0,0,0,0,0,1,0,0.2,0.2,0.1,0.3,6,15,9,Bundesliga,2023-2024
+Norman Theuerkauf,de GER,"MF,DF",Heidenheim,36,1987,25,14,1259,14.0,0,1,1,0,0,0,3,0,0.4,0.4,0.8,1.2,15,46,17,Bundesliga,2023-2024
+Marcel Schuhen,de GER,GK,Darmstadt 98,30,1993,31,31,2790,31.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,5,0,Bundesliga,2023-2024
+Marvin Schwäbe,de GER,GK,Köln,28,1995,34,34,3060,34.0,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,0,3,0,Bundesliga,2023-2024
+Alexander Schwolow,de GER,GK,Union Berlin,31,1992,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Samuel Bamba,de GER,FW,Dortmund,19,2004,2,0,47,0.5,0,0,0,0,0,0,0,0,0.3,0.3,0.1,0.3,5,2,7,Bundesliga,2023-2024
+Edmond Tapsoba,bf BFA,DF,Leverkusen,24,1999,28,23,2087,23.2,0,1,1,0,0,0,4,0,1.0,1.0,1.0,2.0,49,164,12,Bundesliga,2023-2024
+Attila Szalai,hu HUN,DF,Freiburg,25,1998,3,0,103,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,1,5,0,Bundesliga,2023-2024
+Attila Szalai,hu HUN,DF,Hoffenheim,25,1998,4,4,288,3.2,0,0,0,0,0,0,1,0,0.0,0.0,0.5,0.5,2,13,3,Bundesliga,2023-2024
+Tim Siersleben,de GER,DF,Heidenheim,23,2000,14,10,910,10.1,0,0,0,0,0,0,1,0,0.2,0.2,0.5,0.7,12,48,1,Bundesliga,2023-2024
+Kiliann Sildillia,fr FRA,DF,Freiburg,21,2002,27,20,1806,20.1,0,1,1,0,0,0,2,1,0.6,0.6,0.8,1.4,22,70,58,Bundesliga,2023-2024
+Filip Stojilković,ch SUI,"FW,MF",Darmstadt 98,23,2000,6,0,154,1.7,0,0,0,0,0,0,1,0,0.2,0.2,0.0,0.2,4,3,10,Bundesliga,2023-2024
+Arthur,br BRA,DF,Leverkusen,20,2003,4,2,184,2.0,0,2,2,0,0,0,0,0,0.1,0.1,0.3,0.4,8,7,28,Bundesliga,2023-2024
+Danilo Soares,br BRA,DF,Bochum,31,1991,5,3,351,3.9,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,3,15,8,Bundesliga,2023-2024
+Angelo Stiller,de GER,MF,Hoffenheim,22,2001,1,1,84,0.9,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,2,7,3,Bundesliga,2023-2024
+Borna Sosa,hr CRO,"FW,DF",Stuttgart,25,1998,2,0,46,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.3,0.3,5,2,10,Bundesliga,2023-2024
+Pascal Stenzel,de GER,DF,Stuttgart,27,1996,23,14,1064,11.8,0,5,5,0,0,0,3,1,0.3,0.3,3.2,3.5,34,85,46,Bundesliga,2023-2024
+Jonathan Asp Jensen,dk DEN,FW,Bayern Munich,17,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Anton Stach,de GER,MF,Mainz 05,24,1998,2,2,170,1.9,0,0,0,0,0,0,0,0,0.2,0.2,0.1,0.3,3,8,10,Bundesliga,2023-2024
+Nicolas Seiwald,at AUT,MF,RB Leipzig,22,2001,21,6,718,8.0,0,2,2,0,0,0,1,0,0.0,0.0,0.3,0.3,3,33,4,Bundesliga,2023-2024
+Ole Pohlmann,de GER,MF,Dortmund,22,2001,2,0,54,0.6,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0,0,4,Bundesliga,2023-2024
+Sebastian Polter,de GER,FW,Darmstadt 98,32,1991,9,4,446,5.0,0,1,1,0,0,0,0,0,1.0,1.0,0.6,1.5,5,13,26,Bundesliga,2023-2024
+Marius Wolf,de GER,DF,Dortmund,28,1995,22,12,1166,13.0,0,1,1,0,0,0,2,0,0.6,0.6,1.6,2.2,36,59,79,Bundesliga,2023-2024
+Gustavo Puerta,co COL,"DF,MF",Leverkusen,20,2003,7,0,46,0.5,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,1,8,1,Bundesliga,2023-2024
+Luca Raimund,de GER,"FW,MF",Stuttgart,18,2005,3,0,30,0.3,0,0,0,0,0,0,1,0,0.9,0.9,0.0,0.9,0,1,2,Bundesliga,2023-2024
+Grant Ranos,am ARM,"MF,FW",Gladbach,20,2003,9,0,49,0.5,0,0,0,0,0,0,0,0,0.3,0.3,0.0,0.3,0,3,4,Bundesliga,2023-2024
+Nicolai Rapp,de GER,DF,Werder Bremen,26,1996,2,1,76,0.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,1,2,0,Bundesliga,2023-2024
+Gio Reyna,us USA,"MF,FW",Dortmund,20,2002,11,1,280,3.1,0,0,0,0,0,0,1,0,0.8,0.8,0.8,1.6,8,20,19,Bundesliga,2023-2024
+Clemens Riedel,de GER,DF,Darmstadt 98,20,2003,14,9,755,8.4,0,0,0,0,0,0,2,0,0.3,0.3,0.7,1.0,4,47,27,Bundesliga,2023-2024
+Mark Uth,de GER,"MF,FW",Köln,31,1991,11,3,373,4.1,0,1,1,0,0,0,2,0,2.0,2.0,1.4,3.4,12,13,29,Bundesliga,2023-2024
+Manuel Riemann,de GER,GK,Bochum,34,1988,33,33,2970,33.0,0,0,0,0,0,0,5,0,0.0,0.0,0.2,0.2,0,19,0,Bundesliga,2023-2024
+Sebastian Rode,de GER,MF,Eint Frankfurt,32,1990,8,1,61,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,3,11,4,Bundesliga,2023-2024
+Asaf Arania,il ISR,MF,Darmstadt 98,17,2005,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,2,Bundesliga,2023-2024
+Noah Atubolu,de GER,GK,Freiburg,21,2002,34,34,3060,34.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2023-2024
+Frank Ronstadt,de GER,"DF,MF",Darmstadt 98,26,1997,4,0,76,0.8,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,3,2,4,Bundesliga,2023-2024
+Anthony Rouault,fr FRA,DF,Stuttgart,22,2001,22,11,1010,11.2,0,2,2,0,0,0,3,0,0.1,0.1,0.8,0.9,8,68,10,Bundesliga,2023-2024
+Jérôme Roussillon,fr FRA,DF,Union Berlin,30,1993,23,8,752,8.4,0,1,1,0,0,0,2,0,0.3,0.3,0.6,0.9,10,38,29,Bundesliga,2023-2024
+Fabian Rüdlin,de GER,MF,Freiburg,26,1997,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2023-2024
+Lukas Ullrich,de GER,"DF,FW",Gladbach,19,2004,4,0,47,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,6,Bundesliga,2023-2024
+Christopher Trimmel,at AUT,DF,Union Berlin,36,1987,26,19,1646,18.3,0,2,2,0,0,0,2,1,0.6,0.5,2.1,2.6,23,86,65,Bundesliga,2023-2024
+Frederik Rønnow,dk DEN,GK,Union Berlin,30,1992,33,33,2970,33.0,0,0,0,0,0,0,2,0,0.1,0.1,0.1,0.2,0,1,0,Bundesliga,2023-2024
+Kevin Trapp,de GER,GK,Eint Frankfurt,33,1990,32,32,2880,32.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2023-2024
+Omar Traoré,de GER,DF,Heidenheim,25,1998,31,29,2472,27.5,0,2,2,0,0,0,5,0,0.3,0.3,1.3,1.6,61,78,91,Bundesliga,2023-2024
+Lucas Tousart,fr FRA,MF,Union Berlin,26,1997,23,18,1572,17.5,0,0,0,0,0,0,5,0,1.5,1.5,0.9,2.4,15,51,33,Bundesliga,2023-2024
+Diadie Samassékou,ml MLI,MF,Hoffenheim,27,1996,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Fabio Torsiello,it ITA,"FW,DF",Darmstadt 98,18,2005,10,1,156,1.7,0,0,0,0,0,0,0,0,0.3,0.3,0.0,0.3,2,4,8,Bundesliga,2023-2024
+Amin Sarr,se SWE,"FW,MF",Wolfsburg,22,2001,14,2,386,4.3,0,0,0,0,0,0,0,0,0.6,0.6,0.2,0.7,3,12,26,Bundesliga,2023-2024
+Sven Ulreich,de GER,GK,Bayern Munich,34,1988,11,11,990,11.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Marvin Friedrich,de GER,DF,Gladbach,27,1995,24,17,1566,17.4,0,0,0,0,0,0,1,0,0.6,0.6,0.2,0.7,2,34,4,Bundesliga,2023-2024
+Bartol Franjić,hr CRO,MF,Darmstadt 98,23,2000,20,14,1229,13.7,0,1,1,0,0,0,5,0,0.3,0.3,0.2,0.5,13,50,14,Bundesliga,2023-2024
+Philipp Förster,de GER,"MF,FW",Bochum,28,1995,13,3,385,4.3,0,0,0,0,0,0,1,0,0.5,0.5,0.5,0.9,7,21,19,Bundesliga,2023-2024
+Jonas Föhrenbach,de GER,DF,Heidenheim,27,1996,33,32,2788,31.0,0,0,0,0,0,0,2,0,0.5,0.5,0.8,1.3,44,96,69,Bundesliga,2023-2024
+Kilian Fischer,de GER,"DF,MF",Wolfsburg,22,2000,6,4,291,3.2,0,0,0,0,0,0,1,0,0.1,0.1,0.1,0.2,6,6,9,Bundesliga,2023-2024
+Edimilson Fernandes,ch SUI,DF,Mainz 05,27,1996,21,13,1290,14.3,0,2,2,0,0,0,4,0,0.5,0.5,0.7,1.3,9,53,9,Bundesliga,2023-2024
+Elif Elmas,mk MKD,"MF,FW",RB Leipzig,23,1999,14,2,266,3.0,0,0,0,0,0,0,0,0,0.8,0.8,0.1,0.9,9,9,18,Bundesliga,2023-2024
+Lilian Egloff,de GER,"MF,DF",Stuttgart,20,2002,5,1,106,1.2,0,0,0,0,0,0,1,0,0.2,0.2,0.0,0.2,2,2,2,Bundesliga,2023-2024
+Julien Duranville,be BEL,"FW,MF",Dortmund,17,2006,2,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,1,Bundesliga,2023-2024
+Christian Kühlwetter,de GER,MF,Heidenheim,27,1996,1,0,8,0.1,0,1,1,0,0,0,0,0,0.0,0.0,0.6,0.6,1,0,0,Bundesliga,2023-2024
+Niklas Dorsch,de GER,MF,Augsburg,25,1998,21,16,1386,15.4,0,0,0,0,0,0,5,0,0.7,0.7,0.1,0.8,12,47,12,Bundesliga,2023-2024
+Florian Dietz,de GER,"FW,MF",Köln,24,1998,5,0,70,0.8,0,0,0,0,0,0,0,0,0.3,0.3,0.1,0.4,0,0,8,Bundesliga,2023-2024
+Eric Dier,eng ENG,DF,Bayern Munich,29,1994,15,13,1166,13.0,0,0,0,0,0,0,1,0,0.7,0.7,0.1,0.7,8,53,1,Bundesliga,2023-2024
+Justin Diehl,de GER,"FW,MF",Köln,18,2004,7,1,168,1.9,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,6,2,17,Bundesliga,2023-2024
+Samuele Di Benedetto,de GER,MF,Stuttgart,18,2005,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Bundesliga,2023-2024
+Finn Dahmen,de GER,GK,Augsburg,25,1998,31,31,2790,31.0,0,0,0,0,0,0,4,0,0.0,0.0,0.1,0.1,0,3,0,Bundesliga,2023-2024
+Nicolas Cozza,fr FRA,DF,Wolfsburg,24,1999,6,3,276,3.1,0,0,0,0,0,0,1,0,0.0,0.0,0.1,0.1,5,16,8,Bundesliga,2023-2024
+Danny da Costa,de GER,DF,Mainz 05,30,1993,19,9,830,9.2,0,1,1,0,0,0,1,0,0.3,0.3,1.2,1.5,22,40,53,Bundesliga,2023-2024
+Bambasé Conté,de GER,"MF,FW",Hoffenheim,20,2003,7,0,48,0.5,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.2,3,2,8,Bundesliga,2023-2024
+Tim Drexler,de GER,DF,Hoffenheim,18,2005,8,6,573,6.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,6,12,0,Bundesliga,2023-2024
+Patrick Herrmann,de GER,"FW,DF",Gladbach,32,1991,8,0,86,1.0,0,0,0,0,0,0,1,0,0.2,0.2,0.1,0.3,3,6,8,Bundesliga,2023-2024
+Dominique Heintz,de GER,DF,Köln,29,1993,12,6,568,6.3,0,0,0,0,0,0,0,0,0.0,0.0,0.5,0.5,10,30,16,Bundesliga,2023-2024
+Thorgan Hazard,be BEL,DF,Dortmund,30,1993,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,2,1,Bundesliga,2023-2024
+Makoto Hasebe,jp JPN,"DF,MF",Eint Frankfurt,39,1984,8,2,218,2.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,10,3,Bundesliga,2023-2024
+Genki Haraguchi,jp JPN,MF,Stuttgart,32,1991,2,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,3,0,Bundesliga,2023-2024
+Isak Hansen-Aarøen,no NOR,MF,Werder Bremen,18,2004,3,0,27,0.3,0,0,0,0,0,0,1,0,0.0,0.0,0.1,0.1,2,2,3,Bundesliga,2023-2024
+Sébastien Haller,ci CIV,FW,Dortmund,29,1994,14,5,396,4.4,0,1,1,0,0,0,2,0,0.9,0.9,0.7,1.7,11,11,34,Bundesliga,2023-2024
+Robert Gumny,pl POL,DF,Augsburg,25,1998,13,6,481,5.3,0,0,0,0,0,0,3,0,0.2,0.2,0.1,0.3,9,18,17,Bundesliga,2023-2024
+Péter Gulácsi,hu HUN,GK,RB Leipzig,33,1990,13,13,1170,13.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2023-2024
+Shiō Fukuda,jp JPN,"FW,MF",Gladbach,19,2004,5,0,36,0.4,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.2,0,0,2,Bundesliga,2023-2024
+Ilia Gruev,bg BUL,MF,Werder Bremen,23,2000,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Christian Groß,de GER,"DF,MF",Werder Bremen,34,1989,20,8,797,8.9,0,1,1,0,0,0,1,0,0.3,0.3,0.4,0.7,17,46,5,Bundesliga,2023-2024
+Ryan Gravenberch,nl NED,FW,Bayern Munich,21,2002,1,0,10,0.1,0,0,0,0,0,0,1,0,0.0,0.0,0.2,0.2,0,1,3,Bundesliga,2023-2024
+Jens Grahl,de GER,GK,Eint Frankfurt,34,1988,2,2,180,2.0,0,1,1,0,0,0,0,0,0.0,0.0,0.2,0.2,0,0,0,Bundesliga,2023-2024
+Klaus Gjasula,al ALB,"DF,MF",Darmstadt 98,33,1989,22,17,1363,15.1,0,0,0,0,0,0,7,1,0.5,0.5,0.2,0.6,8,70,7,Bundesliga,2023-2024
+Matthias Ginter,de GER,DF,Freiburg,29,1994,23,22,1913,21.3,0,2,2,0,0,0,3,0,1.4,1.4,1.4,2.8,23,136,20,Bundesliga,2023-2024
+Anwar El Ghazi,nl NED,"MF,DF",Mainz 05,28,1995,3,0,54,0.6,0,1,1,0,0,0,0,0,0.1,0.1,0.2,0.4,2,4,5,Bundesliga,2023-2024
+Dennis Geiger,de GER,MF,Hoffenheim,25,1998,3,0,64,0.7,0,0,0,0,0,0,1,0,0.0,0.0,0.2,0.2,1,3,2,Bundesliga,2023-2024
+Cristian Gamboa,cr CRC,DF,Bochum,33,1989,22,12,1187,13.2,0,1,1,0,0,0,6,0,0.1,0.1,0.5,0.6,12,33,16,Bundesliga,2023-2024
+Niclas Füllkrug,de GER,FW,Werder Bremen,30,1993,2,2,180,2.0,0,0,0,0,0,0,0,0,0.5,0.5,0.3,0.7,2,9,12,Bundesliga,2023-2024
+Josuha Guilavogui,fr FRA,DF,Mainz 05,32,1990,11,5,409,4.5,0,1,1,0,0,0,1,0,0.0,0.0,0.1,0.1,1,9,1,Bundesliga,2023-2024
+Tom Bischof,de GER,"MF,FW",Hoffenheim,18,2005,13,1,178,2.0,0,2,2,0,0,0,0,0,0.4,0.4,0.8,1.2,2,18,18,Bundesliga,2023-2024
+Pep Biel,es ESP,"MF,FW",Augsburg,26,1996,11,0,285,3.2,0,0,0,0,0,0,1,0,1.0,1.0,0.2,1.2,2,16,16,Bundesliga,2023-2024
+Mergim Berisha,de GER,FW,Augsburg,25,1998,2,2,122,1.4,0,0,0,0,0,0,0,0,0.2,0.2,0.1,0.3,3,1,5,Bundesliga,2023-2024
+Mergim Berisha,de GER,FW,Hoffenheim,25,1998,6,0,144,1.6,0,0,0,0,0,0,0,0,0.5,0.5,0.3,0.8,2,3,13,Bundesliga,2023-2024
+Ramy Bensebaini,dz ALG,DF,Dortmund,28,1995,17,11,1033,11.5,0,0,0,0,0,0,4,1,1.7,1.7,0.4,2.1,17,75,63,Bundesliga,2023-2024
+Stefan Bell,de GER,DF,Mainz 05,31,1991,10,8,666,7.4,0,0,0,0,0,0,3,0,0.2,0.2,0.1,0.3,0,23,2,Bundesliga,2023-2024
+Donny van de Beek,nl NED,"MF,FW",Eint Frankfurt,26,1997,8,4,357,4.0,0,0,0,0,0,0,1,0,0.1,0.1,0.4,0.5,2,10,12,Bundesliga,2023-2024
+Sheraldo Becker,sr SUR,"FW,MF",Union Berlin,28,1995,11,7,645,7.2,0,1,1,0,0,0,0,0,0.8,0.8,1.8,2.6,32,20,73,Bundesliga,2023-2024
+Oliver Baumann,de GER,GK,Hoffenheim,33,1990,34,34,3060,34.0,0,1,1,0,0,0,1,0,0.0,0.0,0.2,0.2,0,1,0,Bundesliga,2023-2024
+Nnamdi Collins,de GER,DF,Eint Frankfurt,19,2004,2,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,13,5,Bundesliga,2023-2024
+Daniel Batz,de GER,GK,Mainz 05,32,1991,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Nelson Weiper,de GER,"FW,MF",Mainz 05,18,2005,5,1,124,1.4,0,0,0,0,0,0,0,0,0.5,0.5,0.2,0.6,6,2,20,Bundesliga,2023-2024
+Kjell-Arik Wätjen,de GER,"MF,FW",Dortmund,17,2006,2,1,105,1.2,0,1,1,0,0,0,0,0,0.0,0.0,1.2,1.2,3,8,1,Bundesliga,2023-2024
+Aster Vranckx,be BEL,MF,Wolfsburg,20,2002,24,12,1153,12.8,0,0,0,0,0,0,6,0,0.1,0.1,0.3,0.4,3,48,9,Bundesliga,2023-2024
+Kevin Vogt,de GER,DF,Union Berlin,31,1991,16,16,1323,14.7,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.1,1,41,1,Bundesliga,2023-2024
+Kevin Vogt,de GER,DF,Hoffenheim,31,1991,16,14,1319,14.7,0,0,0,0,0,0,2,0,0.7,0.7,0.1,0.8,16,84,12,Bundesliga,2023-2024
+Kevin Akpoguma,ng NGA,DF,Hoffenheim,28,1995,17,11,1097,12.2,0,0,0,0,0,0,7,0,0.3,0.3,0.3,0.6,10,55,9,Bundesliga,2023-2024
+Felix Agu,de GER,"DF,MF",Werder Bremen,23,1999,24,19,1614,17.9,0,0,0,0,0,0,2,0,0.9,0.9,0.6,1.5,32,32,90,Bundesliga,2023-2024
+Junior Adamu,at AUT,"FW,MF",Freiburg,22,2001,15,0,105,1.2,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,1,1,5,Bundesliga,2023-2024
+Paxten Aaronson,us USA,MF,Eint Frankfurt,19,2003,7,1,101,1.1,0,1,1,0,0,0,0,0,0.1,0.1,0.1,0.2,2,5,7,Bundesliga,2023-2024
+Elias Baum,de GER,"DF,MF",Eint Frankfurt,17,2005,4,0,28,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,2,Bundesliga,2023-2024
+Jacob Christensen,dk DEN,MF,Köln,22,2001,7,2,219,2.4,0,0,0,0,0,0,1,0,0.0,0.0,0.1,0.1,2,12,1,Bundesliga,2023-2024
+Fabio Chiarodia,it ITA,DF,Gladbach,18,2005,7,1,152,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,0,4,1,Bundesliga,2023-2024
+Timothy Chandler,us USA,"MF,DF",Eint Frankfurt,33,1990,6,0,18,0.2,0,1,1,0,0,0,0,0,0.1,0.1,0.1,0.2,1,5,10,Bundesliga,2023-2024
+El Chadaille Bitshiabu,fr FRA,"DF,MF",RB Leipzig,18,2005,6,0,34,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,1,5,Bundesliga,2023-2024
+Julian Chabot,de GER,DF,Köln,25,1998,32,32,2703,30.0,0,0,0,0,0,0,9,1,1.4,1.4,0.4,1.8,17,71,8,Bundesliga,2023-2024
+Koen Casteels,be BEL,GK,Wolfsburg,31,1992,25,25,2250,25.0,0,0,0,0,0,0,2,0,0.0,0.0,0.2,0.2,0,1,0,Bundesliga,2023-2024
+Fabio Carvalho,pt POR,MF,RB Leipzig,20,2002,9,1,165,1.8,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.5,8,9,13,Bundesliga,2023-2024
+Rasmus Carstensen,dk DEN,"DF,FW",Köln,22,2000,23,18,1659,18.4,0,0,0,0,0,0,2,1,0.9,0.9,2.6,3.5,32,52,89,Bundesliga,2023-2024
+Irvin Cardona,fr FRA,"MF,DF",Augsburg,25,1997,3,0,54,0.6,0,0,0,0,0,0,1,0,0.2,0.2,0.0,0.2,3,2,6,Bundesliga,2023-2024
+Hendry Blank,de GER,DF,Dortmund,18,2004,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2023-2024
+Oliver Burke,sct SCO,FW,Werder Bremen,26,1997,1,0,32,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,1,Bundesliga,2023-2024
+Alexander Brunst,de GER,GK,Darmstadt 98,28,1995,3,3,270,3.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Bennit Bröger,de GER,FW,Wolfsburg,17,2006,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Maximilian Breunig,de GER,FW,Freiburg,22,2000,2,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Tim Breithaupt,de GER,MF,Augsburg,21,2002,16,6,629,7.0,0,0,0,0,0,0,3,0,0.1,0.1,0.1,0.2,0,21,2,Bundesliga,2023-2024
+Fabian Bredlow,de GER,GK,Stuttgart,28,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Sebastiaan Bornauw,be BEL,DF,Wolfsburg,24,1999,20,16,1431,15.9,0,0,0,0,0,0,5,0,0.8,0.8,0.4,1.2,2,41,2,Bundesliga,2023-2024
+Yvandro Borges Sanches,lu LUX,"MF,FW",Gladbach,19,2004,3,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,0,Bundesliga,2023-2024
+Sacha Boey,fr FRA,DF,Bayern Munich,22,2000,2,1,109,1.2,0,0,0,0,0,0,1,0,0.2,0.2,0.0,0.2,1,5,8,Bundesliga,2023-2024
+Janis Blaswich,de GER,GK,RB Leipzig,32,1991,21,21,1890,21.0,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,0,3,0,Bundesliga,2023-2024
+Marnon Busch,de GER,DF,Heidenheim,28,1994,16,5,595,6.6,0,0,0,0,0,0,1,0,0.1,0.1,0.3,0.4,15,34,27,Bundesliga,2023-2024
+Marko Mladenović,rs SRB,MF,Eint Frankfurt,18,2005,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Bundesliga,2023-2024
+Jovan Milošević,rs SRB,"FW,MF",Stuttgart,18,2005,5,0,28,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,1,3,Bundesliga,2023-2024
+Alexander Meyer,de GER,GK,Dortmund,32,1991,8,7,695,7.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2023-2024
+Thomas Meunier,be BEL,DF,Dortmund,31,1991,8,7,586,6.5,0,0,0,0,0,0,0,0,0.5,0.5,0.6,1.2,21,33,25,Bundesliga,2023-2024
+Nathanael Mbuku,cd COD,FW,Augsburg,21,2002,1,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.1,1,1,4,Bundesliga,2023-2024
+Noah Mbamba,be BEL,MF,Leverkusen,18,2005,3,0,16,0.2,0,1,1,0,0,0,0,0,0.0,0.0,0.6,0.6,1,2,1,Bundesliga,2023-2024
+Kevin Mbabu,ch SUI,DF,Augsburg,28,1995,25,22,2047,22.7,0,2,2,0,0,0,5,0,0.1,0.1,1.9,2.1,70,84,106,Bundesliga,2023-2024
+Noussair Mazraoui,ma MAR,DF,Bayern Munich,25,1997,19,15,1197,13.3,0,3,3,0,0,0,3,0,0.9,0.9,1.8,2.6,34,103,79,Bundesliga,2023-2024
+Jean Mattéo Bahoya,fr FRA,"MF,FW",Eint Frankfurt,18,2005,8,1,177,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,6,3,22,Bundesliga,2023-2024
+Fabian Holland,de GER,"MF,DF",Darmstadt 98,33,1990,23,23,1835,20.4,0,2,2,0,0,0,4,1,0.6,0.6,1.5,2.1,11,87,47,Bundesliga,2023-2024
+Erhan Mašović,rs SRB,"DF,MF",Bochum,24,1998,29,24,2219,24.7,0,0,0,0,0,0,7,0,1.1,1.1,0.3,1.4,15,47,10,Bundesliga,2023-2024
+Braydon Manu,gh GHA,MF,Darmstadt 98,26,1997,4,3,171,1.9,0,0,0,0,0,0,1,0,0.4,0.4,0.1,0.4,5,1,9,Bundesliga,2023-2024
+David Mamutovic,de GER,"FW,DF",Mainz 05,22,2000,2,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Jordy Makengo,fr FRA,DF,Freiburg,21,2001,20,10,1026,11.4,0,0,0,0,0,0,1,0,0.2,0.2,0.2,0.4,27,52,34,Bundesliga,2023-2024
+Senne Lynen,be BEL,MF,Werder Bremen,24,1999,32,20,1797,20.0,0,3,3,0,0,0,6,0,0.4,0.4,1.8,2.2,10,66,28,Bundesliga,2023-2024
+Andreas Luthe,de GER,GK,Bochum,36,1987,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Noah Loosli,ch SUI,DF,Bochum,26,1997,10,2,346,3.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,1,6,3,Bundesliga,2023-2024
+Dejan Ljubicic,at AUT,"MF,FW",Köln,25,1997,26,24,2048,22.8,0,2,2,0,0,0,6,0,1.9,1.9,3.0,4.9,41,84,73,Bundesliga,2023-2024
+Jesper Lindstrøm,dk DEN,FW,Eint Frankfurt,23,2000,1,1,83,0.9,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.2,2,1,9,Bundesliga,2023-2024
+Roberto Massimo,de GER,"FW,DF",Stuttgart,22,2000,5,0,84,0.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,3,3,6,Bundesliga,2023-2024
+Jonas Omlin,ch SUI,GK,Gladbach,29,1994,7,7,630,7.0,0,1,1,0,0,0,1,0,0.0,0.0,0.4,0.4,0,0,0,Bundesliga,2023-2024
+Mathias Olesen,lu LUX,"MF,FW",Köln,22,2001,6,0,112,1.2,0,0,0,0,0,0,2,1,0.0,0.0,0.0,0.0,2,7,2,Bundesliga,2023-2024
+Finn Ole Becker,de GER,MF,Hoffenheim,23,2000,22,5,606,6.7,0,0,0,0,0,0,1,0,0.2,0.2,0.4,0.6,16,36,23,Bundesliga,2023-2024
+Masaya Okugawa,jp JPN,"FW,DF",Augsburg,27,1996,2,0,32,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,2,Bundesliga,2023-2024
+Tim Oermann,de GER,DF,Bochum,19,2003,16,8,714,7.9,0,0,0,0,0,0,2,0,0.1,0.1,0.3,0.4,6,25,7,Bundesliga,2023-2024
+Kasim Nuhu,gh GHA,DF,Hoffenheim,28,1995,1,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Alexander Nübel,de GER,GK,Stuttgart,26,1996,30,30,2700,30.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2023-2024
+Jonathan Norbye,no NOR,MF,RB Leipzig,16,2007,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Moritz Nicolas,de GER,GK,Gladbach,25,1997,27,27,2430,27.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Max Moerstedt,de GER,"DF,FW",Hoffenheim,,,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Bundesliga,2023-2024
+Jessic Ngankam,de GER,"FW,MF",Mainz 05,23,2000,7,2,184,2.0,0,0,0,0,0,0,0,1,0.6,0.6,0.3,0.9,3,1,11,Bundesliga,2023-2024
+Manuel Neuer,de GER,GK,Bayern Munich,37,1986,23,23,2053,22.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,8,0,Bundesliga,2023-2024
+Luca Netz,de GER,DF,Gladbach,20,2003,30,25,2225,24.7,0,4,4,0,0,0,2,0,1.0,1.0,3.0,3.9,46,81,99,Bundesliga,2023-2024
+Stanley N'Soki,fr FRA,DF,Hoffenheim,24,1999,11,7,631,7.0,0,0,0,0,0,0,3,1,0.0,0.0,0.1,0.1,7,37,14,Bundesliga,2023-2024
+Florent Muslija,xk KVX,"MF,FW",Freiburg,25,1998,10,0,105,1.2,0,0,0,0,0,0,0,0,0.1,0.1,0.6,0.6,6,13,7,Bundesliga,2023-2024
+Marcus Müller,de GER,MF,Mainz 05,20,2002,1,0,18,0.2,0,0,0,0,0,0,0,0,0.1,0.1,0.0,0.1,0,1,0,Bundesliga,2023-2024
+Kevin Müller,de GER,GK,Heidenheim,32,1991,34,34,3060,34.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Jannik Müller,de GER,"DF,MF",Darmstadt 98,29,1994,16,12,1134,12.6,0,0,0,0,0,0,5,0,0.2,0.2,0.1,0.3,8,31,7,Bundesliga,2023-2024
+Andreas Müller,de GER,MF,Darmstadt 98,23,2000,11,2,349,3.9,0,0,0,0,0,0,3,0,0.1,0.1,0.0,0.1,3,13,7,Bundesliga,2023-2024
+Mateu Morey,es ESP,DF,Dortmund,23,2000,3,2,110,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,3,6,4,Bundesliga,2023-2024
+Jessic Ngankam,de GER,FW,Eint Frankfurt,23,2000,15,2,280,3.1,0,0,0,0,0,1,2,0,1.5,0.7,0.0,0.7,2,1,17,Bundesliga,2023-2024
+Atakan Karazor,,MF,Stuttgart,26,1996,33,31,2623,29.1,0,4,4,0,0,0,9,0,1.0,1.0,2.6,3.6,24,142,31,Bundesliga,2023-2024
+Jakub Kamiński,pl POL,"FW,MF",Wolfsburg,21,2002,17,4,473,5.3,0,2,2,0,0,0,0,0,0.5,0.5,0.7,1.1,13,18,53,Bundesliga,2023-2024
+Sasa Kalajdzic,at AUT,FW,Eint Frankfurt,26,1997,5,5,325,3.6,0,1,1,0,0,0,0,0,0.2,0.2,0.5,0.7,1,8,9,Bundesliga,2023-2024
+Julian Justvan,de GER,"FW,MF",Hoffenheim,25,1998,4,0,49,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,5,12,Bundesliga,2023-2024
+David Jurásek,cz CZE,DF,Hoffenheim,22,2000,13,4,496,5.5,0,1,1,0,0,0,1,0,0.2,0.2,1.0,1.1,12,12,38,Bundesliga,2023-2024
+Josip Juranović,hr CRO,DF,Union Berlin,27,1995,21,14,1294,14.4,0,2,2,0,0,1,4,0,1.4,0.6,2.3,2.9,22,52,46,Bundesliga,2023-2024
+Moritz Jenz,de GER,DF,Wolfsburg,24,1999,22,21,1742,19.4,0,1,1,0,0,0,7,1,0.3,0.3,0.3,0.6,2,47,4,Bundesliga,2023-2024
+Nuha Jatta,gm GAM,FW,RB Leipzig,17,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Tony Jantschke,de GER,"DF,MF",Gladbach,33,1990,4,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,2,0,Bundesliga,2023-2024
+Christopher Lenz,de GER,DF,Eint Frankfurt,28,1994,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2023-2024
+Paul Jaeckel,de GER,DF,Union Berlin,25,1998,6,2,234,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,1,14,1,Bundesliga,2023-2024
+Hiroki Ito,jp JPN,DF,Stuttgart,24,1999,26,25,2228,24.8,0,2,2,0,0,0,1,0,0.9,0.9,2.0,2.9,29,121,32,Bundesliga,2023-2024
+Thomas Isherwood,se SWE,DF,Darmstadt 98,25,1998,12,8,636,7.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,6,11,1,Bundesliga,2023-2024
+Joel Imasuen,us USA,FW,Werder Bremen,18,2004,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Borja Iglesias,es ESP,FW,Leverkusen,30,1993,7,2,256,2.8,0,0,0,0,0,0,0,0,1.4,1.4,0.3,1.6,3,5,19,Bundesliga,2023-2024
+Denis Huseinbasic,ba BIH,MF,Köln,22,2001,26,18,1627,18.1,0,3,3,0,0,0,5,0,0.3,0.3,0.7,1.0,35,93,29,Bundesliga,2023-2024
+Timo Hübers,de GER,DF,Köln,27,1996,31,31,2778,30.9,0,0,0,0,0,0,6,0,1.8,1.8,0.5,2.3,19,104,3,Bundesliga,2023-2024
+Lukáš Hrádecký,fi FIN,GK,Leverkusen,33,1989,33,33,2970,33.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,1,0,Bundesliga,2023-2024
+Fraser Hornby,sct SCO,"FW,MF",Darmstadt 98,23,1999,7,1,217,2.4,0,0,0,0,0,0,1,0,0.7,0.7,0.3,1.0,7,2,7,Bundesliga,2023-2024
+Gerrit Holtmann,ph PHI,"MF,FW",Darmstadt 98,28,1995,10,2,392,4.4,0,0,0,0,0,0,1,0,0.6,0.6,0.3,0.9,13,18,20,Bundesliga,2023-2024
+Kristijan Jakić,hr CRO,"MF,FW",Eint Frankfurt,26,1997,4,1,200,2.2,0,0,0,0,0,0,1,0,0.0,0.0,0.2,0.2,3,11,9,Bundesliga,2023-2024
+Christopher Lenz,de GER,"DF,MF",RB Leipzig,28,1994,5,0,47,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.1,1,2,7,Bundesliga,2023-2024
+Maxim Leitsch,de GER,DF,Mainz 05,25,1998,7,4,379,4.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,7,0,Bundesliga,2023-2024
+Diogo Leite,pt POR,DF,Union Berlin,24,1999,32,31,2702,30.0,0,0,0,0,0,0,6,0,0.8,0.8,0.2,1.0,14,121,4,Bundesliga,2023-2024
+Stefan Lainer,at AUT,"DF,MF",Gladbach,30,1992,15,8,751,8.3,0,1,1,0,0,0,2,0,0.2,0.2,0.7,0.9,15,37,31,Bundesliga,2023-2024
+Konrad Laimer,at AUT,"DF,MF",Bayern Munich,26,1997,29,18,1772,19.7,0,3,3,0,0,0,3,0,1.0,1.0,3.9,4.9,62,127,98,Bundesliga,2023-2024
+Aïssa Laïdouni,tn TUN,MF,Union Berlin,26,1996,23,10,1071,11.9,0,3,3,0,0,0,2,0,0.7,0.7,1.0,1.7,24,56,41,Bundesliga,2023-2024
+Moritz-Broni Kwarteng,gh GHA,FW,Bochum,25,1998,11,2,281,3.1,0,1,1,0,0,0,1,1,1.0,1.0,0.5,1.6,8,6,24,Bundesliga,2023-2024
+Mahmut Kücüksahin,,MF,Augsburg,19,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Frans Krätzig,de GER,DF,Bayern Munich,20,2003,4,0,56,0.6,0,0,0,0,0,0,0,0,0.3,0.3,0.3,0.5,0,7,7,Bundesliga,2023-2024
+Emir Karic,at AUT,DF,Darmstadt 98,26,1997,27,18,1783,19.8,0,0,0,0,0,0,4,0,0.4,0.4,1.3,1.7,56,115,85,Bundesliga,2023-2024
+Alex Král,cz CZE,MF,Union Berlin,25,1998,24,13,1370,15.2,0,0,0,0,0,0,2,0,1.7,1.7,0.4,2.0,15,44,41,Bundesliga,2023-2024
+Dawid Kownacki,pl POL,FW,Werder Bremen,26,1997,22,3,380,4.2,0,0,0,0,0,0,0,0,1.3,1.3,0.4,1.6,5,10,26,Bundesliga,2023-2024
+Matej Kovar,cz CZE,GK,Leverkusen,23,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Tomáš Koubek,cz CZE,GK,Augsburg,30,1992,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Gregor Kobel,ch SUI,GK,Dortmund,25,1997,27,27,2365,26.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,Bundesliga,2023-2024
+Luca Kilian,de GER,DF,Köln,23,1999,13,6,635,7.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,7,12,1,Bundesliga,2023-2024
+Rani Khedira,de GER,MF,Union Berlin,29,1994,20,18,1343,14.9,0,0,0,0,0,0,5,1,0.4,0.4,0.1,0.5,6,35,15,Bundesliga,2023-2024
+Aljoscha Kemlein,de GER,MF,Union Berlin,18,2004,2,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,1,Bundesliga,2023-2024
+Thomas Keller,de GER,"MF,FW",Heidenheim,23,1999,2,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,2,0,Bundesliga,2023-2024
+Naby Keïta,gn GUI,"MF,DF",Werder Bremen,28,1995,5,1,109,1.2,0,0,0,0,0,0,2,0,0.1,0.1,0.0,0.1,1,13,4,Bundesliga,2023-2024
+Christoph Kramer,de GER,MF,Gladbach,32,1991,14,1,249,2.8,0,0,0,0,0,0,4,0,0.1,0.1,0.1,0.2,10,17,8,Bundesliga,2023-2024
