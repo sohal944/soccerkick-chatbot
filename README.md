@@ -5,7 +5,7 @@ An advanced AI-powered chatbot that delivers real-time football insights, built 
 Whether it's live scores, player stats, team standings, or upcoming fixtures — SoccerKick answers it all, intelligently.
 
 ---
-#Interface
+# Interface
 <img width="1470" alt="Screenshot 2025-04-18 at 5 37 13 AM" src="https://github.com/user-attachments/assets/46cc0304-781b-426d-a597-9f8e9180e5f7" />
 
 
@@ -22,7 +22,7 @@ Whether it's live scores, player stats, team standings, or upcoming fixtures —
   - Fixtures
 - 🌐 Modular Agent Framework (LangChain-style)
 
-#Using Pathway
+# Using Pathway
 <img width="1145" alt="Screenshot 2025-04-18 at 3 44 43 AM" src="https://github.com/user-attachments/assets/a2559a6c-2b75-49fb-85a6-6c4191b9127e" />
 
 ---
